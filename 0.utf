@@ -2495,1246 +2495,1246 @@ numalias BU2_last_number,%0 :inc %0	;未来戦人の表情の番号の終端
 
 ;EP7追加
 
-stralias cats_eye1a,"BMP\background\efe\cats_eye1a.bmp"	;猫の目の宝石
-stralias cats_eye1b,"BMP\background\efe\cats_eye1b.bmp"	;猫の目の宝石
-stralias cats_eye1c,"BMP\background\efe\cats_eye1c.bmp"	;猫の目の宝石
-stralias cats_eye1d,"BMP\background\efe\cats_eye1d.bmp"	;猫の目の宝石
-stralias cats_eye2a,"BMP\background\efe\cats_eye2a.bmp"	;猫の目の宝石
-stralias cats_eye2b,"BMP\background\efe\cats_eye2b.bmp"	;猫の目の宝石
-stralias cats_eye2c,"BMP\background\efe\cats_eye2c.bmp"	;猫の目の宝石
+stralias cats_eye1a,":b;BMP\background\efe\cats_eye1a.png"	;猫の目の宝石
+stralias cats_eye1b,":b;BMP\background\efe\cats_eye1b.png"	;猫の目の宝石
+stralias cats_eye1c,":b;BMP\background\efe\cats_eye1c.png"	;猫の目の宝石
+stralias cats_eye1d,":b;BMP\background\efe\cats_eye1d.png"	;猫の目の宝石
+stralias cats_eye2a,":b;BMP\background\efe\cats_eye2a.png"	;猫の目の宝石
+stralias cats_eye2b,":b;BMP\background\efe\cats_eye2b.png"	;猫の目の宝石
+stralias cats_eye2c,":b;BMP\background\efe\cats_eye2c.png"	;猫の目の宝石
 
-stralias cats_mouth,"BMP\background\efe\cats_mouth.bmp"	;猫の目の宝石
+stralias cats_mouth,":b;BMP\background\efe\cats_mouth.png"	;猫の目の宝石
 
-stralias Gsta_1aN,"BMP\background\guesthouse\Gsta_1aN.bmp"  ;階段（最上階）　１枚目　staircase　夜
+stralias Gsta_1aN,":b;BMP\background\guesthouse\Gsta_1aN.png"  ;階段（最上階）　１枚目　staircase　夜
 
-stralias TEXT008,"BMP\background\efe\TEXT008.bmp"	
+stralias TEXT008,":b;BMP\background\efe\TEXT008.png"	
 
-stralias sub_clock1a,"BMP\background\subway\sub_clock1a.bmp"	;黄金部屋の時計
-stralias sub_clock1b,"BMP\background\subway\sub_clock1b.bmp"	;黄金部屋の時計
-stralias sub_clock1c,"BMP\background\subway\sub_clock1c.bmp"	;黄金部屋の時計
-stralias sub_clock1d,"BMP\background\subway\sub_clock1d.bmp"	;黄金部屋の時計
+stralias sub_clock1a,":b;BMP\background\subway\sub_clock1a.png"	;黄金部屋の時計
+stralias sub_clock1b,":b;BMP\background\subway\sub_clock1b.png"	;黄金部屋の時計
+stralias sub_clock1c,":b;BMP\background\subway\sub_clock1c.png"	;黄金部屋の時計
+stralias sub_clock1d,":b;BMP\background\subway\sub_clock1d.png"	;黄金部屋の時計
 
-stralias forest_P3a,"BMP\background\forest\forest_P3a.bmp"	;森の道
-stralias forest_P3b,"BMP\background\forest\forest_P3b.bmp"	;森の道
+stralias forest_P3a,":b;BMP\background\forest\forest_P3a.png"	;森の道
+stralias forest_P3b,":b;BMP\background\forest\forest_P3b.png"	;森の道
 
-stralias Sword_1aB,"BMP\background\efe\Sword_1aB.bmp"  ;ウィルの黒い刃
+stralias Sword_1aB,":b;BMP\background\efe\Sword_1aB.png"  ;ウィルの黒い刃
 
-stralias BLADE1W,"BMP\background\efe\BLADE1W.bmp"  ;剣戟　白１
-stralias BLADE2W,"BMP\background\efe\BLADE2W.bmp"  ;剣戟　白２
-stralias BLADE3W,"BMP\background\efe\BLADE3W.bmp"  ;剣戟　白３
-stralias BLADE4W,"BMP\background\efe\BLADE4W.bmp"  ;剣戟　白４
-stralias BLADE5W,"BMP\background\efe\BLADE5W.bmp"  ;剣戟　白５
-stralias BLADE6_1W,"BMP\background\efe\BLADE6_1W.bmp";剣戟　白６−１：振り上げ
-stralias BLADE6_2W,"BMP\background\efe\BLADE6_2W.bmp";剣戟　白６−２：大斬り！
-stralias BLADE7_1W,"BMP\background\efe\BLADE7_1W.bmp";剣戟　白７−１：振り上げ
-stralias BLADE7_2W,"BMP\background\efe\BLADE7_2W.bmp";剣戟　白７−２：大斬り！
-stralias BLADE8_1W,"BMP\background\efe\BLADE8_1W.bmp";剣戟　白８−１：太刀右下
-stralias BLADE8_2W,"BMP\background\efe\BLADE8_2W.bmp";剣戟　白８−２：太刀右上
-stralias BLADE8_3W,"BMP\background\efe\BLADE8_3W.bmp";剣戟　白８−３：太刀左下
-stralias BLADE8_4W,"BMP\background\efe\BLADE8_4W.bmp";剣戟　白８−４：太刀左上
+stralias BLADE1W,":b;BMP\background\efe\BLADE1W.png"  ;剣戟　白１
+stralias BLADE2W,":b;BMP\background\efe\BLADE2W.png"  ;剣戟　白２
+stralias BLADE3W,":b;BMP\background\efe\BLADE3W.png"  ;剣戟　白３
+stralias BLADE4W,":b;BMP\background\efe\BLADE4W.png"  ;剣戟　白４
+stralias BLADE5W,":b;BMP\background\efe\BLADE5W.png"  ;剣戟　白５
+stralias BLADE6_1W,":b;BMP\background\efe\BLADE6_1W.png";剣戟　白６−１：振り上げ
+stralias BLADE6_2W,":b;BMP\background\efe\BLADE6_2W.png";剣戟　白６−２：大斬り！
+stralias BLADE7_1W,":b;BMP\background\efe\BLADE7_1W.png";剣戟　白７−１：振り上げ
+stralias BLADE7_2W,":b;BMP\background\efe\BLADE7_2W.png";剣戟　白７−２：大斬り！
+stralias BLADE8_1W,":b;BMP\background\efe\BLADE8_1W.png";剣戟　白８−１：太刀右下
+stralias BLADE8_2W,":b;BMP\background\efe\BLADE8_2W.png";剣戟　白８−２：太刀右上
+stralias BLADE8_3W,":b;BMP\background\efe\BLADE8_3W.png";剣戟　白８−３：太刀左下
+stralias BLADE8_4W,":b;BMP\background\efe\BLADE8_4W.png";剣戟　白８−４：太刀左上
 
-stralias Glib_1bN,"BMP\background\guesthouse\Glib_1bN.bmp"  ;別館１Ｆ　書庫　夜
-stralias Glib_1cN,"BMP\background\guesthouse\Glib_1cN.bmp"  ;別館１Ｆ　書庫　上段　夜
+stralias Glib_1bN,":b;BMP\background\guesthouse\Glib_1bN.png"  ;別館１Ｆ　書庫　夜
+stralias Glib_1cN,":b;BMP\background\guesthouse\Glib_1cN.png"  ;別館１Ｆ　書庫　上段　夜
 
-stralias Glib_1bR,"BMP\background\guesthouse\Glib_1bR.bmp"  ;別館１Ｆ　書庫　夜
-stralias Glib_1cR,"BMP\background\guesthouse\Glib_1cR.bmp"  ;別館１Ｆ　書庫　上段　夜
+stralias Glib_1bR,":b;BMP\background\guesthouse\Glib_1bR.png"  ;別館１Ｆ　書庫　夜
+stralias Glib_1cR,":b;BMP\background\guesthouse\Glib_1cR.png"  ;別館１Ｆ　書庫　上段　夜
 
-stralias story_list0,"BMP\background\efe\story_list0.bmp"	;告白章の描き文字
-stralias story_list1,"BMP\background\efe\story_list1.bmp"	;告白章の描き文字
-stralias story_list2,"BMP\background\efe\story_list2.bmp"	;告白章の描き文字
-stralias story_list3,"BMP\background\efe\story_list3.bmp"	;告白章の描き文字
-stralias story_list4,"BMP\background\efe\story_list4.bmp"	;告白章の描き文字
-stralias story_list5,"BMP\background\efe\story_list5.bmp"	;告白章の描き文字
-stralias story_list6,"BMP\background\efe\story_list6.bmp"	;告白章の描き文字
-stralias story_list7,"BMP\background\efe\story_list7.bmp"	;告白章の描き文字
-stralias story_list8,"BMP\background\efe\story_list8.bmp"	;告白章の描き文字
-stralias story_list9,"BMP\background\efe\story_list9.bmp"	;告白章の描き文字
+stralias story_list0,":b;BMP\background\efe\story_list0.png"	;告白章の描き文字
+stralias story_list1,":b;BMP\background\efe\story_list1.png"	;告白章の描き文字
+stralias story_list2,":b;BMP\background\efe\story_list2.png"	;告白章の描き文字
+stralias story_list3,":b;BMP\background\efe\story_list3.png"	;告白章の描き文字
+stralias story_list4,":b;BMP\background\efe\story_list4.png"	;告白章の描き文字
+stralias story_list5,":b;BMP\background\efe\story_list5.png"	;告白章の描き文字
+stralias story_list6,":b;BMP\background\efe\story_list6.png"	;告白章の描き文字
+stralias story_list7,":b;BMP\background\efe\story_list7.png"	;告白章の描き文字
+stralias story_list8,":b;BMP\background\efe\story_list8.png"	;告白章の描き文字
+stralias story_list9,":b;BMP\background\efe\story_list9.png"	;告白章の描き文字
 
-stralias text13,"BMP\background\efe\text13.bmp"	;謎解き用描き文字
-stralias text14,"BMP\background\efe\text14.bmp"	;謎解き用描き文字
-stralias text15,"BMP\background\efe\text15.bmp"	;謎解き用描き文字
-stralias text16,"BMP\background\efe\text16.bmp"	;謎解き用描き文字
-stralias text17,"BMP\background\efe\text17.bmp"	;謎解き用描き文字
-stralias text18,"BMP\background\efe\text18.bmp"	;謎解き用描き文字
-stralias text19,"BMP\background\efe\text19.bmp"	;謎解き用描き文字
-stralias text20,"BMP\background\efe\text20.bmp"	;謎解き用描き文字
-stralias text21,"BMP\background\efe\text21.bmp"	;謎解き用描き文字
-stralias text21b,"BMP\background\efe\text21b.bmp"	;謎解き用描き文字
-stralias text22,"BMP\background\efe\text22.bmp"	;謎解き用描き文字
-stralias text23,"BMP\background\efe\text23.bmp"	;謎解き用描き文字
-stralias text24,"BMP\background\efe\text24.bmp"	;謎解き用描き文字
-stralias text25,"BMP\background\efe\text25.bmp"	;謎解き用描き文字
-stralias text26,"BMP\background\efe\text26.bmp"	;謎解き用描き文字
-stralias text27,"BMP\background\efe\text27.bmp"	;謎解き用描き文字
-stralias text28,"BMP\background\efe\text28.bmp"	;謎解き用描き文字
-stralias text29,"BMP\background\efe\text29.bmp"	;謎解き用描き文字
+stralias text13,":b;BMP\background\efe\text13.png"	;謎解き用描き文字
+stralias text14,":b;BMP\background\efe\text14.png"	;謎解き用描き文字
+stralias text15,":b;BMP\background\efe\text15.png"	;謎解き用描き文字
+stralias text16,":b;BMP\background\efe\text16.png"	;謎解き用描き文字
+stralias text17,":b;BMP\background\efe\text17.png"	;謎解き用描き文字
+stralias text18,":b;BMP\background\efe\text18.png"	;謎解き用描き文字
+stralias text19,":b;BMP\background\efe\text19.png"	;謎解き用描き文字
+stralias text20,":b;BMP\background\efe\text20.png"	;謎解き用描き文字
+stralias text21,":b;BMP\background\efe\text21.png"	;謎解き用描き文字
+stralias text21b,":b;BMP\background\efe\text21b.png"	;謎解き用描き文字
+stralias text22,":b;BMP\background\efe\text22.png"	;謎解き用描き文字
+stralias text23,":b;BMP\background\efe\text23.png"	;謎解き用描き文字
+stralias text24,":b;BMP\background\efe\text24.png"	;謎解き用描き文字
+stralias text25,":b;BMP\background\efe\text25.png"	;謎解き用描き文字
+stralias text26,":b;BMP\background\efe\text26.png"	;謎解き用描き文字
+stralias text27,":b;BMP\background\efe\text27.png"	;謎解き用描き文字
+stralias text28,":b;BMP\background\efe\text28.png"	;謎解き用描き文字
+stralias text29,":b;BMP\background\efe\text29.png"	;謎解き用描き文字
 
 
 ;dormitory		寮
-stralias dor_R1a,"BMP\background\city\dor_R1a.bmp"	;ヤスの部屋
-stralias dor_R1aN,"BMP\background\city\dor_R1aN.bmp"	;ヤスの部屋　夜
-stralias dor_R1aR,"BMP\background\city\dor_R1aR.bmp"	;ヤスの部屋　雨
-stralias dor_R1b,"BMP\background\city\dor_R1b.bmp"	;ヤスの部屋
-stralias dor_R1bN,"BMP\background\city\dor_R1bN.bmp"	;ヤスの部屋　夜
-stralias dor_R1bR,"BMP\background\city\dor_R1bR.bmp"	;ヤスの部屋　雨
-stralias dor_R1c,"BMP\background\city\dor_R1c.bmp"	;ヤスの部屋
-stralias dor_R1cN,"BMP\background\city\dor_R1cN.bmp"	;ヤスの部屋　夜
-stralias dor_R1cR,"BMP\background\city\dor_R1cR.bmp"	;ヤスの部屋　雨
-stralias dor_R1d,"BMP\background\city\dor_R1d.bmp"	;ヤスの部屋　天井
-stralias dor_R1dN,"BMP\background\city\dor_R1dN.bmp"	;ヤスの部屋　天井　夜
-stralias dor_R1dR,"BMP\background\city\dor_R1dR.bmp"	;ヤスの部屋　天井　夜
+stralias dor_R1a,":b;BMP\background\city\dor_R1a.png"	;ヤスの部屋
+stralias dor_R1aN,":b;BMP\background\city\dor_R1aN.png"	;ヤスの部屋　夜
+stralias dor_R1aR,":b;BMP\background\city\dor_R1aR.png"	;ヤスの部屋　雨
+stralias dor_R1b,":b;BMP\background\city\dor_R1b.png"	;ヤスの部屋
+stralias dor_R1bN,":b;BMP\background\city\dor_R1bN.png"	;ヤスの部屋　夜
+stralias dor_R1bR,":b;BMP\background\city\dor_R1bR.png"	;ヤスの部屋　雨
+stralias dor_R1c,":b;BMP\background\city\dor_R1c.png"	;ヤスの部屋
+stralias dor_R1cN,":b;BMP\background\city\dor_R1cN.png"	;ヤスの部屋　夜
+stralias dor_R1cR,":b;BMP\background\city\dor_R1cR.png"	;ヤスの部屋　雨
+stralias dor_R1d,":b;BMP\background\city\dor_R1d.png"	;ヤスの部屋　天井
+stralias dor_R1dN,":b;BMP\background\city\dor_R1dN.png"	;ヤスの部屋　天井　夜
+stralias dor_R1dR,":b;BMP\background\city\dor_R1dR.png"	;ヤスの部屋　天井　夜
 
-stralias dor_P1a,"BMP\background\city\dor_P1a.bmp"	;寮の廊下
-stralias dor_P1b,"BMP\background\city\dor_P1b.bmp"	;寮の廊下
+stralias dor_P1a,":b;BMP\background\city\dor_P1a.png"	;寮の廊下
+stralias dor_P1b,":b;BMP\background\city\dor_P1b.png"	;寮の廊下
 
-stralias Mhal_3a,"BMP\background\mainbuilding\Mhal_3a.bmp"	;どこかの大広間　室内
-stralias Mhal_3b,"BMP\background\mainbuilding\Mhal_3b.bmp"	;どこかの大広間　室内
-stralias Mhal_3c,"BMP\background\mainbuilding\Mhal_3c.bmp"	;どこかの大広間　室内
-stralias Mhal_3d,"BMP\background\mainbuilding\Mhal_3d.bmp"	;どこかの大広間　室内　天井
+stralias Mhal_3a,":b;BMP\background\mainbuilding\Mhal_3a.png"	;どこかの大広間　室内
+stralias Mhal_3b,":b;BMP\background\mainbuilding\Mhal_3b.png"	;どこかの大広間　室内
+stralias Mhal_3c,":b;BMP\background\mainbuilding\Mhal_3c.png"	;どこかの大広間　室内
+stralias Mhal_3d,":b;BMP\background\mainbuilding\Mhal_3d.png"	;どこかの大広間　室内　天井
 
-stralias one_year_later,"BMP\background\efe\one_year_later.bmp"	;一年後　書き文字
-stralias years_1980,"BMP\background\efe\years_1980.bmp"	;1980年　書き文字
-stralias years_1981,"BMP\background\efe\years_1981.bmp"	;1981年　書き文字
-stralias years_1982,"BMP\background\efe\years_1982.bmp"	;1982年　書き文字
-stralias years_1983,"BMP\background\efe\years_1983.bmp"	;1983年　書き文字
-stralias years_1984,"BMP\background\efe\years_1984.bmp"	;1984年　書き文字
-stralias years_1985,"BMP\background\efe\years_1985.bmp"	;1985年　書き文字
+stralias one_year_later,":b;BMP\background\efe\one_year_later.png"	;一年後　書き文字
+stralias years_1980,":b;BMP\background\efe\years_1980.png"	;1980年　書き文字
+stralias years_1981,":b;BMP\background\efe\years_1981.png"	;1981年　書き文字
+stralias years_1982,":b;BMP\background\efe\years_1982.png"	;1982年　書き文字
+stralias years_1983,":b;BMP\background\efe\years_1983.png"	;1983年　書き文字
+stralias years_1984,":b;BMP\background\efe\years_1984.png"	;1984年　書き文字
+stralias years_1985,":b;BMP\background\efe\years_1985.png"	;1985年　書き文字
 
-stralias cit_5a,"BMP\background\city\cit_5a.bmp"	;どこかの町並み
-stralias cit_5aY,"BMP\background\city\cit_5aY.bmp"	;どこかの町並み　夕暮れ
-stralias cit_5aN,"BMP\background\city\cit_5aN.bmp"	;どこかの町並み　夜
-stralias cit_5b,"BMP\background\city\cit_5b.bmp"	;どこかの町並み　街灯
-stralias cit_5bN,"BMP\background\city\cit_5bN.bmp"	;どこかの町並み　街灯　夜
-stralias cit_5c,"BMP\background\city\cit_5c.bmp"	;どこかの町並み　
-stralias cit_5cN,"BMP\background\city\cit_5cN.bmp"	;どこかの町並み　夜
+stralias cit_5a,":b;BMP\background\city\cit_5a.png"	;どこかの町並み
+stralias cit_5aY,":b;BMP\background\city\cit_5aY.png"	;どこかの町並み　夕暮れ
+stralias cit_5aN,":b;BMP\background\city\cit_5aN.png"	;どこかの町並み　夜
+stralias cit_5b,":b;BMP\background\city\cit_5b.png"	;どこかの町並み　街灯
+stralias cit_5bN,":b;BMP\background\city\cit_5bN.png"	;どこかの町並み　街灯　夜
+stralias cit_5c,":b;BMP\background\city\cit_5c.png"	;どこかの町並み　
+stralias cit_5cN,":b;BMP\background\city\cit_5cN.png"	;どこかの町並み　夜
 
-stralias Oda_R1a,"BMP\background\city\Oda_R1a.bmp"	;小田原の長老達の部屋（畳？）
+stralias Oda_R1a,":b;BMP\background\city\Oda_R1a.png"	;小田原の長老達の部屋（畳？）
 
-stralias Submarine_o1a,"BMP\background\subway\Submarine_o1a.bmp"	;潜水艦　外見
-stralias Submarine_i1a,"BMP\background\subway\Submarine_i1a.bmp"	;潜水艦　内面
-stralias sub_P2a,"BMP\background\subway\sub_P2a.bmp"	;地下洞窟の通路
-stralias sub_P2b,"BMP\background\subway\sub_P2b.bmp"	;地下洞窟の通路
-stralias sub_P2c,"BMP\background\subway\sub_P2c.bmp"	;地下洞窟の通路
+stralias Submarine_o1a,":b;BMP\background\subway\Submarine_o1a.png"	;潜水艦　外見
+stralias Submarine_i1a,":b;BMP\background\subway\Submarine_i1a.png"	;潜水艦　内面
+stralias sub_P2a,":b;BMP\background\subway\sub_P2a.png"	;地下洞窟の通路
+stralias sub_P2b,":b;BMP\background\subway\sub_P2b.png"	;地下洞窟の通路
+stralias sub_P2c,":b;BMP\background\subway\sub_P2c.png"	;地下洞窟の通路
 
-stralias sub_P3a,"BMP\background\subway\sub_P3a.bmp"	;地下秘密基地の通路
-stralias sub_P3b,"BMP\background\subway\sub_P3b.bmp"	;地下秘密基地の通路
-stralias sub_P3c,"BMP\background\subway\sub_P3c.bmp"	;地下秘密基地の通路（天井）
+stralias sub_P3a,":b;BMP\background\subway\sub_P3a.png"	;地下秘密基地の通路
+stralias sub_P3b,":b;BMP\background\subway\sub_P3b.png"	;地下秘密基地の通路
+stralias sub_P3c,":b;BMP\background\subway\sub_P3c.png"	;地下秘密基地の通路（天井）
 
-stralias sub_R2a,"BMP\background\subway\sub_R2a.bmp"  ;秘密基地　室内
-stralias sub_R2b,"BMP\background\subway\sub_R2b.bmp"  ;
-stralias sub_R2c,"BMP\background\subway\sub_R2c.bmp"  ;
-stralias sub_R2d,"BMP\background\subway\sub_R2d.bmp"  ;秘密基地　室内　天井
+stralias sub_R2a,":b;BMP\background\subway\sub_R2a.png"  ;秘密基地　室内
+stralias sub_R2b,":b;BMP\background\subway\sub_R2b.png"  ;
+stralias sub_R2c,":b;BMP\background\subway\sub_R2c.png"  ;
+stralias sub_R2d,":b;BMP\background\subway\sub_R2d.png"  ;秘密基地　室内　天井
 
-stralias sub_R3a,"BMP\background\subway\sub_R3a.bmp"  ;秘密基地　室内
-stralias sub_R3b,"BMP\background\subway\sub_R3b.bmp"  ;
+stralias sub_R3a,":b;BMP\background\subway\sub_R3a.png"  ;秘密基地　室内
+stralias sub_R3b,":b;BMP\background\subway\sub_R3b.png"  ;
 
-stralias cha_i1j,"BMP\background\chapel\cha_i1j.bmp"  ;礼拝堂　内部　天井　１０枚目
-stralias cha_i1l,"BMP\background\chapel\cha_i1l.bmp"  ;礼拝堂　内部　天井　１２枚目
-stralias cha_i1m,"BMP\background\chapel\cha_i1m.bmp"  ;礼拝堂　内部　天井　１３枚目
-stralias cha_i1n,"BMP\background\chapel\cha_i1n.bmp"  ;礼拝堂　内部　天井　１４枚目
-stralias cha_i1o,"BMP\background\chapel\cha_i1o.bmp"  ;礼拝堂　内部　正面　１５枚目
-stralias cha_i1p,"BMP\background\chapel\cha_i1p.bmp"  ;礼拝堂　内部　１６枚目
-stralias cha_i1q,"BMP\background\chapel\cha_i1q.bmp"  ;礼拝堂　内部　１７枚目
-stralias cha_i1r,"BMP\background\chapel\cha_i1r.bmp"  ;礼拝堂　内部　１８枚目
+stralias cha_i1j,":b;BMP\background\chapel\cha_i1j.png"  ;礼拝堂　内部　天井　１０枚目
+stralias cha_i1l,":b;BMP\background\chapel\cha_i1l.png"  ;礼拝堂　内部　天井　１２枚目
+stralias cha_i1m,":b;BMP\background\chapel\cha_i1m.png"  ;礼拝堂　内部　天井　１３枚目
+stralias cha_i1n,":b;BMP\background\chapel\cha_i1n.png"  ;礼拝堂　内部　天井　１４枚目
+stralias cha_i1o,":b;BMP\background\chapel\cha_i1o.png"  ;礼拝堂　内部　正面　１５枚目
+stralias cha_i1p,":b;BMP\background\chapel\cha_i1p.png"  ;礼拝堂　内部　１６枚目
+stralias cha_i1q,":b;BMP\background\chapel\cha_i1q.png"  ;礼拝堂　内部　１７枚目
+stralias cha_i1r,":b;BMP\background\chapel\cha_i1r.png"  ;礼拝堂　内部　１８枚目
 
-stralias cha_i1aP,"BMP\background\chapel\cha_i1aP.bmp"  ;礼拝堂　内部　正面　メタ　１枚目　chapel
-stralias cha_i1bP,"BMP\background\chapel\cha_i1bP.bmp"  ;礼拝堂　内部　メタ　２枚目
-stralias cha_i1cP,"BMP\background\chapel\cha_i1cP.bmp"  ;礼拝堂　内部　メタ　３枚目
-stralias cha_i1eP,"BMP\background\chapel\cha_i1eP.bmp"  ;礼拝堂　内部　天井　メタ　５枚目
-stralias cha_i1jP,"BMP\background\chapel\cha_i1jP.bmp"  ;礼拝堂　内部　天井　メタ　１０枚目
-stralias cha_i1lP,"BMP\background\chapel\cha_i1lP.bmp"  ;礼拝堂　内部　天井　メタ　１２枚目
-stralias cha_i1mP,"BMP\background\chapel\cha_i1mP.bmp"  ;礼拝堂　内部　天井　メタ　１３枚目
-stralias cha_i1nP,"BMP\background\chapel\cha_i1nP.bmp"  ;礼拝堂　内部　正面　メタ　１４枚目
-stralias cha_i1oP,"BMP\background\chapel\cha_i1oP.bmp"  ;礼拝堂　内部　正面　メタ　１５枚目
-stralias cha_i1pP,"BMP\background\chapel\cha_i1pP.bmp"  ;礼拝堂　内部　メタ　１６枚目
-stralias cha_i1qP,"BMP\background\chapel\cha_i1qP.bmp"  ;礼拝堂　内部　メタ　１７枚目
-stralias cha_i1rP,"BMP\background\chapel\cha_i1rP.bmp"  ;礼拝堂　内部　メタ　１８枚目
+stralias cha_i1aP,":b;BMP\background\chapel\cha_i1aP.png"  ;礼拝堂　内部　正面　メタ　１枚目　chapel
+stralias cha_i1bP,":b;BMP\background\chapel\cha_i1bP.png"  ;礼拝堂　内部　メタ　２枚目
+stralias cha_i1cP,":b;BMP\background\chapel\cha_i1cP.png"  ;礼拝堂　内部　メタ　３枚目
+stralias cha_i1eP,":b;BMP\background\chapel\cha_i1eP.png"  ;礼拝堂　内部　天井　メタ　５枚目
+stralias cha_i1jP,":b;BMP\background\chapel\cha_i1jP.png"  ;礼拝堂　内部　天井　メタ　１０枚目
+stralias cha_i1lP,":b;BMP\background\chapel\cha_i1lP.png"  ;礼拝堂　内部　天井　メタ　１２枚目
+stralias cha_i1mP,":b;BMP\background\chapel\cha_i1mP.png"  ;礼拝堂　内部　天井　メタ　１３枚目
+stralias cha_i1nP,":b;BMP\background\chapel\cha_i1nP.png"  ;礼拝堂　内部　正面　メタ　１４枚目
+stralias cha_i1oP,":b;BMP\background\chapel\cha_i1oP.png"  ;礼拝堂　内部　正面　メタ　１５枚目
+stralias cha_i1pP,":b;BMP\background\chapel\cha_i1pP.png"  ;礼拝堂　内部　メタ　１６枚目
+stralias cha_i1qP,":b;BMP\background\chapel\cha_i1qP.png"  ;礼拝堂　内部　メタ　１７枚目
+stralias cha_i1rP,":b;BMP\background\chapel\cha_i1rP.png"  ;礼拝堂　内部　メタ　１８枚目
 
-stralias cha_i1f,"BMP\background\chapel\cha_i1f.bmp"  ;礼拝堂　内部　祭壇前　６枚目
-stralias cha_i1g,"BMP\background\chapel\cha_i1g.bmp"  ;礼拝堂　内部　祭壇前　７枚目
-stralias cha_i1h,"BMP\background\chapel\cha_i1h.bmp"  ;礼拝堂　内部　祭壇前　８枚目
-stralias cha_i1i,"BMP\background\chapel\cha_i1i.bmp"  ;礼拝堂　内部　祭壇前　９枚目
-stralias cha_i1k,"BMP\background\chapel\cha_i1k.bmp"  ;礼拝堂　内部　祭壇前　１１枚目
+stralias cha_i1f,":b;BMP\background\chapel\cha_i1f.png"  ;礼拝堂　内部　祭壇前　６枚目
+stralias cha_i1g,":b;BMP\background\chapel\cha_i1g.png"  ;礼拝堂　内部　祭壇前　７枚目
+stralias cha_i1h,":b;BMP\background\chapel\cha_i1h.png"  ;礼拝堂　内部　祭壇前　８枚目
+stralias cha_i1i,":b;BMP\background\chapel\cha_i1i.png"  ;礼拝堂　内部　祭壇前　９枚目
+stralias cha_i1k,":b;BMP\background\chapel\cha_i1k.png"  ;礼拝堂　内部　祭壇前　１１枚目
 
-stralias cha_i1fP,"BMP\background\chapel\cha_i1fP.bmp"  ;礼拝堂　内部　祭壇前　メタ　６枚目
-stralias cha_i1gP,"BMP\background\chapel\cha_i1gP.bmp"  ;礼拝堂　内部　祭壇前　メタ　７枚目
-stralias cha_i1hP,"BMP\background\chapel\cha_i1hP.bmp"  ;礼拝堂　内部　祭壇前　メタ　８枚目
-stralias cha_i1iP,"BMP\background\chapel\cha_i1iP.bmp"  ;礼拝堂　内部　祭壇前　メタ　９枚目
-stralias cha_i1kP,"BMP\background\chapel\cha_i1kP.bmp"  ;礼拝堂　内部　祭壇前　メタ　１１枚目
-
-
-stralias cha_i2a,"BMP\background\chapel\cha_i2a.bmp"  ;礼拝堂　内部　受付
-stralias cha_i2aP,"BMP\background\chapel\cha_i2aP.bmp"  ;礼拝堂　内部　受付　メタ
-
-stralias cha_i3a,"BMP\background\chapel\cha_i3a.bmp"  ;礼拝堂　内部　ロビー
-stralias cha_i3aP,"BMP\background\chapel\cha_i3aP.bmp"  ;礼拝堂　内部　ロビー　メタ
-
-stralias cha_P1a,"BMP\background\chapel\cha_P1a.bmp"  ;礼拝堂　廊下
-stralias cha_P1aP,"BMP\background\chapel\cha_P1aP.bmp"  ;礼拝堂　廊下　メタ
-stralias cha_P1b,"BMP\background\chapel\cha_P1b.bmp"  ;礼拝堂　廊下
-stralias cha_P1bP,"BMP\background\chapel\cha_P1bP.bmp"  ;礼拝堂　廊下　メタ
-
-stralias cha_o1ap,"BMP\background\chapel\cha_o1aP.bmp"  ;礼拝堂　外部　メタ
-stralias cha_o2aP,"BMP\background\chapel\cha_o2aP.bmp"  ;礼拝堂　外部　メタ
-stralias cha_o3a,"BMP\background\chapel\cha_o3a.bmp"  ;礼拝堂　外部　メタ
-stralias cha_o3aP,"BMP\background\chapel\cha_o3aP.bmp"  ;礼拝堂　外部　メタ
-
-stralias cha_o1aN,"BMP\background\chapel\cha_o1aN.bmp"  ;礼拝堂　外観　１枚目　chapel　夜
-stralias cha_o2bN,"BMP\background\chapel\cha_o2bN.bmp"  ;礼拝堂　入り口　２枚目　夜
-
-stralias cha_R1a,"BMP\background\chapel\cha_R1a.bmp"  ;礼拝堂　内部　控え室　１枚目　大人
-stralias cha_R1b,"BMP\background\chapel\cha_R1b.bmp"  ;礼拝堂　内部　控え室　２枚目　大人
-stralias cha_R1c,"BMP\background\chapel\cha_R1c.bmp"  ;礼拝堂　内部　控え室　３枚目　大人
-stralias cha_R1d,"BMP\background\chapel\cha_R1d.bmp"  ;礼拝堂　内部　控え室　４枚目　天井
-stralias cha_R1e,"BMP\background\chapel\cha_R1e.bmp"  ;礼拝堂　内部　控え室　５枚目　いとこ
-stralias cha_R1f,"BMP\background\chapel\cha_R1f.bmp"  ;礼拝堂　内部　控え室　６枚目　いとこ
-stralias cha_R1g,"BMP\background\chapel\cha_R1g.bmp"  ;礼拝堂　内部　控え室　７枚目　いとこ
-
-stralias cha_R2a,"BMP\background\chapel\cha_R2a.bmp"  ;礼拝堂　内部　貴賓室　１枚目　
-stralias cha_R2b,"BMP\background\chapel\cha_R2b.bmp"  ;礼拝堂　内部　貴賓室　２枚目
-stralias cha_R2c,"BMP\background\chapel\cha_R2c.bmp"  ;礼拝堂　内部　貴賓室　３枚目
-stralias cha_R2d,"BMP\background\chapel\cha_R2d.bmp"  ;礼拝堂　内部　貴賓室　４枚目　天井
+stralias cha_i1fP,":b;BMP\background\chapel\cha_i1fP.png"  ;礼拝堂　内部　祭壇前　メタ　６枚目
+stralias cha_i1gP,":b;BMP\background\chapel\cha_i1gP.png"  ;礼拝堂　内部　祭壇前　メタ　７枚目
+stralias cha_i1hP,":b;BMP\background\chapel\cha_i1hP.png"  ;礼拝堂　内部　祭壇前　メタ　８枚目
+stralias cha_i1iP,":b;BMP\background\chapel\cha_i1iP.png"  ;礼拝堂　内部　祭壇前　メタ　９枚目
+stralias cha_i1kP,":b;BMP\background\chapel\cha_i1kP.png"  ;礼拝堂　内部　祭壇前　メタ　１１枚目
 
 
-stralias doll_1a,"BMP\background\efe\doll_1a.bmp"  ;人形
-stralias doll_1b,"BMP\background\efe\doll_1b.bmp"  ;人形
+stralias cha_i2a,":b;BMP\background\chapel\cha_i2a.png"  ;礼拝堂　内部　受付
+stralias cha_i2aP,":b;BMP\background\chapel\cha_i2aP.png"  ;礼拝堂　内部　受付　メタ
 
-stralias rose_t1a,"BMP\background\efe\rose_t1a.bmp"  ;薔薇　一輪
+stralias cha_i3a,":b;BMP\background\chapel\cha_i3a.png"  ;礼拝堂　内部　ロビー
+stralias cha_i3aP,":b;BMP\background\chapel\cha_i3aP.png"  ;礼拝堂　内部　ロビー　メタ
 
-stralias sea_4a,"BMP\background\ship\sea_4a.bmp"  ;船　海　ボート
+stralias cha_P1a,":b;BMP\background\chapel\cha_P1a.png"  ;礼拝堂　廊下
+stralias cha_P1aP,":b;BMP\background\chapel\cha_P1aP.png"  ;礼拝堂　廊下　メタ
+stralias cha_P1b,":b;BMP\background\chapel\cha_P1b.png"  ;礼拝堂　廊下
+stralias cha_P1bP,":b;BMP\background\chapel\cha_P1bP.png"  ;礼拝堂　廊下　メタ
+
+stralias cha_o1ap,":b;BMP\background\chapel\cha_o1aP.png"  ;礼拝堂　外部　メタ
+stralias cha_o2aP,":b;BMP\background\chapel\cha_o2aP.png"  ;礼拝堂　外部　メタ
+stralias cha_o3a,":b;BMP\background\chapel\cha_o3a.png"  ;礼拝堂　外部　メタ
+stralias cha_o3aP,":b;BMP\background\chapel\cha_o3aP.png"  ;礼拝堂　外部　メタ
+
+stralias cha_o1aN,":b;BMP\background\chapel\cha_o1aN.png"  ;礼拝堂　外観　１枚目　chapel　夜
+stralias cha_o2bN,":b;BMP\background\chapel\cha_o2bN.png"  ;礼拝堂　入り口　２枚目　夜
+
+stralias cha_R1a,":b;BMP\background\chapel\cha_R1a.png"  ;礼拝堂　内部　控え室　１枚目　大人
+stralias cha_R1b,":b;BMP\background\chapel\cha_R1b.png"  ;礼拝堂　内部　控え室　２枚目　大人
+stralias cha_R1c,":b;BMP\background\chapel\cha_R1c.png"  ;礼拝堂　内部　控え室　３枚目　大人
+stralias cha_R1d,":b;BMP\background\chapel\cha_R1d.png"  ;礼拝堂　内部　控え室　４枚目　天井
+stralias cha_R1e,":b;BMP\background\chapel\cha_R1e.png"  ;礼拝堂　内部　控え室　５枚目　いとこ
+stralias cha_R1f,":b;BMP\background\chapel\cha_R1f.png"  ;礼拝堂　内部　控え室　６枚目　いとこ
+stralias cha_R1g,":b;BMP\background\chapel\cha_R1g.png"  ;礼拝堂　内部　控え室　７枚目　いとこ
+
+stralias cha_R2a,":b;BMP\background\chapel\cha_R2a.png"  ;礼拝堂　内部　貴賓室　１枚目　
+stralias cha_R2b,":b;BMP\background\chapel\cha_R2b.png"  ;礼拝堂　内部　貴賓室　２枚目
+stralias cha_R2c,":b;BMP\background\chapel\cha_R2c.png"  ;礼拝堂　内部　貴賓室　３枚目
+stralias cha_R2d,":b;BMP\background\chapel\cha_R2d.png"  ;礼拝堂　内部　貴賓室　４枚目　天井
+
+
+stralias doll_1a,":b;BMP\background\efe\doll_1a.png"  ;人形
+stralias doll_1b,":b;BMP\background\efe\doll_1b.png"  ;人形
+
+stralias rose_t1a,":b;BMP\background\efe\rose_t1a.png"  ;薔薇　一輪
+
+stralias sea_4a,":b;BMP\background\ship\sea_4a.png"  ;船　海　ボート
 
 ;Theater		劇場
-stralias The_1a,"BMP\background\efe\The_1a.bmp"	;舞台側
-stralias The_1b,"BMP\background\efe\The_1b.bmp"	;側面
-stralias The_1c,"BMP\background\efe\The_1c.bmp"	;側面
-stralias The_1d,"BMP\background\efe\The_1d.bmp"	;舞台手前
-stralias The_1e,"BMP\background\efe\The_1e.bmp"	;劇場の照明
-stralias The_1f,"BMP\background\efe\The_1f.bmp"	;舞台側
+stralias The_1a,":b;BMP\background\efe\The_1a.png"	;舞台側
+stralias The_1b,":b;BMP\background\efe\The_1b.png"	;側面
+stralias The_1c,":b;BMP\background\efe\The_1c.png"	;側面
+stralias The_1d,":b;BMP\background\efe\The_1d.png"	;舞台手前
+stralias The_1e,":b;BMP\background\efe\The_1e.png"	;劇場の照明
+stralias The_1f,":b;BMP\background\efe\The_1f.png"	;舞台側
 
-stralias The_2a,"BMP\background\efe\The_2a.bmp"	;舞台側
-stralias The_2b,"BMP\background\efe\The_2b.bmp"	;劇場の観客席側全景
+stralias The_2a,":b;BMP\background\efe\The_2a.png"	;舞台側
+stralias The_2b,":b;BMP\background\efe\The_2b.png"	;劇場の観客席側全景
 
-stralias The_3a,"BMP\background\efe\The_3a.bmp"	;劇場の照明　効果
-stralias The_3b,"BMP\background\efe\The_3b.bmp"	;劇場の照明　効果
-stralias The_3c,"BMP\background\efe\The_3c.bmp"	;劇場の照明　効果
-stralias The_3d,"BMP\background\efe\The_3d.bmp"	;劇場の照明　効果　The_1e　と同じ
-stralias The_3e,"BMP\background\efe\The_3e.bmp"	;劇場の照明　効果
+stralias The_3a,":b;BMP\background\efe\The_3a.png"	;劇場の照明　効果
+stralias The_3b,":b;BMP\background\efe\The_3b.png"	;劇場の照明　効果
+stralias The_3c,":b;BMP\background\efe\The_3c.png"	;劇場の照明　効果
+stralias The_3d,":b;BMP\background\efe\The_3d.png"	;劇場の照明　効果　The_1e　と同じ
+stralias The_3e,":b;BMP\background\efe\The_3e.png"	;劇場の照明　効果
 
 ;EP6追加
-stralias FEA_P1a,"BMP\background\FEA\FEA_P1a.bmp"	;八城邸　廊下
-stralias FEA_R1a,"BMP\background\FEA\FEA_R1a.bmp"	;八城邸　室内
-stralias FEA_R1b,"BMP\background\FEA\FEA_R1b.bmp"	;八城邸　室内
-stralias FEA_R1c,"BMP\background\FEA\FEA_R1c.bmp"	;八城邸　室内
-stralias FEA_R1d,"BMP\background\FEA\FEA_R1d.bmp"	;八城邸　室内
-stralias FEA_R1e,"BMP\background\FEA\FEA_R1e.bmp"	;八城邸　天井
+stralias FEA_P1a,":b;BMP\background\FEA\FEA_P1a.png"	;八城邸　廊下
+stralias FEA_R1a,":b;BMP\background\FEA\FEA_R1a.png"	;八城邸　室内
+stralias FEA_R1b,":b;BMP\background\FEA\FEA_R1b.png"	;八城邸　室内
+stralias FEA_R1c,":b;BMP\background\FEA\FEA_R1c.png"	;八城邸　室内
+stralias FEA_R1d,":b;BMP\background\FEA\FEA_R1d.png"	;八城邸　室内
+stralias FEA_R1e,":b;BMP\background\FEA\FEA_R1e.png"	;八城邸　天井
 
-stralias FEA_R1ap,"BMP\background\FEA\FEA_R1ap.bmp"	;八城邸　室内
-stralias FEA_R1bp,"BMP\background\FEA\FEA_R1bp.bmp"	;八城邸　室内
-stralias FEA_R1cp,"BMP\background\FEA\FEA_R1cp.bmp"	;八城邸　室内
-stralias FEA_R1dp,"BMP\background\FEA\FEA_R1dp.bmp"	;八城邸　室内
-stralias FEA_R1ep,"BMP\background\FEA\FEA_R1ep.bmp"	;八城邸　天井
+stralias FEA_R1ap,":b;BMP\background\FEA\FEA_R1ap.png"	;八城邸　室内
+stralias FEA_R1bp,":b;BMP\background\FEA\FEA_R1bp.png"	;八城邸　室内
+stralias FEA_R1cp,":b;BMP\background\FEA\FEA_R1cp.png"	;八城邸　室内
+stralias FEA_R1dp,":b;BMP\background\FEA\FEA_R1dp.png"	;八城邸　室内
+stralias FEA_R1ep,":b;BMP\background\FEA\FEA_R1ep.png"	;八城邸　天井
 
-stralias zf_r1aP,"BMP\background\efe\zf_r1aP.bmp" 	;ゼパル・フルフル空間
-stralias zf_r1bP,"BMP\background\efe\zf_r1bP.bmp" 	;ゼパル・フルフル空間
-stralias zf_r1cP,"BMP\background\efe\zf_r1cP.bmp" 	;ゼパル・フルフル空間
-stralias zf_r1dP,"BMP\background\efe\zf_r1dP.bmp" 	;ゼパル・フルフル空間
-stralias zf_r1eP,"BMP\background\efe\zf_r1eP.bmp" 	;ゼパル・フルフル空間
+stralias zf_r1aP,":b;BMP\background\efe\zf_r1aP.png" 	;ゼパル・フルフル空間
+stralias zf_r1bP,":b;BMP\background\efe\zf_r1bP.png" 	;ゼパル・フルフル空間
+stralias zf_r1cP,":b;BMP\background\efe\zf_r1cP.png" 	;ゼパル・フルフル空間
+stralias zf_r1dP,":b;BMP\background\efe\zf_r1dP.png" 	;ゼパル・フルフル空間
+stralias zf_r1eP,":b;BMP\background\efe\zf_r1eP.png" 	;ゼパル・フルフル空間
 
-stralias TELBOX_1a,"BMP\background\city\TELBOX_1a.bmp" 	;公衆電話
-stralias TELBOX_1b,"BMP\background\city\TELBOX_1b.bmp" 	;公衆電話
+stralias TELBOX_1a,":b;BMP\background\city\TELBOX_1a.png" 	;公衆電話
+stralias TELBOX_1b,":b;BMP\background\city\TELBOX_1b.png" 	;公衆電話
 
-stralias cateye_1,"BMP\background\efe\cateye_1.bmp" 	;公衆電話
+stralias cateye_1,":b;BMP\background\efe\cateye_1.png" 	;公衆電話
 
 ;EP5追加
 
-stralias comment1,"BMP\background\efe\comment1.bmp"  ;告発
-stralias comment2,"BMP\background\efe\comment2.bmp"  ;告発
-stralias comment3,"BMP\background\efe\comment3.bmp"  ;告発
-stralias comment4,"BMP\background\efe\comment4.bmp"  ;告発
-stralias comment5,"BMP\background\efe\comment5.bmp"  ;告発
-stralias comment6,"BMP\background\efe\comment6.bmp"  ;告発
-stralias comment7,"BMP\background\efe\comment7.bmp"  ;告発
-stralias comment8,"BMP\background\efe\comment8.bmp"  ;告発
-stralias comment9,"BMP\background\efe\comment9.bmp"  ;告発
-stralias comment10,"BMP\background\efe\comment10.bmp"  ;告発
-stralias comment11,"BMP\background\efe\comment11.bmp"  ;告発
-stralias comment12,"BMP\background\efe\comment12.bmp"  ;告発
-stralias comment13,"BMP\background\efe\comment13.bmp"  ;告発
-stralias comment14,"BMP\background\efe\comment14.bmp"  ;告発
-stralias comment15,"BMP\background\efe\comment15.bmp"  ;告発
-stralias comment16,"BMP\background\efe\comment16.bmp"  ;告発
-stralias comment17,"BMP\background\efe\comment17.bmp"  ;告発
-stralias comment18,"BMP\background\efe\comment18.bmp"  ;告発
-stralias comment19,"BMP\background\efe\comment19.bmp"  ;告発
-stralias comment20,"BMP\background\efe\comment20.bmp"  ;告発
-stralias comment21,"BMP\background\efe\comment21.bmp"  ;告発
-stralias comment22,"BMP\background\efe\comment22.bmp"  ;告発
-stralias comment23,"BMP\background\efe\comment23.bmp"  ;告発
-stralias comment24,"BMP\background\efe\comment24.bmp"  ;告発
-stralias comment25,"BMP\background\efe\comment25.bmp"  ;告発
+stralias comment1,":b;BMP\background\efe\comment1.png"  ;告発
+stralias comment2,":b;BMP\background\efe\comment2.png"  ;告発
+stralias comment3,":b;BMP\background\efe\comment3.png"  ;告発
+stralias comment4,":b;BMP\background\efe\comment4.png"  ;告発
+stralias comment5,":b;BMP\background\efe\comment5.png"  ;告発
+stralias comment6,":b;BMP\background\efe\comment6.png"  ;告発
+stralias comment7,":b;BMP\background\efe\comment7.png"  ;告発
+stralias comment8,":b;BMP\background\efe\comment8.png"  ;告発
+stralias comment9,":b;BMP\background\efe\comment9.png"  ;告発
+stralias comment10,":b;BMP\background\efe\comment10.png"  ;告発
+stralias comment11,":b;BMP\background\efe\comment11.png"  ;告発
+stralias comment12,":b;BMP\background\efe\comment12.png"  ;告発
+stralias comment13,":b;BMP\background\efe\comment13.png"  ;告発
+stralias comment14,":b;BMP\background\efe\comment14.png"  ;告発
+stralias comment15,":b;BMP\background\efe\comment15.png"  ;告発
+stralias comment16,":b;BMP\background\efe\comment16.png"  ;告発
+stralias comment17,":b;BMP\background\efe\comment17.png"  ;告発
+stralias comment18,":b;BMP\background\efe\comment18.png"  ;告発
+stralias comment19,":b;BMP\background\efe\comment19.png"  ;告発
+stralias comment20,":b;BMP\background\efe\comment20.png"  ;告発
+stralias comment21,":b;BMP\background\efe\comment21.png"  ;告発
+stralias comment22,":b;BMP\background\efe\comment22.png"  ;告発
+stralias comment23,":b;BMP\background\efe\comment23.png"  ;告発
+stralias comment24,":b;BMP\background\efe\comment24.png"  ;告発
+stralias comment25,":b;BMP\background\efe\comment25.png"  ;告発
 
 ;外国　foreign
-stralias for_o1a,"BMP\background\foreign\for_o1a.bmp"  ;外国の町並み（屋台）
-stralias for_o1b,"BMP\background\foreign\for_o1b.bmp"  ;外国の町並み（屋台）
-stralias for_o1c,"BMP\background\foreign\for_o1c.bmp"  ;外国の町並み（屋台）
+stralias for_o1a,":b;BMP\background\foreign\for_o1a.png"  ;外国の町並み（屋台）
+stralias for_o1b,":b;BMP\background\foreign\for_o1b.png"  ;外国の町並み（屋台）
+stralias for_o1c,":b;BMP\background\foreign\for_o1c.png"  ;外国の町並み（屋台）
 
-stralias bus_i1a,"BMP\background\foreign\bus_i1a.bmp"  ;観光バス車内
+stralias bus_i1a,":b;BMP\background\foreign\bus_i1a.png"  ;観光バス車内
 
 ;水族館  aquarium
-stralias aqu_i1a,"BMP\background\aquarium\aqu_i1a.bmp"  ;水族館　室内　１枚目
-stralias aqu_i1b,"BMP\background\aquarium\aqu_i1b.bmp"  ;水族館　室内　２枚目
-stralias aqu_i1c,"BMP\background\aquarium\aqu_i1c.bmp"  ;水族館　室内　３枚目
-stralias aqu_i2a,"BMP\background\aquarium\aqu_i2a.bmp"  ;水族館　室内　大水槽１枚目
-stralias aqu_i2b,"BMP\background\aquarium\aqu_i2b.bmp"  ;水族館　室内　大水槽２枚目（至近）
-stralias aqu_i2c,"BMP\background\aquarium\aqu_i2c.bmp"  ;水族館　室内　大水槽３枚目
+stralias aqu_i1a,":b;BMP\background\aquarium\aqu_i1a.png"  ;水族館　室内　１枚目
+stralias aqu_i1b,":b;BMP\background\aquarium\aqu_i1b.png"  ;水族館　室内　２枚目
+stralias aqu_i1c,":b;BMP\background\aquarium\aqu_i1c.png"  ;水族館　室内　３枚目
+stralias aqu_i2a,":b;BMP\background\aquarium\aqu_i2a.png"  ;水族館　室内　大水槽１枚目
+stralias aqu_i2b,":b;BMP\background\aquarium\aqu_i2b.png"  ;水族館　室内　大水槽２枚目（至近）
+stralias aqu_i2c,":b;BMP\background\aquarium\aqu_i2c.png"  ;水族館　室内　大水槽３枚目
 
 ;レストラン  restaurant
-stralias res_i1a,"BMP\background\restaurant\res_i1a.bmp"  ;レストラン　テーブル席　１枚目
-stralias res_i1b,"BMP\background\restaurant\res_i1b.bmp"  ;レストラン　テーブル席　２枚目
-stralias res_i1c,"BMP\background\restaurant\res_i1c.bmp"  ;レストラン　テーブル席　３枚目
-stralias res_i2a,"BMP\background\restaurant\res_i2a.bmp"  ;レストラン　カウンター　１枚目
-stralias res_i2b,"BMP\background\restaurant\res_i2b.bmp"  ;レストラン　カウンター　２枚目
-stralias res_i2c,"BMP\background\restaurant\res_i2c.bmp"  ;レストラン　天井
+stralias res_i1a,":b;BMP\background\restaurant\res_i1a.png"  ;レストラン　テーブル席　１枚目
+stralias res_i1b,":b;BMP\background\restaurant\res_i1b.png"  ;レストラン　テーブル席　２枚目
+stralias res_i1c,":b;BMP\background\restaurant\res_i1c.png"  ;レストラン　テーブル席　３枚目
+stralias res_i2a,":b;BMP\background\restaurant\res_i2a.png"  ;レストラン　カウンター　１枚目
+stralias res_i2b,":b;BMP\background\restaurant\res_i2b.png"  ;レストラン　カウンター　２枚目
+stralias res_i2c,":b;BMP\background\restaurant\res_i2c.png"  ;レストラン　天井
 
-stralias res_o1a,"BMP\background\restaurant\res_o1a.bmp"  ;ファミレス　夜外観
-stralias res_i3a,"BMP\background\restaurant\res_i3a.bmp"  ;ファミレス　テーブル席　１枚目
-stralias res_i3b,"BMP\background\restaurant\res_i3b.bmp"  ;ファミレス　テーブル席　２枚目
-stralias res_i3c,"BMP\background\restaurant\res_i3c.bmp"  ;ファミレス　テーブル席　３枚目
-stralias res_i3d,"BMP\background\restaurant\res_i3d.bmp"  ;ファミレス　メニュー
+stralias res_o1a,":b;BMP\background\restaurant\res_o1a.png"  ;ファミレス　夜外観
+stralias res_i3a,":b;BMP\background\restaurant\res_i3a.png"  ;ファミレス　テーブル席　１枚目
+stralias res_i3b,":b;BMP\background\restaurant\res_i3b.png"  ;ファミレス　テーブル席　２枚目
+stralias res_i3c,":b;BMP\background\restaurant\res_i3c.png"  ;ファミレス　テーブル席　３枚目
+stralias res_i3d,":b;BMP\background\restaurant\res_i3d.png"  ;ファミレス　メニュー
 
-stralias res_i4a,"BMP\background\restaurant\res_i4a.bmp"  ;レストラン
-stralias res_i4b,"BMP\background\restaurant\res_i4b.bmp"  ;席
-stralias res_i4c,"BMP\background\restaurant\res_i4c.bmp"  ;席
+stralias res_i4a,":b;BMP\background\restaurant\res_i4a.png"  ;レストラン
+stralias res_i4b,":b;BMP\background\restaurant\res_i4b.png"  ;席
+stralias res_i4c,":b;BMP\background\restaurant\res_i4c.png"  ;席
 
-stralias PRO_o1a,"BMP\background\city\PRO_o1a.bmp"  ;教授宅前
+stralias PRO_o1a,":b;BMP\background\city\PRO_o1a.png"  ;教授宅前
 
 ; amusement　遊園地
-stralias amu_o1a,"BMP\background\city\amu_o1a.bmp"  ;遊園地　外（空）
-stralias amu_i1a,"BMP\background\city\amu_i1a.bmp"  ;遊園地
-stralias amu_i1b,"BMP\background\city\amu_i1b.bmp"  ;遊園地
+stralias amu_o1a,":b;BMP\background\city\amu_o1a.png"  ;遊園地　外（空）
+stralias amu_i1a,":b;BMP\background\city\amu_i1a.png"  ;遊園地
+stralias amu_i1b,":b;BMP\background\city\amu_i1b.png"  ;遊園地
 
 
 ;沖縄の海岸
-stralias o_beach_1a,"BMP\background\forest\o_beach_1a.bmp"  ;砂浜（沖縄）　１枚目
-stralias o_beach_1b,"BMP\background\forest\o_beach_1b.bmp"  ;砂浜（沖縄）　２枚目
-stralias o_beach_1c,"BMP\background\forest\o_beach_1c.bmp"  ;砂浜（沖縄）　３枚目
+stralias o_beach_1a,":b;BMP\background\forest\o_beach_1a.png"  ;砂浜（沖縄）　１枚目
+stralias o_beach_1b,":b;BMP\background\forest\o_beach_1b.png"  ;砂浜（沖縄）　２枚目
+stralias o_beach_1c,":b;BMP\background\forest\o_beach_1c.png"  ;砂浜（沖縄）　３枚目
 
-stralias o_Sky_1a,"BMP\background\forest\o_Sky_1a.bmp"  ;砂浜（沖縄　空）　１枚目
+stralias o_Sky_1a,":b;BMP\background\forest\o_Sky_1a.png"  ;砂浜（沖縄　空）　１枚目
 
 ;文化祭　(school) festival
-stralias schF_R1a,"BMP\background\school\schF_R1a.bmp"  ;文化祭　室内１枚目
-stralias schF_R1b,"BMP\background\school\schF_R1b.bmp"  ;文化祭　室内２枚目
-stralias schF_R1c,"BMP\background\school\schF_R1c.bmp"  ;文化祭　室内３枚目
+stralias schF_R1a,":b;BMP\background\school\schF_R1a.png"  ;文化祭　室内１枚目
+stralias schF_R1b,":b;BMP\background\school\schF_R1b.png"  ;文化祭　室内２枚目
+stralias schF_R1c,":b;BMP\background\school\schF_R1c.png"  ;文化祭　室内３枚目
 
-stralias schF_P1a,"BMP\background\school\schF_P1a.bmp"  ;文化祭　廊下　１枚目
-stralias schF_P1b,"BMP\background\school\schF_P1b.bmp"  ;文化祭　廊下　２枚目
+stralias schF_P1a,":b;BMP\background\school\schF_P1a.png"  ;文化祭　廊下　１枚目
+stralias schF_P1b,":b;BMP\background\school\schF_P1b.png"  ;文化祭　廊下　２枚目
 
-stralias schF_P2a,"BMP\background\school\schF_P2a.bmp"  ;文化祭　廊下２　１枚目
+stralias schF_P2a,":b;BMP\background\school\schF_P2a.png"  ;文化祭　廊下２　１枚目
 
-stralias schF_P3a,"BMP\background\school\schF_P3a.bmp"  ;文化祭　廊下（掲示板）　１枚目
+stralias schF_P3a,":b;BMP\background\school\schF_P3a.png"  ;文化祭　廊下（掲示板）　１枚目
 
-stralias schF_S1a,"BMP\background\school\schF_S1a.bmp"  ;文化祭　出店　１枚目
-stralias schF_S1b,"BMP\background\school\schF_S1b.bmp"  ;文化祭　出店　２枚目
-stralias schF_S1c,"BMP\background\school\schF_S1c.bmp"  ;文化祭　出店　３枚目
-stralias schF_S1d,"BMP\background\school\schF_S1d.bmp"  ;文化祭　出店　４枚目
+stralias schF_S1a,":b;BMP\background\school\schF_S1a.png"  ;文化祭　出店　１枚目
+stralias schF_S1b,":b;BMP\background\school\schF_S1b.png"  ;文化祭　出店　２枚目
+stralias schF_S1c,":b;BMP\background\school\schF_S1c.png"  ;文化祭　出店　３枚目
+stralias schF_S1d,":b;BMP\background\school\schF_S1d.png"  ;文化祭　出店　４枚目
 
-stralias schF_C1a,"BMP\background\school\schF_C1a.bmp"  ;文化祭　コンサート　１枚目 concert
-stralias schF_C1b,"BMP\background\school\schF_C1b.bmp"  ;文化祭　コンサート　２枚目 concert
-stralias schF_C1c,"BMP\background\school\schF_C1c.bmp"  ;文化祭　コンサート　３枚目 concert
+stralias schF_C1a,":b;BMP\background\school\schF_C1a.png"  ;文化祭　コンサート　１枚目 concert
+stralias schF_C1b,":b;BMP\background\school\schF_C1b.png"  ;文化祭　コンサート　２枚目 concert
+stralias schF_C1c,":b;BMP\background\school\schF_C1c.png"  ;文化祭　コンサート　３枚目 concert
 
 
-stralias schF_C2a,"BMP\background\school\schF_C2a.bmp"  ;文化祭　コンサート（暗い）　１枚目 concert
-stralias schF_C2b,"BMP\background\school\schF_C2b.bmp"  ;文化祭　コンサート（暗い）　２枚目 concert
+stralias schF_C2a,":b;BMP\background\school\schF_C2a.png"  ;文化祭　コンサート（暗い）　１枚目 concert
+stralias schF_C2b,":b;BMP\background\school\schF_C2b.png"  ;文化祭　コンサート（暗い）　２枚目 concert
 
 
 ;(school) ルチーア学園
 
-stralias schR_o1a,"BMP\background\school\schR_o1a.bmp"  ;聖ルチーア学園校門
+stralias schR_o1a,":b;BMP\background\school\schR_o1a.png"  ;聖ルチーア学園校門
 
-stralias schR_o2a,"BMP\background\school\schR_o2a.bmp"  ;聖ルチーア学園敷地内（エンジェの隠れ家
+stralias schR_o2a,":b;BMP\background\school\schR_o2a.png"  ;聖ルチーア学園敷地内（エンジェの隠れ家
 
-stralias schR_o3a,"BMP\background\school\schR_o3a.bmp"  ;聖ルチーア学園敷地内
-stralias schR_o3b,"BMP\background\school\schR_o3b.bmp"  ;聖ルチーア学園敷地内
+stralias schR_o3a,":b;BMP\background\school\schR_o3a.png"  ;聖ルチーア学園敷地内
+stralias schR_o3b,":b;BMP\background\school\schR_o3b.png"  ;聖ルチーア学園敷地内
 
-stralias schR_P1a,"BMP\background\school\schR_P1a.bmp"  ;聖ルチーア学園　廊下
-stralias schR_P1b,"BMP\background\school\schR_P1b.bmp"  ;聖ルチーア学園　廊下
+stralias schR_P1a,":b;BMP\background\school\schR_P1a.png"  ;聖ルチーア学園　廊下
+stralias schR_P1b,":b;BMP\background\school\schR_P1b.png"  ;聖ルチーア学園　廊下
 
-stralias schR_R1a,"BMP\background\school\schR_R1a.bmp"  ;聖ルチーア学園　教室１
-stralias schR_R1b,"BMP\background\school\schR_R1b.bmp"  ;聖ルチーア学園　教室２
-stralias schR_R1c,"BMP\background\school\schR_R1c.bmp"  ;聖ルチーア学園　教室３
-stralias schR_R1d,"BMP\background\school\schR_R1d.bmp"  ;聖ルチーア学園　天井
+stralias schR_R1a,":b;BMP\background\school\schR_R1a.png"  ;聖ルチーア学園　教室１
+stralias schR_R1b,":b;BMP\background\school\schR_R1b.png"  ;聖ルチーア学園　教室２
+stralias schR_R1c,":b;BMP\background\school\schR_R1c.png"  ;聖ルチーア学園　教室３
+stralias schR_R1d,":b;BMP\background\school\schR_R1d.png"  ;聖ルチーア学園　天井
 
-stralias schR_R1aN,"BMP\background\school\schR_R1aN.bmp"  ;　夜教室１
-stralias schR_R1bN,"BMP\background\school\schR_R1bN.bmp"  ;　夜教室２
-stralias schR_R1cN,"BMP\background\school\schR_R1cN.bmp"  ;　夜教室３
+stralias schR_R1aN,":b;BMP\background\school\schR_R1aN.png"  ;　夜教室１
+stralias schR_R1bN,":b;BMP\background\school\schR_R1bN.png"  ;　夜教室２
+stralias schR_R1cN,":b;BMP\background\school\schR_R1cN.png"  ;　夜教室３
 
-stralias schD_P1a,"BMP\background\school\schD_P1a.bmp"  ;学園寮　廊下 dormitory
-stralias schD_P1b,"BMP\background\school\schD_P1b.bmp"  ;学園寮　廊下
+stralias schD_P1a,":b;BMP\background\school\schD_P1a.png"  ;学園寮　廊下 dormitory
+stralias schD_P1b,":b;BMP\background\school\schD_P1b.png"  ;学園寮　廊下
 
-stralias TOI_1a,"BMP\background\school\TOI_1a.bmp"  ;トイレ個室内
+stralias TOI_1a,":b;BMP\background\school\TOI_1a.png"  ;トイレ個室内
 
-stralias ROS_o1aN,"BMP\background\rosehouse\ROS_o1aN.bmp"  ;楼座宅　外　夜
+stralias ROS_o1aN,":b;BMP\background\rosehouse\ROS_o1aN.png"  ;楼座宅　外　夜
 
-stralias ROS_R1a,"BMP\background\rosehouse\ROS_R1a.bmp"  ;楼座宅リビング
-stralias ROS_R1aN,"BMP\background\rosehouse\ROS_R1aN.bmp"  ;楼座宅リビング
-stralias ROS_R1aR,"BMP\background\rosehouse\ROS_R1aR.bmp"  ;楼座宅リビング
-stralias ROS_R1b,"BMP\background\rosehouse\ROS_R1b.bmp"  
-stralias ROS_R1bN,"BMP\background\rosehouse\ROS_R1bN.bmp"  
-stralias ROS_R1bR,"BMP\background\rosehouse\ROS_R1bR.bmp"  
+stralias ROS_R1a,":b;BMP\background\rosehouse\ROS_R1a.png"  ;楼座宅リビング
+stralias ROS_R1aN,":b;BMP\background\rosehouse\ROS_R1aN.png"  ;楼座宅リビング
+stralias ROS_R1aR,":b;BMP\background\rosehouse\ROS_R1aR.png"  ;楼座宅リビング
+stralias ROS_R1b,":b;BMP\background\rosehouse\ROS_R1b.png"  
+stralias ROS_R1bN,":b;BMP\background\rosehouse\ROS_R1bN.png"  
+stralias ROS_R1bR,":b;BMP\background\rosehouse\ROS_R1bR.png"  
 
-stralias ROS_P1a,"BMP\background\rosehouse\ROS_P1a.bmp"  ;廊下
-stralias ROS_P1aN,"BMP\background\rosehouse\ROS_P1aN.bmp"  ;廊下
+stralias ROS_P1a,":b;BMP\background\rosehouse\ROS_P1a.png"  ;廊下
+stralias ROS_P1aN,":b;BMP\background\rosehouse\ROS_P1aN.png"  ;廊下
 
-stralias ROS_Ro1a,"BMP\background\rosehouse\ROS_Ro1a.bmp"  ;楼座寝室
+stralias ROS_Ro1a,":b;BMP\background\rosehouse\ROS_Ro1a.png"  ;楼座寝室
 
-stralias ROS_M1a,"BMP\background\rosehouse\ROS_M1a.bmp"  ;マリアの部屋
-stralias ROS_M1b,"BMP\background\rosehouse\ROS_M1b.bmp"  
-stralias ROS_M1c,"BMP\background\rosehouse\ROS_M1c.bmp"  
-stralias ROS_M1aN,"BMP\background\rosehouse\ROS_M1aN.bmp"  ;マリアの部屋　夜
-stralias ROS_M1bN,"BMP\background\rosehouse\ROS_M1bN.bmp"  
-stralias ROS_M1cN,"BMP\background\rosehouse\ROS_M1cN.bmp"  
+stralias ROS_M1a,":b;BMP\background\rosehouse\ROS_M1a.png"  ;マリアの部屋
+stralias ROS_M1b,":b;BMP\background\rosehouse\ROS_M1b.png"  
+stralias ROS_M1c,":b;BMP\background\rosehouse\ROS_M1c.png"  
+stralias ROS_M1aN,":b;BMP\background\rosehouse\ROS_M1aN.png"  ;マリアの部屋　夜
+stralias ROS_M1bN,":b;BMP\background\rosehouse\ROS_M1bN.png"  
+stralias ROS_M1cN,":b;BMP\background\rosehouse\ROS_M1cN.png"  
 
-stralias NAN_R1a,"BMP\background\nanclinic\nan_R1a.bmp"  ;南条診療所　室内
-stralias NAN_R1b,"BMP\background\nanclinic\nan_R1b.bmp"  ;南条診療所　室内
-stralias NAN_R1c,"BMP\background\nanclinic\nan_R1c.bmp"  ;南条診療所　室内
+stralias NAN_R1a,":b;BMP\background\nanclinic\nan_R1a.png"  ;南条診療所　室内
+stralias NAN_R1b,":b;BMP\background\nanclinic\nan_R1b.png"  ;南条診療所　室内
+stralias NAN_R1c,":b;BMP\background\nanclinic\nan_R1c.png"  ;南条診療所　室内
 
-stralias KUM_R1a,"BMP\background\kumhouse\KUM_R1a.bmp"  ;熊沢宅　室内
-stralias KUM_R1b,"BMP\background\kumhouse\KUM_R1b.bmp"  ;熊沢宅　室内
-stralias KUM_R1c,"BMP\background\kumhouse\KUM_R1c.bmp"  ;熊沢宅　室内
+stralias KUM_R1a,":b;BMP\background\kumhouse\KUM_R1a.png"  ;熊沢宅　室内
+stralias KUM_R1b,":b;BMP\background\kumhouse\KUM_R1b.png"  ;熊沢宅　室内
+stralias KUM_R1c,":b;BMP\background\kumhouse\KUM_R1c.png"  ;熊沢宅　室内
 
-stralias KAW_R1aN,"BMP\background\Kawhouse\KAW_R1aN.bmp"  ;川畑宅　室内
-stralias KAW_R1bN,"BMP\background\kawhouse\KAW_R1bN.bmp"  ;川畑宅　室内
-stralias KAW_R1cN,"BMP\background\kawhouse\KAW_R1cN.bmp"  ;川畑宅　室内
-stralias KAW_R2a,"BMP\background\kawhouse\KAW_R2a.bmp"  ;川畑宅　室内
-stralias KAW_R3a,"BMP\background\kawhouse\KAW_R3a.bmp"  ;川畑宅　昼間　店
-stralias KAW_R3aN,"BMP\background\kawhouse\KAW_R3aN.bmp"  ;川畑宅　夜　店
-stralias KAW_R3b,"BMP\background\kawhouse\KAW_R3b.bmp"  ;川畑宅　昼間　店
-stralias KAW_R3bN,"BMP\background\kawhouse\KAW_R3bN.bmp"  ;川畑宅　夜　店
-stralias KAW_R3c,"BMP\background\kawhouse\KAW_R3c.bmp"  ;川畑宅　昼間　店
-stralias KAW_R3cN,"BMP\background\kawhouse\KAW_R3cN.bmp"  ;川畑宅　夜　店
+stralias KAW_R1aN,":b;BMP\background\Kawhouse\KAW_R1aN.png"  ;川畑宅　室内
+stralias KAW_R1bN,":b;BMP\background\kawhouse\KAW_R1bN.png"  ;川畑宅　室内
+stralias KAW_R1cN,":b;BMP\background\kawhouse\KAW_R1cN.png"  ;川畑宅　室内
+stralias KAW_R2a,":b;BMP\background\kawhouse\KAW_R2a.png"  ;川畑宅　室内
+stralias KAW_R3a,":b;BMP\background\kawhouse\KAW_R3a.png"  ;川畑宅　昼間　店
+stralias KAW_R3aN,":b;BMP\background\kawhouse\KAW_R3aN.png"  ;川畑宅　夜　店
+stralias KAW_R3b,":b;BMP\background\kawhouse\KAW_R3b.png"  ;川畑宅　昼間　店
+stralias KAW_R3bN,":b;BMP\background\kawhouse\KAW_R3bN.png"  ;川畑宅　夜　店
+stralias KAW_R3c,":b;BMP\background\kawhouse\KAW_R3c.png"  ;川畑宅　昼間　店
+stralias KAW_R3cN,":b;BMP\background\kawhouse\KAW_R3cN.png"  ;川畑宅　夜　店
 
-stralias cit_1a,"BMP\background\city\cit_1a.bmp"  ;街の風景　１枚目 city sky
+stralias cit_1a,":b;BMP\background\city\cit_1a.png"  ;街の風景　１枚目 city sky
 
-stralias cit_2a,"BMP\background\city\cit_2a.bmp"  ;街の夜景　１枚目 city sky
-stralias cit_2b,"BMP\background\city\cit_2b.bmp"  ;街の夜景　２枚目 city sky
+stralias cit_2a,":b;BMP\background\city\cit_2a.png"  ;街の夜景　１枚目 city sky
+stralias cit_2b,":b;BMP\background\city\cit_2b.png"  ;街の夜景　２枚目 city sky
 
-stralias cit_3a,"BMP\background\city\cit_3a.bmp"  ;街の夜道　１枚目
+stralias cit_3a,":b;BMP\background\city\cit_3a.png"  ;街の夜道　１枚目
 
-stralias cit_4a,"BMP\background\city\cit_4a.bmp"  ;街の風景
+stralias cit_4a,":b;BMP\background\city\cit_4a.png"  ;街の風景
 
-stralias par_1a,"BMP\background\city\par_1a.bmp"  ;
-stralias par_1b,"BMP\background\city\par_1b.bmp"  ;
-stralias par_1c,"BMP\background\city\par_1c.bmp"  ;
+stralias par_1a,":b;BMP\background\city\par_1a.png"  ;
+stralias par_1b,":b;BMP\background\city\par_1b.png"  ;
+stralias par_1c,":b;BMP\background\city\par_1c.png"  ;
 
-stralias con_i1a,"BMP\background\city\con_i1a.bmp"  ;コンビニ　店内
+stralias con_i1a,":b;BMP\background\city\con_i1a.png"  ;コンビニ　店内
 
-stralias cof_1a,"BMP\background\city\cof_1a.bmp"  ;喫茶店　１枚目 coffee shop
+stralias cof_1a,":b;BMP\background\city\cof_1a.png"  ;喫茶店　１枚目 coffee shop
 
-stralias BUI_o1a,"BMP\background\city\BUI_o1a.bmp"  ;右代宮ビル　全景
-stralias BUI_o2a,"BMP\background\city\BUI_o2a.bmp"  ;右代宮ビル　外階段
-stralias BUI_o2b,"BMP\background\city\BUI_o2b.bmp"  ;右代宮ビル　外階段前
+stralias BUI_o1a,":b;BMP\background\city\BUI_o1a.png"  ;右代宮ビル　全景
+stralias BUI_o2a,":b;BMP\background\city\BUI_o2a.png"  ;右代宮ビル　外階段
+stralias BUI_o2b,":b;BMP\background\city\BUI_o2b.png"  ;右代宮ビル　外階段前
 
-stralias BUI_R1a,"BMP\background\city\BUI_R1a.bmp"  ;右代宮ビル　部屋１
-stralias BUI_R1b,"BMP\background\city\BUI_R1b.bmp"  ;右代宮ビル　部屋２
-stralias BUI_R1c,"BMP\background\city\BUI_R1c.bmp"  ;右代宮ビル　部屋３
-stralias BUI_R1d,"BMP\background\city\BUI_R1d.bmp"  ;右代宮ビル　部屋４
+stralias BUI_R1a,":b;BMP\background\city\BUI_R1a.png"  ;右代宮ビル　部屋１
+stralias BUI_R1b,":b;BMP\background\city\BUI_R1b.png"  ;右代宮ビル　部屋２
+stralias BUI_R1c,":b;BMP\background\city\BUI_R1c.png"  ;右代宮ビル　部屋３
+stralias BUI_R1d,":b;BMP\background\city\BUI_R1d.png"  ;右代宮ビル　部屋４
 
-stralias BUI_E1a,"BMP\background\city\BUI_E1a.bmp"  ;エレベーターホール
+stralias BUI_E1a,":b;BMP\background\city\BUI_E1a.png"  ;エレベーターホール
 
-stralias BUI_inf1a,"BMP\background\city\BUI_inf1a.bmp"  ;受付　information
-stralias BUI_inf1b,"BMP\background\city\BUI_inf1b.bmp"  ;受付
-stralias BUI_inf1c,"BMP\background\city\BUI_inf1c.bmp"  ;受付
+stralias BUI_inf1a,":b;BMP\background\city\BUI_inf1a.png"  ;受付　information
+stralias BUI_inf1b,":b;BMP\background\city\BUI_inf1b.png"  ;受付
+stralias BUI_inf1c,":b;BMP\background\city\BUI_inf1c.png"  ;受付
 
-stralias HOT_i1a,"BMP\background\city\HOT_i1a.bmp"  ;ホテル内（見上げる構図
-stralias HOT_i1b,"BMP\background\city\HOT_i1b.bmp"  ;エレベーターホール（スイートルーム
+stralias HOT_i1a,":b;BMP\background\city\HOT_i1a.png"  ;ホテル内（見上げる構図
+stralias HOT_i1b,":b;BMP\background\city\HOT_i1b.png"  ;エレベーターホール（スイートルーム
 
-stralias HOT_R1a,"BMP\background\city\HOT_R1a.bmp"  ;ホテル　室内
-stralias HOT_R1b,"BMP\background\city\HOT_R1b.bmp"  ;
-stralias HOT_R1c,"BMP\background\city\HOT_R1c.bmp"  ;
+stralias HOT_R1a,":b;BMP\background\city\HOT_R1a.png"  ;ホテル　室内
+stralias HOT_R1b,":b;BMP\background\city\HOT_R1b.png"  ;
+stralias HOT_R1c,":b;BMP\background\city\HOT_R1c.png"  ;
 
-stralias sta_1a,"BMP\background\city\sta_1a.bmp"  ;駅　１枚目 station
+stralias sta_1a,":b;BMP\background\city\sta_1a.png"  ;駅　１枚目 station
 
-stralias Hos_P1a,"BMP\background\city\Hos_P1a.bmp"  ;病院　通路　１枚目
-stralias Hos_P1b,"BMP\background\city\Hos_P1b.bmp"  ;病院　通路　２枚目
+stralias Hos_P1a,":b;BMP\background\city\Hos_P1a.png"  ;病院　通路　１枚目
+stralias Hos_P1b,":b;BMP\background\city\Hos_P1b.png"  ;病院　通路　２枚目
 
-stralias Hos_R1a,"BMP\background\city\Hos_R1a.bmp"  ;病院　病室　１枚目
-stralias Hos_R1b,"BMP\background\city\Hos_R1b.bmp"  ;病院　病室　２枚目
-stralias Hos_R1c,"BMP\background\city\Hos_R1c.bmp"  ;病院　病室　３枚目
+stralias Hos_R1a,":b;BMP\background\city\Hos_R1a.png"  ;病院　病室　１枚目
+stralias Hos_R1b,":b;BMP\background\city\Hos_R1b.png"  ;病院　病室　２枚目
+stralias Hos_R1c,":b;BMP\background\city\Hos_R1c.png"  ;病院　病室　３枚目
 
-stralias off_1a,"BMP\background\city\off_1a.bmp"  ;オフィス電話　１枚目 office
+stralias off_1a,":b;BMP\background\city\off_1a.png"  ;オフィス電話　１枚目 office
 
-stralias tra_1a,"BMP\background\city\tra_1a.bmp"  ;電車　（車内）　１枚目 train
-stralias tra_1b,"BMP\background\city\tra_1b.bmp"  ;電車　（車内）　２枚目
-stralias tra_1c,"BMP\background\city\tra_1c.bmp"  ;電車　（車内）　３枚目
+stralias tra_1a,":b;BMP\background\city\tra_1a.png"  ;電車　（車内）　１枚目 train
+stralias tra_1b,":b;BMP\background\city\tra_1b.png"  ;電車　（車内）　２枚目
+stralias tra_1c,":b;BMP\background\city\tra_1c.png"  ;電車　（車内）　３枚目
 
 ;空港
-stralias air_o1a,"BMP\background\airport\air_out1a.bmp"  ;空港　外　１枚目
+stralias air_o1a,":b;BMP\background\airport\air_out1a.png"  ;空港　外　１枚目
 
-stralias air_i1a,"BMP\background\airport\air_in1a.bmp"  ;空港　室内　１枚目
-stralias air_i1b,"BMP\background\airport\air_in1b.bmp"  ;空港　室内　２枚目
-stralias air_i1c,"BMP\background\airport\air_in1c.bmp"  ;空港　室内　３枚目
-stralias air_i1d,"BMP\background\airport\air_in1d.bmp"  ;空港　室内　４枚目
-stralias air_i1e,"BMP\background\airport\air_in1e.bmp"  ;空港　室内　５枚目（カウンター前）
+stralias air_i1a,":b;BMP\background\airport\air_in1a.png"  ;空港　室内　１枚目
+stralias air_i1b,":b;BMP\background\airport\air_in1b.png"  ;空港　室内　２枚目
+stralias air_i1c,":b;BMP\background\airport\air_in1c.png"  ;空港　室内　３枚目
+stralias air_i1d,":b;BMP\background\airport\air_in1d.png"  ;空港　室内　４枚目
+stralias air_i1e,":b;BMP\background\airport\air_in1e.png"  ;空港　室内　５枚目（カウンター前）
 
-stralias air_T1a,"BMP\background\airport\air_T1a.bmp"  ;空港トイレ　個室　１枚目
-stralias air_T2a,"BMP\background\airport\air_T2a.bmp"  ;空港トイレ　　１枚目
+stralias air_T1a,":b;BMP\background\airport\air_T1a.png"  ;空港トイレ　個室　１枚目
+stralias air_T2a,":b;BMP\background\airport\air_T2a.png"  ;空港トイレ　　１枚目
 
 ;新島空港
-stralias air_o2a,"BMP\background\airport\air_out2a.bmp"  ;新島空港　外　１枚目
+stralias air_o2a,":b;BMP\background\airport\air_out2a.png"  ;新島空港　外　１枚目
 
-stralias air_o2b,"BMP\background\airport\air_out2b.bmp"  ;新島空港　外　１枚目
-stralias air_o2bR,"BMP\background\airport\air_out2bR.bmp"  ;新島空港　外　反転
+stralias air_o2b,":b;BMP\background\airport\air_out2b.png"  ;新島空港　外　１枚目
+stralias air_o2bR,":b;BMP\background\airport\air_out2bR.png"  ;新島空港　外　反転
 
-stralias air_i2a,"BMP\background\airport\air_in2a.bmp"  ;新島空港　室内　１枚目
-stralias air_i2b,"BMP\background\airport\air_in2b.bmp"  ;新島空港　室内　２枚目
+stralias air_i2a,":b;BMP\background\airport\air_in2a.png"  ;新島空港　室内　１枚目
+stralias air_i2b,":b;BMP\background\airport\air_in2b.png"  ;新島空港　室内　２枚目
 
 ;飛行機
 
-stralias airp_o1a,"BMP\background\airport\airp_out1a.bmp"  ;飛行機　外１　１枚目airplane
-stralias airp_o2a,"BMP\background\airport\airp_out2a.bmp"  ;飛行機　外２　１枚目（遠め）
-stralias airp_o2b,"BMP\background\airport\airp_out2b.bmp"  ;飛行機　外２　２枚目（至近）
+stralias airp_o1a,":b;BMP\background\airport\airp_out1a.png"  ;飛行機　外１　１枚目airplane
+stralias airp_o2a,":b;BMP\background\airport\airp_out2a.png"  ;飛行機　外２　１枚目（遠め）
+stralias airp_o2b,":b;BMP\background\airport\airp_out2b.png"  ;飛行機　外２　２枚目（至近）
 
-stralias airp_i1a,"BMP\background\airport\airp_in1a.bmp"  ;飛行機　機内　１枚目
-stralias airp_i1b,"BMP\background\airport\airp_in1b.bmp"  ;飛行機　機内　２枚目
+stralias airp_i1a,":b;BMP\background\airport\airp_in1a.png"  ;飛行機　機内　１枚目
+stralias airp_i1b,":b;BMP\background\airport\airp_in1b.png"  ;飛行機　機内　２枚目
 
-stralias airp_w1a,"BMP\background\airport\airp_w1a.bmp"  ;飛行機　窓　１枚目
-stralias airp_w1b,"BMP\background\airport\airp_w1b.bmp"  ;飛行機　窓　２枚目
-stralias airp_w1c,"BMP\background\airport\airp_w1c.bmp"  ;飛行機　窓　３枚目
-stralias airp_w1d,"BMP\background\airport\airp_w1d.bmp"  ;飛行機　窓　４枚目
-stralias airp_w1e,"BMP\background\airport\airp_w1e.bmp"  ;飛行機　窓　５枚目
-stralias airp_w1f,"BMP\background\airport\airp_w1f.bmp"  ;飛行機　窓　６枚目
-stralias airp_w1g,"BMP\background\airport\airp_w1g.bmp"  ;飛行機　窓　７枚目
-stralias airp_w1h,"BMP\background\airport\airp_w1h.bmp"  ;飛行機　窓　８枚目
-stralias airp_w1i,"BMP\background\airport\airp_w1i.bmp"  ;飛行機　窓　９枚目
-stralias airp_w1j,"BMP\background\airport\airp_w1j.bmp"  ;飛行機　窓　１０枚目
-stralias airp_w1k,"BMP\background\airport\airp_w1k.bmp"  ;飛行機　窓　１１枚目
+stralias airp_w1a,":b;BMP\background\airport\airp_w1a.png"  ;飛行機　窓　１枚目
+stralias airp_w1b,":b;BMP\background\airport\airp_w1b.png"  ;飛行機　窓　２枚目
+stralias airp_w1c,":b;BMP\background\airport\airp_w1c.png"  ;飛行機　窓　３枚目
+stralias airp_w1d,":b;BMP\background\airport\airp_w1d.png"  ;飛行機　窓　４枚目
+stralias airp_w1e,":b;BMP\background\airport\airp_w1e.png"  ;飛行機　窓　５枚目
+stralias airp_w1f,":b;BMP\background\airport\airp_w1f.png"  ;飛行機　窓　６枚目
+stralias airp_w1g,":b;BMP\background\airport\airp_w1g.png"  ;飛行機　窓　７枚目
+stralias airp_w1h,":b;BMP\background\airport\airp_w1h.png"  ;飛行機　窓　８枚目
+stralias airp_w1i,":b;BMP\background\airport\airp_w1i.png"  ;飛行機　窓　９枚目
+stralias airp_w1j,":b;BMP\background\airport\airp_w1j.png"  ;飛行機　窓　１０枚目
+stralias airp_w1k,":b;BMP\background\airport\airp_w1k.png"  ;飛行機　窓　１１枚目
 
 
-stralias car_i1a,"BMP\background\airport\car_i1a.bmp"  ;車　車内　１枚目
+stralias car_i1a,":b;BMP\background\airport\car_i1a.png"  ;車　車内　１枚目
 
-stralias car_o2a,"BMP\background\airport\car_o2a.bmp"  ;
-stralias car_o2b,"BMP\background\airport\car_o2b.bmp"  ;
-stralias car_o2c,"BMP\background\airport\car_o2c.bmp"  ;
+stralias car_o2a,":b;BMP\background\airport\car_o2a.png"  ;
+stralias car_o2b,":b;BMP\background\airport\car_o2b.png"  ;
+stralias car_o2c,":b;BMP\background\airport\car_o2c.png"  ;
 
-stralias car_i3a,"BMP\background\airport\car_i3a.bmp"  ;車　車内　レンタカー
-stralias car_i3b,"BMP\background\airport\car_i3b.bmp"  ;車　車内　
-stralias car_i3c,"BMP\background\airport\car_i3c.bmp"  ;車　車内　
+stralias car_i3a,":b;BMP\background\airport\car_i3a.png"  ;車　車内　レンタカー
+stralias car_i3b,":b;BMP\background\airport\car_i3b.png"  ;車　車内　
+stralias car_i3c,":b;BMP\background\airport\car_i3c.png"  ;車　車内　
 
 ;港
 
-stralias ship_P1a,"BMP\background\ship\ship_P1a.bmp"  ;港　埠頭　１枚目
-stralias ship_P1b,"BMP\background\ship\ship_P1b.bmp"  ;港　埠頭　２枚目
-stralias ship_P1c,"BMP\background\ship\ship_P1c.bmp"  ;港　埠頭　３枚目
+stralias ship_P1a,":b;BMP\background\ship\ship_P1a.png"  ;港　埠頭　１枚目
+stralias ship_P1b,":b;BMP\background\ship\ship_P1b.png"  ;港　埠頭　２枚目
+stralias ship_P1c,":b;BMP\background\ship\ship_P1c.png"  ;港　埠頭　３枚目
 
 
 ;船
 
-stralias ship_S1a,"BMP\background\ship\ship_S1a.bmp"  ;船　接岸　１枚目
-stralias ship_S1b,"BMP\background\ship\ship_S1b.bmp"  ;船　接岸　２枚目
-stralias ship_S1c,"BMP\background\ship\ship_S1c.bmp"  ;船　接岸　３枚目
+stralias ship_S1a,":b;BMP\background\ship\ship_S1a.png"  ;船　接岸　１枚目
+stralias ship_S1b,":b;BMP\background\ship\ship_S1b.png"  ;船　接岸　２枚目
+stralias ship_S1c,":b;BMP\background\ship\ship_S1c.png"  ;船　接岸　３枚目
 
-stralias ship_S2a,"BMP\background\ship\ship_S2a.bmp"  ;船　甲板　１枚目
-stralias ship_S2b,"BMP\background\ship\ship_S2b.bmp"  ;船　甲板　２枚目
-stralias ship_S2c,"BMP\background\ship\ship_S2c.bmp"  ;船　甲板　３枚目
+stralias ship_S2a,":b;BMP\background\ship\ship_S2a.png"  ;船　甲板　１枚目
+stralias ship_S2b,":b;BMP\background\ship\ship_S2b.png"  ;船　甲板　２枚目
+stralias ship_S2c,":b;BMP\background\ship\ship_S2c.png"  ;船　甲板　３枚目
 
-stralias ship_S3a,"BMP\background\ship\ship_S3a.bmp"  ;船　船内　１枚目
-stralias ship_S3b,"BMP\background\ship\ship_S3b.bmp"  ;船　船内　１枚目
-stralias ship_S3c,"BMP\background\ship\ship_S3c.bmp"  ;船　船内　１枚目
+stralias ship_S3a,":b;BMP\background\ship\ship_S3a.png"  ;船　船内　１枚目
+stralias ship_S3b,":b;BMP\background\ship\ship_S3b.png"  ;船　船内　１枚目
+stralias ship_S3c,":b;BMP\background\ship\ship_S3c.png"  ;船　船内　１枚目
 
-stralias sea_1a,"BMP\background\ship\sea_1a.bmp"  ;船　海　１枚目
-stralias sea_1b,"BMP\background\ship\sea_1b.bmp"  ;船　海　２枚目
-stralias sea_1c,"BMP\background\ship\sea_1c.bmp"  ;船　海　３枚目
-stralias sea_1d,"BMP\background\ship\sea_1d.bmp"  ;船　海　４枚目
+stralias sea_1a,":b;BMP\background\ship\sea_1a.png"  ;船　海　１枚目
+stralias sea_1b,":b;BMP\background\ship\sea_1b.png"  ;船　海　２枚目
+stralias sea_1c,":b;BMP\background\ship\sea_1c.png"  ;船　海　３枚目
+stralias sea_1d,":b;BMP\background\ship\sea_1d.png"  ;船　海　４枚目
 
-stralias sea_2a,"BMP\background\ship\sea_2a.bmp"  ;船　荒波　１枚目
-stralias sea_2b,"BMP\background\ship\sea_2b.bmp"  ;船　荒波　２枚目
-stralias sea_2c,"BMP\background\ship\sea_2c.bmp"  ;船　荒波　３枚目
+stralias sea_2a,":b;BMP\background\ship\sea_2a.png"  ;船　荒波　１枚目
+stralias sea_2b,":b;BMP\background\ship\sea_2b.png"  ;船　荒波　２枚目
+stralias sea_2c,":b;BMP\background\ship\sea_2c.png"  ;船　荒波　３枚目
 
-stralias sea_3a,"BMP\background\ship\sea_3a.bmp"  ;海　海岸　見下ろし
-stralias sea_3b,"BMP\background\ship\sea_3b.bmp"  ;海　水面
+stralias sea_3a,":b;BMP\background\ship\sea_3a.png"  ;海　海岸　見下ろし
+stralias sea_3b,":b;BMP\background\ship\sea_3b.png"  ;海　水面
 
-stralias shr_1a,"BMP\background\ship\shr_1a.bmp"  ;船　祠　１枚目　shrine
-
-
+stralias shr_1a,":b;BMP\background\ship\shr_1a.png"  ;船　祠　１枚目　shrine
 
 
-stralias Outdoor_1aN,"BMP\background\forest\Outdoor_1aN.bmp"  ;屋外のどこか（夜
+
+
+stralias Outdoor_1aN,":b;BMP\background\forest\Outdoor_1aN.png"  ;屋外のどこか（夜
 
 ;森から庭園への道
 
-stralias forest_P1a,"BMP\background\forest\forest_P1a.bmp"  ;庭園への道　１枚目
-stralias forest_P1aN,"BMP\background\forest\forest_P1aN.bmp"  ;庭園への道　１枚目
-stralias forest_P1aR,"BMP\background\forest\forest_P1aR.bmp"  ;庭園への道　１枚目
-stralias forest_P1b,"BMP\background\forest\forest_P1b.bmp"  ;庭園への道　２枚目
-stralias forest_P1bN,"BMP\background\forest\forest_P1bN.bmp"  ;庭園への道　２枚目
-stralias forest_P1bR,"BMP\background\forest\forest_P1bR.bmp"  ;庭園への道　２枚目
+stralias forest_P1a,":b;BMP\background\forest\forest_P1a.png"  ;庭園への道　１枚目
+stralias forest_P1aN,":b;BMP\background\forest\forest_P1aN.png"  ;庭園への道　１枚目
+stralias forest_P1aR,":b;BMP\background\forest\forest_P1aR.png"  ;庭園への道　１枚目
+stralias forest_P1b,":b;BMP\background\forest\forest_P1b.png"  ;庭園への道　２枚目
+stralias forest_P1bN,":b;BMP\background\forest\forest_P1bN.png"  ;庭園への道　２枚目
+stralias forest_P1bR,":b;BMP\background\forest\forest_P1bR.png"  ;庭園への道　２枚目
 
 
-stralias forest_S1a,"BMP\background\forest\forest_S1a.bmp"  ;庭園への階段　１枚目
-stralias forest_S1b,"BMP\background\forest\forest_S1b.bmp"  ;庭園への階段　２枚目
+stralias forest_S1a,":b;BMP\background\forest\forest_S1a.png"  ;庭園への階段　１枚目
+stralias forest_S1b,":b;BMP\background\forest\forest_S1b.png"  ;庭園への階段　２枚目
 
 
 
 
 ;獣道
-stralias forest_P2a,"BMP\background\forest\forest_P2a.bmp"  ;
-stralias forest_P2aN,"BMP\background\forest\forest_P2aN.bmp"  ;
-stralias forest_P2aR,"BMP\background\forest\forest_P2aR.bmp"  ;
+stralias forest_P2a,":b;BMP\background\forest\forest_P2a.png"  ;
+stralias forest_P2aN,":b;BMP\background\forest\forest_P2aN.png"  ;
+stralias forest_P2aR,":b;BMP\background\forest\forest_P2aR.png"  ;
 
-stralias forest_P2b,"BMP\background\forest\forest_P2b.bmp"  ;
-stralias forest_P2bN,"BMP\background\forest\forest_P2bN.bmp"  ;
-stralias forest_P2bR,"BMP\background\forest\forest_P2bR.bmp"  ;
+stralias forest_P2b,":b;BMP\background\forest\forest_P2b.png"  ;
+stralias forest_P2bN,":b;BMP\background\forest\forest_P2bN.png"  ;
+stralias forest_P2bR,":b;BMP\background\forest\forest_P2bR.png"  ;
 
 ;崖
-stralias cliff_1a,"BMP\background\forest\cliff_1a.bmp"  ;
-stralias cliff_1b,"BMP\background\forest\cliff_1b.bmp"  ;
+stralias cliff_1a,":b;BMP\background\forest\cliff_1a.png"  ;
+stralias cliff_1b,":b;BMP\background\forest\cliff_1b.png"  ;
 
-stralias hill_1a,"BMP\background\forest\Hill_1a.bmp"  ;丘
-stralias hill_1b,"BMP\background\forest\Hill_1b.bmp"  ;
-stralias hill_1c,"BMP\background\forest\Hill_1c.bmp"  ;
-stralias hill_1aR,"BMP\background\forest\Hill_1aR.bmp"  ;
-stralias hill_1bR,"BMP\background\forest\Hill_1bR.bmp"  ;
-stralias hill_1cR,"BMP\background\forest\Hill_1cR.bmp"  ;
-stralias hill_1aN,"BMP\background\forest\Hill_1aN.bmp"  ;
-stralias hill_1bN,"BMP\background\forest\Hill_1bN.bmp"  ;
-stralias hill_1cN,"BMP\background\forest\Hill_1cN.bmp"  ;
+stralias hill_1a,":b;BMP\background\forest\Hill_1a.png"  ;丘
+stralias hill_1b,":b;BMP\background\forest\Hill_1b.png"  ;
+stralias hill_1c,":b;BMP\background\forest\Hill_1c.png"  ;
+stralias hill_1aR,":b;BMP\background\forest\Hill_1aR.png"  ;
+stralias hill_1bR,":b;BMP\background\forest\Hill_1bR.png"  ;
+stralias hill_1cR,":b;BMP\background\forest\Hill_1cR.png"  ;
+stralias hill_1aN,":b;BMP\background\forest\Hill_1aN.png"  ;
+stralias hill_1bN,":b;BMP\background\forest\Hill_1bN.png"  ;
+stralias hill_1cN,":b;BMP\background\forest\Hill_1cN.png"  ;
 
 ;砂浜から森へ
 
-stralias beach_1a,"BMP\background\forest\beach_1a.bmp"  ;船着場から砂浜　１枚目
-stralias beach_1aN,"BMP\background\forest\beach_1aN.bmp"  ;船着場から砂浜　１枚目
-stralias beach_1b,"BMP\background\forest\beach_1b.bmp"  ;船着場から砂浜　２枚目
+stralias beach_1a,":b;BMP\background\forest\beach_1a.png"  ;船着場から砂浜　１枚目
+stralias beach_1aN,":b;BMP\background\forest\beach_1aN.png"  ;船着場から砂浜　１枚目
+stralias beach_1b,":b;BMP\background\forest\beach_1b.png"  ;船着場から砂浜　２枚目
 
-stralias beach_2a,"BMP\background\forest\beach_2a.bmp"  ;砂浜　１枚目
-stralias beach_2b,"BMP\background\forest\beach_2b.bmp"  ;砂浜　２枚目
+stralias beach_2a,":b;BMP\background\forest\beach_2a.png"  ;砂浜　１枚目
+stralias beach_2b,":b;BMP\background\forest\beach_2b.png"  ;砂浜　２枚目
 
-stralias beach_3a,"BMP\background\forest\beach_3a.bmp"  ;砂浜　荒れ模様１枚目
+stralias beach_3a,":b;BMP\background\forest\beach_3a.png"  ;砂浜　荒れ模様１枚目
 
-stralias beach_L1a,"BMP\background\forest\beach_L1a.bmp"  ;砂浜空ロング昼１
+stralias beach_L1a,":b;BMP\background\forest\beach_L1a.png"  ;砂浜空ロング昼１
 
-stralias beach_L2a,"BMP\background\forest\beach_L2a.bmp"  ;砂浜空ロング夕１
+stralias beach_L2a,":b;BMP\background\forest\beach_L2a.png"  ;砂浜空ロング夕１
 
-stralias beach_S1a,"BMP\background\forest\beach_S1a.bmp"  ;砂浜からの階段　１枚目
-stralias beach_S1b,"BMP\background\forest\beach_S1b.bmp"  ;砂浜からの階段　２枚目
-stralias beach_S1c,"BMP\background\forest\beach_S1c.bmp"  ;砂浜からの階段　３枚目
-stralias beach_S2a,"BMP\background\forest\beach_S2a.bmp"  ;砂浜からの階段２　１枚目
-stralias beach_S2b,"BMP\background\forest\beach_S2b.bmp"  ;砂浜からの階段２　２枚目
+stralias beach_S1a,":b;BMP\background\forest\beach_S1a.png"  ;砂浜からの階段　１枚目
+stralias beach_S1b,":b;BMP\background\forest\beach_S1b.png"  ;砂浜からの階段　２枚目
+stralias beach_S1c,":b;BMP\background\forest\beach_S1c.png"  ;砂浜からの階段　３枚目
+stralias beach_S2a,":b;BMP\background\forest\beach_S2a.png"  ;砂浜からの階段２　１枚目
+stralias beach_S2b,":b;BMP\background\forest\beach_S2b.png"  ;砂浜からの階段２　２枚目
 
-stralias well_1a,"BMP\background\forest\well_1a.bmp"  ;森の中の井戸１
-stralias well_1b,"BMP\background\forest\well_1b.bmp"  ;森の中の井戸２
-stralias well_1c,"BMP\background\forest\well_1c.bmp"  ;森の中の井戸３
-stralias well_1aR,"BMP\background\forest\well_1aR.bmp"  ;森の中の井戸１
-stralias well_1bR,"BMP\background\forest\well_1bR.bmp"  ;森の中の井戸２
-stralias well_1cR,"BMP\background\forest\well_1cR.bmp"  ;森の中の井戸３
-stralias well_1aN,"BMP\background\forest\well_1aN.bmp"  ;森の中の井戸１
-stralias well_1bN,"BMP\background\forest\well_1bN.bmp"  ;森の中の井戸２
-stralias well_1cN,"BMP\background\forest\well_1cN.bmp"  ;森の中の井戸３
+stralias well_1a,":b;BMP\background\forest\well_1a.png"  ;森の中の井戸１
+stralias well_1b,":b;BMP\background\forest\well_1b.png"  ;森の中の井戸２
+stralias well_1c,":b;BMP\background\forest\well_1c.png"  ;森の中の井戸３
+stralias well_1aR,":b;BMP\background\forest\well_1aR.png"  ;森の中の井戸１
+stralias well_1bR,":b;BMP\background\forest\well_1bR.png"  ;森の中の井戸２
+stralias well_1cR,":b;BMP\background\forest\well_1cR.png"  ;森の中の井戸３
+stralias well_1aN,":b;BMP\background\forest\well_1aN.png"  ;森の中の井戸１
+stralias well_1bN,":b;BMP\background\forest\well_1bN.png"  ;森の中の井戸２
+stralias well_1cN,":b;BMP\background\forest\well_1cN.png"  ;森の中の井戸３
 
 
-stralias Sky_1a,"BMP\background\forest\Sky_1a.bmp"  ;青空　１枚目
-stralias Sky_2a,"BMP\background\forest\Sky_2a.bmp"  ;夕焼け　１枚目
-stralias Sky_2b,"BMP\background\forest\Sky_2b.bmp"  ;夕焼け　２枚目
+stralias Sky_1a,":b;BMP\background\forest\Sky_1a.png"  ;青空　１枚目
+stralias Sky_2a,":b;BMP\background\forest\Sky_2a.png"  ;夕焼け　１枚目
+stralias Sky_2b,":b;BMP\background\forest\Sky_2b.png"  ;夕焼け　２枚目
 
-stralias Sky_3a,"BMP\background\forest\Sky_3a.bmp"  ;青空　１枚目
+stralias Sky_3a,":b;BMP\background\forest\Sky_3a.png"  ;青空　１枚目
 
-stralias Sky_4a,"BMP\background\forest\Sky_4a.bmp"  ;空
-stralias Sky_4b,"BMP\background\forest\Sky_4b.bmp"  ;空
+stralias Sky_4a,":b;BMP\background\forest\Sky_4a.png"  ;空
+stralias Sky_4b,":b;BMP\background\forest\Sky_4b.png"  ;空
 
-stralias moon_1a,"BMP\background\forest\moon_1a.bmp"  ;満月　１枚目
-stralias moon_2a,"BMP\background\forest\moon_2a.bmp"  ;満月　都市部
+stralias moon_1a,":b;BMP\background\forest\moon_1a.png"  ;満月　１枚目
+stralias moon_2a,":b;BMP\background\forest\moon_2a.png"  ;満月　都市部
 
-stralias OBS_1a,"BMP\background\forest\OBS_1a.bmp"  ;(心象世界の)展望台　observatory
+stralias OBS_1a,":b;BMP\background\forest\OBS_1a.png"  ;(心象世界の)展望台　observatory
 
-stralias Different_garden1a,"BMP\background\garden\Different_garden1a.bmp"  ;不思議な森の道　１枚目
-stralias Different_garden1b,"BMP\background\garden\Different_garden1b.bmp"  ;不思議な森の道　２枚目
+stralias Different_garden1a,":b;BMP\background\garden\Different_garden1a.png"  ;不思議な森の道　１枚目
+stralias Different_garden1b,":b;BMP\background\garden\Different_garden1b.png"  ;不思議な森の道　２枚目
 
 ;薔薇庭園
 
-stralias rose_G1a,"BMP\background\garden\rose_G1a.bmp"  ;庭園　館外観正面　１枚目
-stralias rose_G1aR,"BMP\background\garden\rose_G1aR.bmp"  ;庭園　館外観正面　１枚目の雨
-stralias rose_G1aN,"BMP\background\garden\rose_G1aN.bmp"  ;庭園　館外観正面　１枚目の夜
-stralias rose_G1b,"BMP\background\garden\rose_G1b.bmp"  ;庭園　館外観正面　２枚目
-stralias rose_G1c,"BMP\background\garden\rose_G1c.bmp"  ;庭園　館外観正面　３枚目
-stralias rose_G1d,"BMP\background\garden\rose_G1d.bmp"  ;庭園　館外観正面　４枚目
+stralias rose_G1a,":b;BMP\background\garden\rose_G1a.png"  ;庭園　館外観正面　１枚目
+stralias rose_G1aR,":b;BMP\background\garden\rose_G1aR.png"  ;庭園　館外観正面　１枚目の雨
+stralias rose_G1aN,":b;BMP\background\garden\rose_G1aN.png"  ;庭園　館外観正面　１枚目の夜
+stralias rose_G1b,":b;BMP\background\garden\rose_G1b.png"  ;庭園　館外観正面　２枚目
+stralias rose_G1c,":b;BMP\background\garden\rose_G1c.png"  ;庭園　館外観正面　３枚目
+stralias rose_G1d,":b;BMP\background\garden\rose_G1d.png"  ;庭園　館外観正面　４枚目
 
-stralias warehous_o1a,"BMP\background\garden\warehous_o1a.bmp"  ;庭園　倉庫外観　１枚目
-stralias warehous_o2a,"BMP\background\garden\warehous_o2a.bmp"  ;庭園　倉庫外観　１枚目　シャッターが開く
-stralias warehous_i1a,"BMP\background\garden\warehous_i1a.bmp"  ;庭園　倉庫内部　１枚目
-stralias warehous_i1b,"BMP\background\garden\warehous_i1b.bmp"  ;庭園　倉庫内部　２枚目
-stralias warehous_i1c,"BMP\background\garden\warehous_i1c.bmp"  ;庭園　倉庫内部　３枚目
-stralias warehous_i1d,"BMP\background\garden\warehous_i1d.bmp"  ;庭園　倉庫内部　４枚目
-stralias warehous_i1e,"BMP\background\garden\warehous_i1e.bmp"  ;庭園　倉庫内部　５枚目　天井
+stralias warehous_o1a,":b;BMP\background\garden\warehous_o1a.png"  ;庭園　倉庫外観　１枚目
+stralias warehous_o2a,":b;BMP\background\garden\warehous_o2a.png"  ;庭園　倉庫外観　１枚目　シャッターが開く
+stralias warehous_i1a,":b;BMP\background\garden\warehous_i1a.png"  ;庭園　倉庫内部　１枚目
+stralias warehous_i1b,":b;BMP\background\garden\warehous_i1b.png"  ;庭園　倉庫内部　２枚目
+stralias warehous_i1c,":b;BMP\background\garden\warehous_i1c.png"  ;庭園　倉庫内部　３枚目
+stralias warehous_i1d,":b;BMP\background\garden\warehous_i1d.png"  ;庭園　倉庫内部　４枚目
+stralias warehous_i1e,":b;BMP\background\garden\warehous_i1e.png"  ;庭園　倉庫内部　５枚目　天井
 
-stralias garden_1a,"BMP\background\garden\garden_1a.bmp"  ;庭園への道　１枚目
-stralias garden_1aR,"BMP\background\garden\garden_1aR.bmp"  ;雨庭園への道　１枚目
-stralias garden_1aN,"BMP\background\garden\garden_1aN.bmp"  ;夜庭園への道　１枚目
-stralias garden_1b,"BMP\background\garden\garden_1b.bmp"  ;庭園への道　２枚目
-stralias garden_1bR,"BMP\background\garden\garden_1bR.bmp"  ;雨庭園への道　２枚目
-stralias garden_1bN,"BMP\background\garden\garden_1bN.bmp"  ;夜庭園への道　２枚目
-stralias garden_1c,"BMP\background\garden\garden_1c.bmp"  ;庭園への道　３枚目
-stralias garden_1cR,"BMP\background\garden\garden_1cR.bmp";庭園への道３枚目の雨
-stralias garden_1cN,"BMP\background\garden\garden_1cN.bmp";庭園への道３枚目の夜
-
-
-
-stralias garden_R1a,"BMP\background\garden\garden_R1a.bmp"  ;庭園　昼間　東屋　１枚目
-stralias garden_R1aN,"BMP\background\garden\garden_R1aN.bmp"  ;庭園　夜　東屋　１枚目
-stralias garden_R1aR,"BMP\background\garden\garden_R1aR.bmp"  ;庭園　雨　東屋　１枚目
-stralias garden_R1b,"BMP\background\garden\garden_R1b.bmp"  ;庭園　昼間　東屋　２枚目
-stralias garden_R1bN,"BMP\background\garden\garden_R1bN.bmp"  ;庭園　夜　東屋　２枚目
-stralias garden_R1bR,"BMP\background\garden\garden_R1bR.bmp"  ;庭園　雨　東屋　２枚目
-stralias garden_R1c,"BMP\background\garden\garden_R1c.bmp"  ;庭園　昼間　東屋　３枚目
-stralias garden_R1cN,"BMP\background\garden\garden_R1cN.bmp"  ;庭園　夜　東屋　３枚目
-stralias garden_R1cR,"BMP\background\garden\garden_R1cR.bmp"  ;庭園　雨　東屋　３枚目
-stralias garden_R1d,"BMP\background\garden\garden_R1d.bmp"  ;庭園　昼間　東屋　４枚目
-stralias garden_R1dN,"BMP\background\garden\garden_R1dN.bmp"  ;庭園　夜　東屋　４枚目
-stralias garden_R1dR,"BMP\background\garden\garden_R1dR.bmp"  ;庭園　雨　東屋　４枚目
+stralias garden_1a,":b;BMP\background\garden\garden_1a.png"  ;庭園への道　１枚目
+stralias garden_1aR,":b;BMP\background\garden\garden_1aR.png"  ;雨庭園への道　１枚目
+stralias garden_1aN,":b;BMP\background\garden\garden_1aN.png"  ;夜庭園への道　１枚目
+stralias garden_1b,":b;BMP\background\garden\garden_1b.png"  ;庭園への道　２枚目
+stralias garden_1bR,":b;BMP\background\garden\garden_1bR.png"  ;雨庭園への道　２枚目
+stralias garden_1bN,":b;BMP\background\garden\garden_1bN.png"  ;夜庭園への道　２枚目
+stralias garden_1c,":b;BMP\background\garden\garden_1c.png"  ;庭園への道　３枚目
+stralias garden_1cR,":b;BMP\background\garden\garden_1cR.png";庭園への道３枚目の雨
+stralias garden_1cN,":b;BMP\background\garden\garden_1cN.png";庭園への道３枚目の夜
 
 
-stralias rose_P1a,"BMP\background\garden\rose_P1a.bmp"  ;庭園の道　１枚目
-stralias rose_P1aR,"BMP\background\garden\rose_P1aR.bmp"  ;雨庭園の道　１枚目
-stralias rose_P1aN,"BMP\background\garden\rose_P1aN.bmp"  ;夜庭園の道　１枚目
-stralias rose_P1aP,"BMP\background\garden\rose_P1aP.bmp"  ;庭園の道　１枚目
 
-stralias rose_1a,"BMP\background\garden\rose_1a.bmp"  ;庭園の薔薇　１枚目
-stralias rose_1aR,"BMP\background\garden\rose_1aR.bmp"  ;雨庭園の薔薇　１枚目
-stralias rose_1aN,"BMP\background\garden\rose_1aN.bmp"  ;夜庭園の薔薇　１枚目
-stralias rose_1b,"BMP\background\garden\rose_1b.bmp"  ;庭園の薔薇　２枚目
-stralias rose_1bR,"BMP\background\garden\rose_1bR.bmp"  ;雨庭園の薔薇　２枚目
-stralias rose_1bN,"BMP\background\garden\rose_1bN.bmp"  ;夜庭園の薔薇　２枚目
-stralias rose_1c,"BMP\background\garden\rose_1c.bmp"  ;庭園の薔薇　３枚目
-stralias rose_1cR,"BMP\background\garden\rose_1cR.bmp"  ;雨庭園の薔薇　３枚目
-stralias rose_1cN,"BMP\background\garden\rose_1cN.bmp"  ;夜庭園の薔薇　３枚目
-stralias rose_1cP,"BMP\background\garden\rose_1cP.bmp"  ;庭園の薔薇　３枚目
-stralias rose_1d,"BMP\background\garden\rose_1d.bmp"  ;庭園の薔薇　４枚目
-stralias rose_1dR,"BMP\background\garden\rose_1dR.bmp"  ;雨庭園の薔薇　４枚目
-stralias rose_1dN,"BMP\background\garden\rose_1dN.bmp"  ;夜庭園の薔薇　４枚目
-stralias rose_1dP,"BMP\background\garden\rose_1dP.bmp"  ;雨庭園の薔薇　４枚目
-stralias rose_1e,"BMP\background\garden\rose_1e.bmp"  ;庭園の薔薇　５枚目
-stralias rose_1eR,"BMP\background\garden\rose_1eR.bmp"  ;雨庭園の薔薇　５枚目
-stralias rose_1eN,"BMP\background\garden\rose_1eN.bmp"  ;夜庭園の薔薇　５枚目
-stralias rose_1eP,"BMP\background\garden\rose_1eP.bmp"  ;雨庭園の薔薇　５枚目
+stralias garden_R1a,":b;BMP\background\garden\garden_R1a.png"  ;庭園　昼間　東屋　１枚目
+stralias garden_R1aN,":b;BMP\background\garden\garden_R1aN.png"  ;庭園　夜　東屋　１枚目
+stralias garden_R1aR,":b;BMP\background\garden\garden_R1aR.png"  ;庭園　雨　東屋　１枚目
+stralias garden_R1b,":b;BMP\background\garden\garden_R1b.png"  ;庭園　昼間　東屋　２枚目
+stralias garden_R1bN,":b;BMP\background\garden\garden_R1bN.png"  ;庭園　夜　東屋　２枚目
+stralias garden_R1bR,":b;BMP\background\garden\garden_R1bR.png"  ;庭園　雨　東屋　２枚目
+stralias garden_R1c,":b;BMP\background\garden\garden_R1c.png"  ;庭園　昼間　東屋　３枚目
+stralias garden_R1cN,":b;BMP\background\garden\garden_R1cN.png"  ;庭園　夜　東屋　３枚目
+stralias garden_R1cR,":b;BMP\background\garden\garden_R1cR.png"  ;庭園　雨　東屋　３枚目
+stralias garden_R1d,":b;BMP\background\garden\garden_R1d.png"  ;庭園　昼間　東屋　４枚目
+stralias garden_R1dN,":b;BMP\background\garden\garden_R1dN.png"  ;庭園　夜　東屋　４枚目
+stralias garden_R1dR,":b;BMP\background\garden\garden_R1dR.png"  ;庭園　雨　東屋　４枚目
 
-stralias rose_2a,"BMP\background\garden\rose_2a.bmp"  ;魔女空間薔薇庭園　１枚目
-stralias rose_2b,"BMP\background\garden\rose_2b.bmp"  ;魔女空間薔薇庭園　２枚目
-stralias rose_2c,"BMP\background\garden\rose_2c.bmp"  ;魔女空間薔薇庭園　３枚目
-stralias rose_2aN,"BMP\background\garden\rose_2aN.bmp"  ;夜魔女空間薔薇庭園　１枚目
-stralias rose_2bN,"BMP\background\garden\rose_2bN.bmp"  ;夜魔女空間薔薇庭園　２枚目
-stralias rose_2cN,"BMP\background\garden\rose_2cN.bmp"  ;夜魔女空間薔薇庭園　３枚目
-stralias rose_2aP,"BMP\background\garden\rose_2aP.bmp"  ;魔女空間薔薇庭園　１枚目
-stralias rose_2bP,"BMP\background\garden\rose_2bP.bmp"  ;魔女空間薔薇庭園　２枚目
-stralias rose_2cP,"BMP\background\garden\rose_2cP.bmp"  ;魔女空間薔薇庭園　３枚目
 
-stralias rose_3a,"BMP\background\garden\rose_3a.bmp"  ;魔女空間薔薇庭園　１枚目
-stralias rose_3b,"BMP\background\garden\rose_3b.bmp"  ;魔女空間薔薇庭園　２枚目
-stralias rose_3c,"BMP\background\garden\rose_3c.bmp"  ;魔女空間薔薇庭園　３枚目
-stralias rose_3aN,"BMP\background\garden\rose_3aN.bmp"  ;夜魔女空間薔薇庭園　１枚目
-stralias rose_3bN,"BMP\background\garden\rose_3bN.bmp"  ;夜魔女空間薔薇庭園　２枚目
-stralias rose_3cN,"BMP\background\garden\rose_3cN.bmp"  ;夜魔女空間薔薇庭園　３枚目
-stralias rose_3aP,"BMP\background\garden\rose_3aP.bmp"  ;魔女空間薔薇庭園　１枚目
-stralias rose_3bP,"BMP\background\garden\rose_3bP.bmp"  ;魔女空間薔薇庭園　２枚目
-stralias rose_3cP,"BMP\background\garden\rose_3cP.bmp"  ;魔女空間薔薇庭園　３枚目
+stralias rose_P1a,":b;BMP\background\garden\rose_P1a.png"  ;庭園の道　１枚目
+stralias rose_P1aR,":b;BMP\background\garden\rose_P1aR.png"  ;雨庭園の道　１枚目
+stralias rose_P1aN,":b;BMP\background\garden\rose_P1aN.png"  ;夜庭園の道　１枚目
+stralias rose_P1aP,":b;BMP\background\garden\rose_P1aP.png"  ;庭園の道　１枚目
+
+stralias rose_1a,":b;BMP\background\garden\rose_1a.png"  ;庭園の薔薇　１枚目
+stralias rose_1aR,":b;BMP\background\garden\rose_1aR.png"  ;雨庭園の薔薇　１枚目
+stralias rose_1aN,":b;BMP\background\garden\rose_1aN.png"  ;夜庭園の薔薇　１枚目
+stralias rose_1b,":b;BMP\background\garden\rose_1b.png"  ;庭園の薔薇　２枚目
+stralias rose_1bR,":b;BMP\background\garden\rose_1bR.png"  ;雨庭園の薔薇　２枚目
+stralias rose_1bN,":b;BMP\background\garden\rose_1bN.png"  ;夜庭園の薔薇　２枚目
+stralias rose_1c,":b;BMP\background\garden\rose_1c.png"  ;庭園の薔薇　３枚目
+stralias rose_1cR,":b;BMP\background\garden\rose_1cR.png"  ;雨庭園の薔薇　３枚目
+stralias rose_1cN,":b;BMP\background\garden\rose_1cN.png"  ;夜庭園の薔薇　３枚目
+stralias rose_1cP,":b;BMP\background\garden\rose_1cP.png"  ;庭園の薔薇　３枚目
+stralias rose_1d,":b;BMP\background\garden\rose_1d.png"  ;庭園の薔薇　４枚目
+stralias rose_1dR,":b;BMP\background\garden\rose_1dR.png"  ;雨庭園の薔薇　４枚目
+stralias rose_1dN,":b;BMP\background\garden\rose_1dN.png"  ;夜庭園の薔薇　４枚目
+stralias rose_1dP,":b;BMP\background\garden\rose_1dP.png"  ;雨庭園の薔薇　４枚目
+stralias rose_1e,":b;BMP\background\garden\rose_1e.png"  ;庭園の薔薇　５枚目
+stralias rose_1eR,":b;BMP\background\garden\rose_1eR.png"  ;雨庭園の薔薇　５枚目
+stralias rose_1eN,":b;BMP\background\garden\rose_1eN.png"  ;夜庭園の薔薇　５枚目
+stralias rose_1eP,":b;BMP\background\garden\rose_1eP.png"  ;雨庭園の薔薇　５枚目
+
+stralias rose_2a,":b;BMP\background\garden\rose_2a.png"  ;魔女空間薔薇庭園　１枚目
+stralias rose_2b,":b;BMP\background\garden\rose_2b.png"  ;魔女空間薔薇庭園　２枚目
+stralias rose_2c,":b;BMP\background\garden\rose_2c.png"  ;魔女空間薔薇庭園　３枚目
+stralias rose_2aN,":b;BMP\background\garden\rose_2aN.png"  ;夜魔女空間薔薇庭園　１枚目
+stralias rose_2bN,":b;BMP\background\garden\rose_2bN.png"  ;夜魔女空間薔薇庭園　２枚目
+stralias rose_2cN,":b;BMP\background\garden\rose_2cN.png"  ;夜魔女空間薔薇庭園　３枚目
+stralias rose_2aP,":b;BMP\background\garden\rose_2aP.png"  ;魔女空間薔薇庭園　１枚目
+stralias rose_2bP,":b;BMP\background\garden\rose_2bP.png"  ;魔女空間薔薇庭園　２枚目
+stralias rose_2cP,":b;BMP\background\garden\rose_2cP.png"  ;魔女空間薔薇庭園　３枚目
+
+stralias rose_3a,":b;BMP\background\garden\rose_3a.png"  ;魔女空間薔薇庭園　１枚目
+stralias rose_3b,":b;BMP\background\garden\rose_3b.png"  ;魔女空間薔薇庭園　２枚目
+stralias rose_3c,":b;BMP\background\garden\rose_3c.png"  ;魔女空間薔薇庭園　３枚目
+stralias rose_3aN,":b;BMP\background\garden\rose_3aN.png"  ;夜魔女空間薔薇庭園　１枚目
+stralias rose_3bN,":b;BMP\background\garden\rose_3bN.png"  ;夜魔女空間薔薇庭園　２枚目
+stralias rose_3cN,":b;BMP\background\garden\rose_3cN.png"  ;夜魔女空間薔薇庭園　３枚目
+stralias rose_3aP,":b;BMP\background\garden\rose_3aP.png"  ;魔女空間薔薇庭園　１枚目
+stralias rose_3bP,":b;BMP\background\garden\rose_3bP.png"  ;魔女空間薔薇庭園　２枚目
+stralias rose_3cP,":b;BMP\background\garden\rose_3cP.png"  ;魔女空間薔薇庭園　３枚目
 
 ;本館
 
-stralias M_o1a,"BMP\background\mainbuilding\M_o1a.bmp"  ;本館　外見　１枚目
-stralias M_o1aR,"BMP\background\mainbuilding\M_o1aR.bmp";本館　外見　１枚目の雨
-stralias M_o1aN,"BMP\background\mainbuilding\M_o1aN.bmp";本館　外見　１枚目の夜
-stralias M_o1b,"BMP\background\mainbuilding\M_o1b.bmp"  ;本館　外見　２枚目
-stralias M_o1bR,"BMP\background\mainbuilding\M_o1bR.bmp";本館　外見　２枚目の雨
-stralias M_o1bN,"BMP\background\mainbuilding\M_o1bN.bmp";本館　外見　２枚目の夜
+stralias M_o1a,":b;BMP\background\mainbuilding\M_o1a.png"  ;本館　外見　１枚目
+stralias M_o1aR,":b;BMP\background\mainbuilding\M_o1aR.png";本館　外見　１枚目の雨
+stralias M_o1aN,":b;BMP\background\mainbuilding\M_o1aN.png";本館　外見　１枚目の夜
+stralias M_o1b,":b;BMP\background\mainbuilding\M_o1b.png"  ;本館　外見　２枚目
+stralias M_o1bR,":b;BMP\background\mainbuilding\M_o1bR.png";本館　外見　２枚目の雨
+stralias M_o1bN,":b;BMP\background\mainbuilding\M_o1bN.png";本館　外見　２枚目の夜
 
 
 ;ドア。本館以外でも使用可能
 
-stralias M_door1,"BMP\background\mainbuilding\M_door1.bmp";ドア
-stralias M_door2,"BMP\background\mainbuilding\M_door2.bmp";ドアノブ
+stralias M_door1,":b;BMP\background\mainbuilding\M_door1.png";ドア
+stralias M_door2,":b;BMP\background\mainbuilding\M_door2.png";ドアノブ
 
 
-stralias TEL1a,"BMP\background\efe\TEL1a.bmp"  ;白電話
-stralias TEL2a,"BMP\background\efe\TEL2a.bmp"  ;別の白電話（左右反転色加工）
+stralias TEL1a,":b;BMP\background\efe\TEL1a.png"  ;白電話
+stralias TEL2a,":b;BMP\background\efe\TEL2a.png"  ;別の白電話（左右反転色加工）
 
 ;通路（P）は階段とする
 
 ;食堂
-stralias Mdin_1a,"BMP\background\mainbuilding\Mdin_1a.bmp"  ;本館１Ｆ 食堂１　１枚目　dining
-stralias Mdin_1aR,"BMP\background\mainbuilding\Mdin_1aR.bmp"  ;本館１Ｆ 食堂１　１枚目　diningの雨
-stralias Mdin_1aN,"BMP\background\mainbuilding\Mdin_1aN.bmp"  ;本館１Ｆ 食堂１　１枚目　diningの夜
-stralias Mdin_1b,"BMP\background\mainbuilding\Mdin_1b.bmp"  ;本館１Ｆ 食堂１　２枚目
-stralias Mdin_1bR,"BMP\background\mainbuilding\Mdin_1bR.bmp"  ;本館１Ｆ 食堂１　２枚目の雨
-stralias Mdin_1bN,"BMP\background\mainbuilding\Mdin_1bN.bmp"  ;本館１Ｆ 食堂１　２枚目の夜
-stralias Mdin_1c,"BMP\background\mainbuilding\Mdin_1c.bmp"  ;本館１Ｆ 食堂１　３枚目
-stralias Mdin_1cR,"BMP\background\mainbuilding\Mdin_1cR.bmp"  ;本館１Ｆ 食堂１　３枚目の雨
-stralias Mdin_1cN,"BMP\background\mainbuilding\Mdin_1cN.bmp"  ;本館１Ｆ 食堂１　３枚目の夜
-stralias Mdin_1d,"BMP\background\mainbuilding\Mdin_1d.bmp"  ;本館１Ｆ 食堂１　４枚目
-stralias Mdin_1dR,"BMP\background\mainbuilding\Mdin_1dR.bmp"  ;本館１Ｆ 食堂１　４枚目の雨
-stralias Mdin_1dN,"BMP\background\mainbuilding\Mdin_1dN.bmp"  ;本館１Ｆ 食堂１　４枚目の夜
-stralias Mdin_1e,"BMP\background\mainbuilding\Mdin_1e.bmp"  ;本館１Ｆ 食堂１　５枚目
-stralias Mdin_1eR,"BMP\background\mainbuilding\Mdin_1eR.bmp"  ;本館１Ｆ 食堂１　５枚目の雨
-stralias Mdin_1eN,"BMP\background\mainbuilding\Mdin_1eN.bmp"  ;本館１Ｆ 食堂１　５枚目の夜
-stralias Mdin_1f,"BMP\background\mainbuilding\Mdin_1f.bmp"  ;本館１Ｆ 食堂１　６枚目
-stralias Mdin_1fR,"BMP\background\mainbuilding\Mdin_1fR.bmp"  ;本館１Ｆ 食堂１　６枚目の雨
-stralias Mdin_1fN,"BMP\background\mainbuilding\Mdin_1fN.bmp"  ;本館１Ｆ 食堂１　６枚目の夜
-stralias Mdin_1g,"BMP\background\mainbuilding\Mdin_1g.bmp"  ;本館１Ｆ 食堂１　７枚目　天井
-stralias Mdin_1gR,"BMP\background\mainbuilding\Mdin_1gR.bmp"  ;本館１Ｆ 食堂１　７枚目　天井の雨
-stralias Mdin_1gN,"BMP\background\mainbuilding\Mdin_1gN.bmp"  ;本館１Ｆ 食堂１　７枚目　天井の夜
+stralias Mdin_1a,":b;BMP\background\mainbuilding\Mdin_1a.png"  ;本館１Ｆ 食堂１　１枚目　dining
+stralias Mdin_1aR,":b;BMP\background\mainbuilding\Mdin_1aR.png"  ;本館１Ｆ 食堂１　１枚目　diningの雨
+stralias Mdin_1aN,":b;BMP\background\mainbuilding\Mdin_1aN.png"  ;本館１Ｆ 食堂１　１枚目　diningの夜
+stralias Mdin_1b,":b;BMP\background\mainbuilding\Mdin_1b.png"  ;本館１Ｆ 食堂１　２枚目
+stralias Mdin_1bR,":b;BMP\background\mainbuilding\Mdin_1bR.png"  ;本館１Ｆ 食堂１　２枚目の雨
+stralias Mdin_1bN,":b;BMP\background\mainbuilding\Mdin_1bN.png"  ;本館１Ｆ 食堂１　２枚目の夜
+stralias Mdin_1c,":b;BMP\background\mainbuilding\Mdin_1c.png"  ;本館１Ｆ 食堂１　３枚目
+stralias Mdin_1cR,":b;BMP\background\mainbuilding\Mdin_1cR.png"  ;本館１Ｆ 食堂１　３枚目の雨
+stralias Mdin_1cN,":b;BMP\background\mainbuilding\Mdin_1cN.png"  ;本館１Ｆ 食堂１　３枚目の夜
+stralias Mdin_1d,":b;BMP\background\mainbuilding\Mdin_1d.png"  ;本館１Ｆ 食堂１　４枚目
+stralias Mdin_1dR,":b;BMP\background\mainbuilding\Mdin_1dR.png"  ;本館１Ｆ 食堂１　４枚目の雨
+stralias Mdin_1dN,":b;BMP\background\mainbuilding\Mdin_1dN.png"  ;本館１Ｆ 食堂１　４枚目の夜
+stralias Mdin_1e,":b;BMP\background\mainbuilding\Mdin_1e.png"  ;本館１Ｆ 食堂１　５枚目
+stralias Mdin_1eR,":b;BMP\background\mainbuilding\Mdin_1eR.png"  ;本館１Ｆ 食堂１　５枚目の雨
+stralias Mdin_1eN,":b;BMP\background\mainbuilding\Mdin_1eN.png"  ;本館１Ｆ 食堂１　５枚目の夜
+stralias Mdin_1f,":b;BMP\background\mainbuilding\Mdin_1f.png"  ;本館１Ｆ 食堂１　６枚目
+stralias Mdin_1fR,":b;BMP\background\mainbuilding\Mdin_1fR.png"  ;本館１Ｆ 食堂１　６枚目の雨
+stralias Mdin_1fN,":b;BMP\background\mainbuilding\Mdin_1fN.png"  ;本館１Ｆ 食堂１　６枚目の夜
+stralias Mdin_1g,":b;BMP\background\mainbuilding\Mdin_1g.png"  ;本館１Ｆ 食堂１　７枚目　天井
+stralias Mdin_1gR,":b;BMP\background\mainbuilding\Mdin_1gR.png"  ;本館１Ｆ 食堂１　７枚目　天井の雨
+stralias Mdin_1gN,":b;BMP\background\mainbuilding\Mdin_1gN.png"  ;本館１Ｆ 食堂１　７枚目　天井の夜
 
 ;大広間
-stralias Mhal_1a,"BMP\background\mainbuilding\Mhal_1a.bmp"  ;本館１Ｆ 大広間１　１枚目　hall
-stralias Mhal_1aR,"BMP\background\mainbuilding\Mhal_1aR.bmp"  ;本館１Ｆ 大広間１　１枚目　hallの雨
-stralias Mhal_1aN,"BMP\background\mainbuilding\Mhal_1aN.bmp"  ;本館１Ｆ 大広間１　１枚目　hallの夜
-stralias Mhal_1b,"BMP\background\mainbuilding\Mhal_1b.bmp"  ;本館１Ｆ 大広間１　２枚目
-stralias Mhal_1c,"BMP\background\mainbuilding\Mhal_1c.bmp"  ;本館１Ｆ 大広間１　３枚目
+stralias Mhal_1a,":b;BMP\background\mainbuilding\Mhal_1a.png"  ;本館１Ｆ 大広間１　１枚目　hall
+stralias Mhal_1aR,":b;BMP\background\mainbuilding\Mhal_1aR.png"  ;本館１Ｆ 大広間１　１枚目　hallの雨
+stralias Mhal_1aN,":b;BMP\background\mainbuilding\Mhal_1aN.png"  ;本館１Ｆ 大広間１　１枚目　hallの夜
+stralias Mhal_1b,":b;BMP\background\mainbuilding\Mhal_1b.png"  ;本館１Ｆ 大広間１　２枚目
+stralias Mhal_1c,":b;BMP\background\mainbuilding\Mhal_1c.png"  ;本館１Ｆ 大広間１　３枚目
 
-stralias Mhal_2a,"BMP\background\mainbuilding\Mhal_2a.bmp"  ;本館１Ｆ 大広間２　１枚目
-stralias Mhal_2aR,"BMP\background\mainbuilding\Mhal_2aR.bmp"  ;本館１Ｆ 大広間２　１枚目の雨
-stralias Mhal_2aN,"BMP\background\mainbuilding\Mhal_2aN.bmp"  ;本館１Ｆ 大広間２　１枚目の夜
-stralias Mhal_2b,"BMP\background\mainbuilding\Mhal_2b.bmp"  ;本館１Ｆ 大広間２　２枚目
-stralias Mhal_2bR,"BMP\background\mainbuilding\Mhal_2bR.bmp"  ;本館１Ｆ 大広間２　２枚目の雨
-stralias Mhal_2bN,"BMP\background\mainbuilding\Mhal_2bN.bmp"  ;本館１Ｆ 大広間２　２枚目の夜
-stralias Mhal_2c,"BMP\background\mainbuilding\Mhal_2c.bmp"  ;本館１Ｆ 大広間２　３枚目　肖像画が在る窓
-stralias Mhal_2cR,"BMP\background\mainbuilding\Mhal_2cR.bmp"  ;本館１Ｆ 大広間２　３枚目　肖像画が在る窓の雨
-stralias Mhal_2cN,"BMP\background\mainbuilding\Mhal_2cN.bmp"  ;本館１Ｆ 大広間２　３枚目　肖像画が在る窓の夜
-stralias Mhal_2co,"BMP\background\mainbuilding\Mhal_2co.bmp"  ;本館１Ｆ 大広間２　３枚目　肖像画が無い窓の昼間
-stralias Mhal_2con,"BMP\background\mainbuilding\Mhal_2con.bmp"  ;本館１Ｆ 大広間２　３枚目　肖像画が無い窓の夜
-stralias Mhal_2d,"BMP\background\mainbuilding\Mhal_2d.bmp"  ;本館１Ｆ 大広間２　シャンデリア
-stralias Mhal_2dP,"BMP\background\mainbuilding\Mhal_2dP.bmp"  ;本館１Ｆ 大広間２　シャンデリア
+stralias Mhal_2a,":b;BMP\background\mainbuilding\Mhal_2a.png"  ;本館１Ｆ 大広間２　１枚目
+stralias Mhal_2aR,":b;BMP\background\mainbuilding\Mhal_2aR.png"  ;本館１Ｆ 大広間２　１枚目の雨
+stralias Mhal_2aN,":b;BMP\background\mainbuilding\Mhal_2aN.png"  ;本館１Ｆ 大広間２　１枚目の夜
+stralias Mhal_2b,":b;BMP\background\mainbuilding\Mhal_2b.png"  ;本館１Ｆ 大広間２　２枚目
+stralias Mhal_2bR,":b;BMP\background\mainbuilding\Mhal_2bR.png"  ;本館１Ｆ 大広間２　２枚目の雨
+stralias Mhal_2bN,":b;BMP\background\mainbuilding\Mhal_2bN.png"  ;本館１Ｆ 大広間２　２枚目の夜
+stralias Mhal_2c,":b;BMP\background\mainbuilding\Mhal_2c.png"  ;本館１Ｆ 大広間２　３枚目　肖像画が在る窓
+stralias Mhal_2cR,":b;BMP\background\mainbuilding\Mhal_2cR.png"  ;本館１Ｆ 大広間２　３枚目　肖像画が在る窓の雨
+stralias Mhal_2cN,":b;BMP\background\mainbuilding\Mhal_2cN.png"  ;本館１Ｆ 大広間２　３枚目　肖像画が在る窓の夜
+stralias Mhal_2co,":b;BMP\background\mainbuilding\Mhal_2co.png"  ;本館１Ｆ 大広間２　３枚目　肖像画が無い窓の昼間
+stralias Mhal_2con,":b;BMP\background\mainbuilding\Mhal_2con.png"  ;本館１Ｆ 大広間２　３枚目　肖像画が無い窓の夜
+stralias Mhal_2d,":b;BMP\background\mainbuilding\Mhal_2d.png"  ;本館１Ｆ 大広間２　シャンデリア
+stralias Mhal_2dP,":b;BMP\background\mainbuilding\Mhal_2dP.png"  ;本館１Ｆ 大広間２　シャンデリア
 
 
 ;サロン
-stralias M1F_S1a,"BMP\background\mainbuilding\M1F_S1a.bmp"  ;本館１Ｆ 広間１　１枚目　saloon
-stralias M1F_S1aR,"BMP\background\mainbuilding\M1F_S1aR.bmp"  ;本館１Ｆ 広間１　１枚目　saloonの雨
-stralias M1F_S1aN,"BMP\background\mainbuilding\M1F_S1aN.bmp"  ;本館１Ｆ 広間１　１枚目　saloonの夜
-stralias M1F_S1b,"BMP\background\mainbuilding\M1F_S1b.bmp"  ;本館１Ｆ 広間１　２枚目
-stralias M1F_S1bR,"BMP\background\mainbuilding\M1F_S1bR.bmp"  ;本館１Ｆ 広間１　２枚目の雨
-stralias M1F_S1bN,"BMP\background\mainbuilding\M1F_S1bN.bmp"  ;本館１Ｆ 広間１　２枚目の夜
-stralias M1F_S1c,"BMP\background\mainbuilding\M1F_S1c.bmp"  ;本館１Ｆ 広間１　３枚目
-stralias M1F_S1cR,"BMP\background\mainbuilding\M1F_S1cR.bmp"  ;本館１Ｆ 広間１　３枚目の雨
-stralias M1F_S1cN,"BMP\background\mainbuilding\M1F_S1cN.bmp"  ;本館１Ｆ 広間１　３枚目の夜
-stralias M1F_S1d,"BMP\background\mainbuilding\M1F_S1d.bmp"  ;本館１Ｆ 広間１　４枚目　天井
-stralias M1F_S1dR,"BMP\background\mainbuilding\M1F_S1dR.bmp"  ;本館１Ｆ 広間１　４枚目　天井の雨
-stralias M1F_S1dN,"BMP\background\mainbuilding\M1F_S1dN.bmp"  ;本館１Ｆ 広間１　４枚目　天井の夜
+stralias M1F_S1a,":b;BMP\background\mainbuilding\M1F_S1a.png"  ;本館１Ｆ 広間１　１枚目　saloon
+stralias M1F_S1aR,":b;BMP\background\mainbuilding\M1F_S1aR.png"  ;本館１Ｆ 広間１　１枚目　saloonの雨
+stralias M1F_S1aN,":b;BMP\background\mainbuilding\M1F_S1aN.png"  ;本館１Ｆ 広間１　１枚目　saloonの夜
+stralias M1F_S1b,":b;BMP\background\mainbuilding\M1F_S1b.png"  ;本館１Ｆ 広間１　２枚目
+stralias M1F_S1bR,":b;BMP\background\mainbuilding\M1F_S1bR.png"  ;本館１Ｆ 広間１　２枚目の雨
+stralias M1F_S1bN,":b;BMP\background\mainbuilding\M1F_S1bN.png"  ;本館１Ｆ 広間１　２枚目の夜
+stralias M1F_S1c,":b;BMP\background\mainbuilding\M1F_S1c.png"  ;本館１Ｆ 広間１　３枚目
+stralias M1F_S1cR,":b;BMP\background\mainbuilding\M1F_S1cR.png"  ;本館１Ｆ 広間１　３枚目の雨
+stralias M1F_S1cN,":b;BMP\background\mainbuilding\M1F_S1cN.png"  ;本館１Ｆ 広間１　３枚目の夜
+stralias M1F_S1d,":b;BMP\background\mainbuilding\M1F_S1d.png"  ;本館１Ｆ 広間１　４枚目　天井
+stralias M1F_S1dR,":b;BMP\background\mainbuilding\M1F_S1dR.png"  ;本館１Ｆ 広間１　４枚目　天井の雨
+stralias M1F_S1dN,":b;BMP\background\mainbuilding\M1F_S1dN.png"  ;本館１Ｆ 広間１　４枚目　天井の夜
 
 
-stralias M1F_S2a,"BMP\background\mainbuilding\M1F_S2a.bmp"  ;本館１Ｆ 広間２　１枚目
+stralias M1F_S2a,":b;BMP\background\mainbuilding\M1F_S2a.png"  ;本館１Ｆ 広間２　１枚目
 
-stralias M1F_P1a,"BMP\background\mainbuilding\M1F_P1a.bmp"  ;本館１Ｆ 通路１　１枚目
-stralias M1F_P1aR,"BMP\background\mainbuilding\M1F_P1aR.bmp"  ;本館１Ｆ 通路１　１枚目の雨
-stralias M1F_P1aN,"BMP\background\mainbuilding\M1F_P1aN.bmp"  ;本館１Ｆ 通路１　１枚目の夜
-stralias M1F_P1b,"BMP\background\mainbuilding\M1F_P1b.bmp"  ;本館１Ｆ 通路１　２枚目
-stralias M1F_P1bR,"BMP\background\mainbuilding\M1F_P1bR.bmp"  ;本館１Ｆ 通路１　２枚目の雨
-stralias M1F_P1bN,"BMP\background\mainbuilding\M1F_P1bN.bmp"  ;本館１Ｆ 通路１　２枚目の夜
-stralias M1F_P1c,"BMP\background\mainbuilding\M1F_P1c.bmp"  ;本館１Ｆ 通路１　３枚目　天井
-stralias M1F_P1cR,"BMP\background\mainbuilding\M1F_P1cR.bmp"  ;本館１Ｆ 通路１　３枚目　天井の雨
-stralias M1F_P1cN,"BMP\background\mainbuilding\M1F_P1cN.bmp"  ;本館１Ｆ 通路１　３枚目　天井の夜
-stralias M1F_P1d,"BMP\background\mainbuilding\M1F_P1d.bmp"  ;本館１Ｆ 通路１　３枚目　廊下窓
-stralias M1F_P1dR,"BMP\background\mainbuilding\M1F_P1dR.bmp"  ;本館１Ｆ 通路１　３枚目　廊下窓の雨
-stralias M1F_P1dN,"BMP\background\mainbuilding\M1F_P1dN.bmp"  ;本館１Ｆ 通路１　３枚目　廊下窓の夜
+stralias M1F_P1a,":b;BMP\background\mainbuilding\M1F_P1a.png"  ;本館１Ｆ 通路１　１枚目
+stralias M1F_P1aR,":b;BMP\background\mainbuilding\M1F_P1aR.png"  ;本館１Ｆ 通路１　１枚目の雨
+stralias M1F_P1aN,":b;BMP\background\mainbuilding\M1F_P1aN.png"  ;本館１Ｆ 通路１　１枚目の夜
+stralias M1F_P1b,":b;BMP\background\mainbuilding\M1F_P1b.png"  ;本館１Ｆ 通路１　２枚目
+stralias M1F_P1bR,":b;BMP\background\mainbuilding\M1F_P1bR.png"  ;本館１Ｆ 通路１　２枚目の雨
+stralias M1F_P1bN,":b;BMP\background\mainbuilding\M1F_P1bN.png"  ;本館１Ｆ 通路１　２枚目の夜
+stralias M1F_P1c,":b;BMP\background\mainbuilding\M1F_P1c.png"  ;本館１Ｆ 通路１　３枚目　天井
+stralias M1F_P1cR,":b;BMP\background\mainbuilding\M1F_P1cR.png"  ;本館１Ｆ 通路１　３枚目　天井の雨
+stralias M1F_P1cN,":b;BMP\background\mainbuilding\M1F_P1cN.png"  ;本館１Ｆ 通路１　３枚目　天井の夜
+stralias M1F_P1d,":b;BMP\background\mainbuilding\M1F_P1d.png"  ;本館１Ｆ 通路１　３枚目　廊下窓
+stralias M1F_P1dR,":b;BMP\background\mainbuilding\M1F_P1dR.png"  ;本館１Ｆ 通路１　３枚目　廊下窓の雨
+stralias M1F_P1dN,":b;BMP\background\mainbuilding\M1F_P1dN.png"  ;本館１Ｆ 通路１　３枚目　廊下窓の夜
 
-stralias M1F_P2a,"BMP\background\mainbuilding\M1F_P2a.bmp"  ;本館１Ｆ 通路１　１枚目
-stralias M1F_P2b,"BMP\background\mainbuilding\M1F_P2b.bmp"  ;本館１Ｆ 通路１　２枚目
-stralias M1F_P2bR,"BMP\background\mainbuilding\M1F_P2bR.bmp"  ;本館１Ｆ 通路１　２枚目の雨
-stralias M1F_P2bN,"BMP\background\mainbuilding\M1F_P2bN.bmp"  ;本館１Ｆ 通路１　２枚目の夜
-stralias M1F_P2c,"BMP\background\mainbuilding\M1F_P2c.bmp"  ;本館１Ｆ 通路１　３枚目
+stralias M1F_P2a,":b;BMP\background\mainbuilding\M1F_P2a.png"  ;本館１Ｆ 通路１　１枚目
+stralias M1F_P2b,":b;BMP\background\mainbuilding\M1F_P2b.png"  ;本館１Ｆ 通路１　２枚目
+stralias M1F_P2bR,":b;BMP\background\mainbuilding\M1F_P2bR.png"  ;本館１Ｆ 通路１　２枚目の雨
+stralias M1F_P2bN,":b;BMP\background\mainbuilding\M1F_P2bN.png"  ;本館１Ｆ 通路１　２枚目の夜
+stralias M1F_P2c,":b;BMP\background\mainbuilding\M1F_P2c.png"  ;本館１Ｆ 通路１　３枚目
 
-stralias Ment_1a,"BMP\background\mainbuilding\Ment_1a.bmp"  ;本館１Ｆ 玄関（階段前）１　１枚目　entrance
-stralias Ment_1aR,"BMP\background\mainbuilding\Ment_1aR.bmp"  ;本館１Ｆ 玄関（階段前）１　１枚目　entrance
-stralias Ment_1aN,"BMP\background\mainbuilding\Ment_1aN.bmp"  ;本館１Ｆ 玄関（階段前）１　１枚目　entrance
-stralias Ment_1b,"BMP\background\mainbuilding\Ment_1b.bmp"  ;本館１Ｆ 玄関（階段前）１　２枚目
-stralias Ment_1bR,"BMP\background\mainbuilding\Ment_1bR.bmp"  ;本館１Ｆ 玄関（階段前）１　２枚目
-stralias Ment_1bN,"BMP\background\mainbuilding\Ment_1bN.bmp"  ;本館１Ｆ 玄関（階段前）１　２枚目
-
-
-stralias Msta_1a,"BMP\background\mainbuilding\Msta_1a.bmp"  ;階段（最上階）　１枚目　staircase
-stralias Msta_1b,"BMP\background\mainbuilding\Msta_1b.bmp"  ;階段（踊り場）　２枚目
-stralias Msta_1c,"BMP\background\mainbuilding\Msta_1c.bmp"  ;階段（見下ろす）　３枚目
-
-stralias Msta_2a,"BMP\background\mainbuilding\Msta_2a.bmp"  ;階段（地下室）　１枚目
-
-stralias Mcou_1a,"BMP\background\mainbuilding\Mcou_1a.bmp"  ;中庭　１枚目　cour
-stralias Mcou_1aR,"BMP\background\mainbuilding\Mcou_1aR.bmp"  ;中庭　１枚目　courの雨
-stralias Mcou_1aN,"BMP\background\mainbuilding\Mcou_1aN.bmp"  ;中庭　１枚目　courtの夜
-stralias Mcou_1b,"BMP\background\mainbuilding\Mcou_1b.bmp"  ;中庭　２枚目　cour
-stralias Mcou_1bR,"BMP\background\mainbuilding\Mcou_1bR.bmp"  ;中庭　２枚目　courの雨
-stralias Mcou_1bN,"BMP\background\mainbuilding\Mcou_1bN.bmp"  ;中庭　２枚目　courtの夜
-
-stralias M2F_P1a,"BMP\background\mainbuilding\M2F_P1a.bmp"  ;本館２Ｆ 通路１　１枚目
-stralias M2F_P1aR,"BMP\background\mainbuilding\M2F_P1aR.bmp"  ;本館２Ｆ 通路１　１枚目
-stralias M2F_P1aN,"BMP\background\mainbuilding\M2F_P1aN.bmp"  ;本館２Ｆ 通路１　１枚目
-stralias M2F_P1b,"BMP\background\mainbuilding\M2F_P1b.bmp"  ;本館２Ｆ 通路１　２枚目
-stralias M2F_P1bR,"BMP\background\mainbuilding\M2F_P1bR.bmp"  ;本館２Ｆ 通路１　２枚目の雨
-stralias M2F_P1bN,"BMP\background\mainbuilding\M2F_P1bN.bmp"  ;本館２Ｆ 通路１　２枚目の夜
-stralias M2F_P1c,"BMP\background\mainbuilding\M2F_P1c.bmp"  ;本館２Ｆ 通路１　３枚目
-stralias M2F_P1cR,"BMP\background\mainbuilding\M2F_P1cR.bmp"  ;本館２Ｆ 通路１　３枚目の雨
-stralias M2F_P1cN,"BMP\background\mainbuilding\M2F_P1cN.bmp"  ;本館２Ｆ 通路１　３枚目の夜
-stralias M2F_P1d,"BMP\background\mainbuilding\M2F_P1d.bmp"  ;本館２Ｆ 通路１　４枚目　階段前
-stralias M2F_P1dR,"BMP\background\mainbuilding\M2F_P1dR.bmp"  ;本館２Ｆ 通路１　４枚目　階段前
-stralias M2F_P1dN,"BMP\background\mainbuilding\M2F_P1dN.bmp"  ;本館２Ｆ 通路１　４枚目　階段前
-
-stralias Mlib_1a,"BMP\background\mainbuilding\Mlib_1a.bmp"  ;本館　金蔵の書斎　１枚目
-stralias Mlib_1aR,"BMP\background\mainbuilding\Mlib_1aR.bmp"  ;本館　金蔵の書斎　１枚目の雨
-stralias Mlib_1aN,"BMP\background\mainbuilding\Mlib_1aN.bmp"  ;本館　金蔵の書斎　１枚目の夜
-stralias Mlib_1ap,"BMP\background\mainbuilding\Mlib_1ap.bmp"  ;本館　金蔵の書斎　１枚目のメタ
-stralias Mlib_1b,"BMP\background\mainbuilding\Mlib_1b.bmp"  ;本館　金蔵の書斎　２枚目
-stralias Mlib_1bR,"BMP\background\mainbuilding\Mlib_1bR.bmp"  ;本館　金蔵の書斎　２枚目の雨
-stralias Mlib_1bN,"BMP\background\mainbuilding\Mlib_1bN.bmp"  ;本館　金蔵の書斎　２枚目の夜
-stralias Mlib_1bp,"BMP\background\mainbuilding\Mlib_1bp.bmp"  ;本館　金蔵の書斎　２枚目のメタ
-stralias Mlib_1c,"BMP\background\mainbuilding\Mlib_1c.bmp"  ;本館　金蔵の書斎　３枚目
-stralias Mlib_1cR,"BMP\background\mainbuilding\Mlib_1cR.bmp"  ;本館　金蔵の書斎　３枚目の雨
-stralias Mlib_1cN,"BMP\background\mainbuilding\Mlib_1cN.bmp"  ;本館　金蔵の書斎　３枚目の夜
-stralias Mlib_1cp,"BMP\background\mainbuilding\Mlib_1cp.bmp"  ;本館　金蔵の書斎　３枚目のメタ
-stralias Mlib_1d,"BMP\background\mainbuilding\Mlib_1d.bmp"  ;本館　金蔵の書斎　４枚目
-stralias Mlib_1dR,"BMP\background\mainbuilding\Mlib_1dR.bmp"  ;本館　金蔵の書斎　４枚目の雨
-stralias Mlib_1dN,"BMP\background\mainbuilding\Mlib_1dN.bmp"  ;本館　金蔵の書斎　４枚目の夜
-stralias Mlib_1dp,"BMP\background\mainbuilding\Mlib_1dp.bmp"  ;本館　金蔵の書斎　４枚目のメタ
-stralias Mlib_1e,"BMP\background\mainbuilding\Mlib_1e.bmp"  ;本館　金蔵の書斎　天井　５枚目
-stralias Mlib_1ep,"BMP\background\mainbuilding\Mlib_1ep.bmp"  ;本館　金蔵の書斎　天井　５枚目のメタ
-
-stralias MNAT_1a,"BMP\background\mainbuilding\MNAT_1a.bmp"  ;本館　夏妃の部屋　１枚目
-stralias MNAT_1b,"BMP\background\mainbuilding\MNAT_1b.bmp"  ;本館　夏妃の部屋　２枚目
-stralias MNAT_1c,"BMP\background\mainbuilding\MNAT_1c.bmp"  ;本館　夏妃の部屋　３枚目
-
-stralias MNAT_2a,"BMP\background\mainbuilding\MNAT_2a.bmp"  ;本館　夏妃の部屋　１枚目
-stralias MNAT_2b,"BMP\background\mainbuilding\MNAT_2b.bmp"  ;本館　夏妃の部屋　２枚目
-stralias MNAT_2c,"BMP\background\mainbuilding\MNAT_2c.bmp"  ;本館　夏妃の部屋　３枚目
-stralias MNAT_2d,"BMP\background\mainbuilding\MNAT_2d.bmp"  ;本館　夏妃の部屋　４枚目
-stralias MNAT_2e,"BMP\background\mainbuilding\MNAT_2e.bmp"  ;本館　夏妃の部屋　５枚目
-
-stralias MNAT_2aR,"BMP\background\mainbuilding\MNAT_2aR.bmp"  ;本館　夏妃の部屋　１枚目
-stralias MNAT_2bR,"BMP\background\mainbuilding\MNAT_2bR.bmp"  ;本館　夏妃の部屋　２枚目
-stralias MNAT_2cR,"BMP\background\mainbuilding\MNAT_2cR.bmp"  ;本館　夏妃の部屋　３枚目
-stralias MNAT_2dR,"BMP\background\mainbuilding\MNAT_2dR.bmp"  ;本館　夏妃の部屋　４枚目
-stralias MNAT_2eR,"BMP\background\mainbuilding\MNAT_2eR.bmp"  ;本館　夏妃の部屋　５枚目
-
-stralias MNAT_2aN,"BMP\background\mainbuilding\MNAT_2aN.bmp"  ;本館　夏妃の部屋　１枚目
-stralias MNAT_2bN,"BMP\background\mainbuilding\MNAT_2bN.bmp"  ;本館　夏妃の部屋　２枚目
-stralias MNAT_2cN,"BMP\background\mainbuilding\MNAT_2cN.bmp"  ;本館　夏妃の部屋　３枚目
-stralias MNAT_2dN,"BMP\background\mainbuilding\MNAT_2dN.bmp"  ;本館　夏妃の部屋　４枚目
-stralias MNAT_2eN,"BMP\background\mainbuilding\MNAT_2eN.bmp"  ;本館　夏妃の部屋　５枚目
-
-stralias MNAT_2f,"BMP\background\mainbuilding\MNAT_2f.bmp"  ;本館　夏妃の部屋　燭台
+stralias Ment_1a,":b;BMP\background\mainbuilding\Ment_1a.png"  ;本館１Ｆ 玄関（階段前）１　１枚目　entrance
+stralias Ment_1aR,":b;BMP\background\mainbuilding\Ment_1aR.png"  ;本館１Ｆ 玄関（階段前）１　１枚目　entrance
+stralias Ment_1aN,":b;BMP\background\mainbuilding\Ment_1aN.png"  ;本館１Ｆ 玄関（階段前）１　１枚目　entrance
+stralias Ment_1b,":b;BMP\background\mainbuilding\Ment_1b.png"  ;本館１Ｆ 玄関（階段前）１　２枚目
+stralias Ment_1bR,":b;BMP\background\mainbuilding\Ment_1bR.png"  ;本館１Ｆ 玄関（階段前）１　２枚目
+stralias Ment_1bN,":b;BMP\background\mainbuilding\Ment_1bN.png"  ;本館１Ｆ 玄関（階段前）１　２枚目
 
 
-stralias MJES_1a,"BMP\background\mainbuilding\MJES_1a.bmp"  ;本館　朱志香の部屋　１枚目
-stralias MJES_1b,"BMP\background\mainbuilding\MJES_1b.bmp"  ;本館　朱志香の部屋　２枚目
-stralias MJES_1c,"BMP\background\mainbuilding\MJES_1c.bmp"  ;本館　朱志香の部屋　３枚目
-stralias MJES_1d,"BMP\background\mainbuilding\MJES_1d.bmp"  ;本館　朱志香の部屋　４枚目
-stralias MJES_1e,"BMP\background\mainbuilding\MJES_1e.bmp"  ;本館　朱志香の部屋　５枚目
+stralias Msta_1a,":b;BMP\background\mainbuilding\Msta_1a.png"  ;階段（最上階）　１枚目　staircase
+stralias Msta_1b,":b;BMP\background\mainbuilding\Msta_1b.png"  ;階段（踊り場）　２枚目
+stralias Msta_1c,":b;BMP\background\mainbuilding\Msta_1c.png"  ;階段（見下ろす）　３枚目
 
-stralias MJES_1aR,"BMP\background\mainbuilding\MJES_1aR.bmp"  ;本館　朱志香の部屋　１枚目
-stralias MJES_1bR,"BMP\background\mainbuilding\MJES_1bR.bmp"  ;本館　朱志香の部屋　２枚目
-stralias MJES_1cR,"BMP\background\mainbuilding\MJES_1cR.bmp"  ;本館　朱志香の部屋　３枚目
-stralias MJES_1dR,"BMP\background\mainbuilding\MJES_1dR.bmp"  ;本館　朱志香の部屋　４枚目
+stralias Msta_2a,":b;BMP\background\mainbuilding\Msta_2a.png"  ;階段（地下室）　１枚目
 
-stralias MJES_1aN,"BMP\background\mainbuilding\MJES_1aN.bmp"  ;本館　朱志香の部屋　１枚目
-stralias MJES_1bN,"BMP\background\mainbuilding\MJES_1bN.bmp"  ;本館　朱志香の部屋　２枚目
-stralias MJES_1cN,"BMP\background\mainbuilding\MJES_1cN.bmp"  ;本館　朱志香の部屋　３枚目
-stralias MJES_1dN,"BMP\background\mainbuilding\MJES_1dN.bmp"  ;本館　朱志香の部屋　４枚目
+stralias Mcou_1a,":b;BMP\background\mainbuilding\Mcou_1a.png"  ;中庭　１枚目　cour
+stralias Mcou_1aR,":b;BMP\background\mainbuilding\Mcou_1aR.png"  ;中庭　１枚目　courの雨
+stralias Mcou_1aN,":b;BMP\background\mainbuilding\Mcou_1aN.png"  ;中庭　１枚目　courtの夜
+stralias Mcou_1b,":b;BMP\background\mainbuilding\Mcou_1b.png"  ;中庭　２枚目　cour
+stralias Mcou_1bR,":b;BMP\background\mainbuilding\Mcou_1bR.png"  ;中庭　２枚目　courの雨
+stralias Mcou_1bN,":b;BMP\background\mainbuilding\Mcou_1bN.png"  ;中庭　２枚目　courtの夜
+
+stralias M2F_P1a,":b;BMP\background\mainbuilding\M2F_P1a.png"  ;本館２Ｆ 通路１　１枚目
+stralias M2F_P1aR,":b;BMP\background\mainbuilding\M2F_P1aR.png"  ;本館２Ｆ 通路１　１枚目
+stralias M2F_P1aN,":b;BMP\background\mainbuilding\M2F_P1aN.png"  ;本館２Ｆ 通路１　１枚目
+stralias M2F_P1b,":b;BMP\background\mainbuilding\M2F_P1b.png"  ;本館２Ｆ 通路１　２枚目
+stralias M2F_P1bR,":b;BMP\background\mainbuilding\M2F_P1bR.png"  ;本館２Ｆ 通路１　２枚目の雨
+stralias M2F_P1bN,":b;BMP\background\mainbuilding\M2F_P1bN.png"  ;本館２Ｆ 通路１　２枚目の夜
+stralias M2F_P1c,":b;BMP\background\mainbuilding\M2F_P1c.png"  ;本館２Ｆ 通路１　３枚目
+stralias M2F_P1cR,":b;BMP\background\mainbuilding\M2F_P1cR.png"  ;本館２Ｆ 通路１　３枚目の雨
+stralias M2F_P1cN,":b;BMP\background\mainbuilding\M2F_P1cN.png"  ;本館２Ｆ 通路１　３枚目の夜
+stralias M2F_P1d,":b;BMP\background\mainbuilding\M2F_P1d.png"  ;本館２Ｆ 通路１　４枚目　階段前
+stralias M2F_P1dR,":b;BMP\background\mainbuilding\M2F_P1dR.png"  ;本館２Ｆ 通路１　４枚目　階段前
+stralias M2F_P1dN,":b;BMP\background\mainbuilding\M2F_P1dN.png"  ;本館２Ｆ 通路１　４枚目　階段前
+
+stralias Mlib_1a,":b;BMP\background\mainbuilding\Mlib_1a.png"  ;本館　金蔵の書斎　１枚目
+stralias Mlib_1aR,":b;BMP\background\mainbuilding\Mlib_1aR.png"  ;本館　金蔵の書斎　１枚目の雨
+stralias Mlib_1aN,":b;BMP\background\mainbuilding\Mlib_1aN.png"  ;本館　金蔵の書斎　１枚目の夜
+stralias Mlib_1ap,":b;BMP\background\mainbuilding\Mlib_1ap.png"  ;本館　金蔵の書斎　１枚目のメタ
+stralias Mlib_1b,":b;BMP\background\mainbuilding\Mlib_1b.png"  ;本館　金蔵の書斎　２枚目
+stralias Mlib_1bR,":b;BMP\background\mainbuilding\Mlib_1bR.png"  ;本館　金蔵の書斎　２枚目の雨
+stralias Mlib_1bN,":b;BMP\background\mainbuilding\Mlib_1bN.png"  ;本館　金蔵の書斎　２枚目の夜
+stralias Mlib_1bp,":b;BMP\background\mainbuilding\Mlib_1bp.png"  ;本館　金蔵の書斎　２枚目のメタ
+stralias Mlib_1c,":b;BMP\background\mainbuilding\Mlib_1c.png"  ;本館　金蔵の書斎　３枚目
+stralias Mlib_1cR,":b;BMP\background\mainbuilding\Mlib_1cR.png"  ;本館　金蔵の書斎　３枚目の雨
+stralias Mlib_1cN,":b;BMP\background\mainbuilding\Mlib_1cN.png"  ;本館　金蔵の書斎　３枚目の夜
+stralias Mlib_1cp,":b;BMP\background\mainbuilding\Mlib_1cp.png"  ;本館　金蔵の書斎　３枚目のメタ
+stralias Mlib_1d,":b;BMP\background\mainbuilding\Mlib_1d.png"  ;本館　金蔵の書斎　４枚目
+stralias Mlib_1dR,":b;BMP\background\mainbuilding\Mlib_1dR.png"  ;本館　金蔵の書斎　４枚目の雨
+stralias Mlib_1dN,":b;BMP\background\mainbuilding\Mlib_1dN.png"  ;本館　金蔵の書斎　４枚目の夜
+stralias Mlib_1dp,":b;BMP\background\mainbuilding\Mlib_1dp.png"  ;本館　金蔵の書斎　４枚目のメタ
+stralias Mlib_1e,":b;BMP\background\mainbuilding\Mlib_1e.png"  ;本館　金蔵の書斎　天井　５枚目
+stralias Mlib_1ep,":b;BMP\background\mainbuilding\Mlib_1ep.png"  ;本館　金蔵の書斎　天井　５枚目のメタ
+
+stralias MNAT_1a,":b;BMP\background\mainbuilding\MNAT_1a.png"  ;本館　夏妃の部屋　１枚目
+stralias MNAT_1b,":b;BMP\background\mainbuilding\MNAT_1b.png"  ;本館　夏妃の部屋　２枚目
+stralias MNAT_1c,":b;BMP\background\mainbuilding\MNAT_1c.png"  ;本館　夏妃の部屋　３枚目
+
+stralias MNAT_2a,":b;BMP\background\mainbuilding\MNAT_2a.png"  ;本館　夏妃の部屋　１枚目
+stralias MNAT_2b,":b;BMP\background\mainbuilding\MNAT_2b.png"  ;本館　夏妃の部屋　２枚目
+stralias MNAT_2c,":b;BMP\background\mainbuilding\MNAT_2c.png"  ;本館　夏妃の部屋　３枚目
+stralias MNAT_2d,":b;BMP\background\mainbuilding\MNAT_2d.png"  ;本館　夏妃の部屋　４枚目
+stralias MNAT_2e,":b;BMP\background\mainbuilding\MNAT_2e.png"  ;本館　夏妃の部屋　５枚目
+
+stralias MNAT_2aR,":b;BMP\background\mainbuilding\MNAT_2aR.png"  ;本館　夏妃の部屋　１枚目
+stralias MNAT_2bR,":b;BMP\background\mainbuilding\MNAT_2bR.png"  ;本館　夏妃の部屋　２枚目
+stralias MNAT_2cR,":b;BMP\background\mainbuilding\MNAT_2cR.png"  ;本館　夏妃の部屋　３枚目
+stralias MNAT_2dR,":b;BMP\background\mainbuilding\MNAT_2dR.png"  ;本館　夏妃の部屋　４枚目
+stralias MNAT_2eR,":b;BMP\background\mainbuilding\MNAT_2eR.png"  ;本館　夏妃の部屋　５枚目
+
+stralias MNAT_2aN,":b;BMP\background\mainbuilding\MNAT_2aN.png"  ;本館　夏妃の部屋　１枚目
+stralias MNAT_2bN,":b;BMP\background\mainbuilding\MNAT_2bN.png"  ;本館　夏妃の部屋　２枚目
+stralias MNAT_2cN,":b;BMP\background\mainbuilding\MNAT_2cN.png"  ;本館　夏妃の部屋　３枚目
+stralias MNAT_2dN,":b;BMP\background\mainbuilding\MNAT_2dN.png"  ;本館　夏妃の部屋　４枚目
+stralias MNAT_2eN,":b;BMP\background\mainbuilding\MNAT_2eN.png"  ;本館　夏妃の部屋　５枚目
+
+stralias MNAT_2f,":b;BMP\background\mainbuilding\MNAT_2f.png"  ;本館　夏妃の部屋　燭台
+
+
+stralias MJES_1a,":b;BMP\background\mainbuilding\MJES_1a.png"  ;本館　朱志香の部屋　１枚目
+stralias MJES_1b,":b;BMP\background\mainbuilding\MJES_1b.png"  ;本館　朱志香の部屋　２枚目
+stralias MJES_1c,":b;BMP\background\mainbuilding\MJES_1c.png"  ;本館　朱志香の部屋　３枚目
+stralias MJES_1d,":b;BMP\background\mainbuilding\MJES_1d.png"  ;本館　朱志香の部屋　４枚目
+stralias MJES_1e,":b;BMP\background\mainbuilding\MJES_1e.png"  ;本館　朱志香の部屋　５枚目
+
+stralias MJES_1aR,":b;BMP\background\mainbuilding\MJES_1aR.png"  ;本館　朱志香の部屋　１枚目
+stralias MJES_1bR,":b;BMP\background\mainbuilding\MJES_1bR.png"  ;本館　朱志香の部屋　２枚目
+stralias MJES_1cR,":b;BMP\background\mainbuilding\MJES_1cR.png"  ;本館　朱志香の部屋　３枚目
+stralias MJES_1dR,":b;BMP\background\mainbuilding\MJES_1dR.png"  ;本館　朱志香の部屋　４枚目
+
+stralias MJES_1aN,":b;BMP\background\mainbuilding\MJES_1aN.png"  ;本館　朱志香の部屋　１枚目
+stralias MJES_1bN,":b;BMP\background\mainbuilding\MJES_1bN.png"  ;本館　朱志香の部屋　２枚目
+stralias MJES_1cN,":b;BMP\background\mainbuilding\MJES_1cN.png"  ;本館　朱志香の部屋　３枚目
+stralias MJES_1dN,":b;BMP\background\mainbuilding\MJES_1dN.png"  ;本館　朱志香の部屋　４枚目
 
 
 ;書斎もどき
-stralias M2F_R1a,"BMP\background\mainbuilding\M2F_R1a.bmp"  ;本館２Ｆ 室内１　１枚目
-stralias M2F_R1aN,"BMP\background\mainbuilding\M2F_R1aN.bmp"  ;本館２Ｆ 室内１　１枚目
-stralias M2F_R1b,"BMP\background\mainbuilding\M2F_R1b.bmp"  ;本館２Ｆ 室内１　２枚目
-stralias M2F_R1bN,"BMP\background\mainbuilding\M2F_R1bN.bmp"  ;本館２Ｆ 室内１　２枚目
-stralias M2F_R1c,"BMP\background\mainbuilding\M2F_R1c.bmp"  ;本館２Ｆ 室内１　３枚目
-stralias M2F_R1cN,"BMP\background\mainbuilding\M2F_R1cN.bmp"  ;本館２Ｆ 室内１　３枚目
-stralias M2F_R1d,"BMP\background\mainbuilding\M2F_R1d.bmp"  ;本館２Ｆ 室内１　４枚目　天井
-stralias M2F_R1dR,"BMP\background\mainbuilding\M2F_R1dR.bmp"  ;本館２Ｆ 室内１　４枚目　天井
-stralias M2F_R1dN,"BMP\background\mainbuilding\M2F_R1dN.bmp"  ;本館２Ｆ 室内１　４枚目　天井
+stralias M2F_R1a,":b;BMP\background\mainbuilding\M2F_R1a.png"  ;本館２Ｆ 室内１　１枚目
+stralias M2F_R1aN,":b;BMP\background\mainbuilding\M2F_R1aN.png"  ;本館２Ｆ 室内１　１枚目
+stralias M2F_R1b,":b;BMP\background\mainbuilding\M2F_R1b.png"  ;本館２Ｆ 室内１　２枚目
+stralias M2F_R1bN,":b;BMP\background\mainbuilding\M2F_R1bN.png"  ;本館２Ｆ 室内１　２枚目
+stralias M2F_R1c,":b;BMP\background\mainbuilding\M2F_R1c.png"  ;本館２Ｆ 室内１　３枚目
+stralias M2F_R1cN,":b;BMP\background\mainbuilding\M2F_R1cN.png"  ;本館２Ｆ 室内１　３枚目
+stralias M2F_R1d,":b;BMP\background\mainbuilding\M2F_R1d.png"  ;本館２Ｆ 室内１　４枚目　天井
+stralias M2F_R1dR,":b;BMP\background\mainbuilding\M2F_R1dR.png"  ;本館２Ｆ 室内１　４枚目　天井
+stralias M2F_R1dN,":b;BMP\background\mainbuilding\M2F_R1dN.png"  ;本館２Ｆ 室内１　４枚目　天井
 
 
 ;二人用のテーブルのある部屋
-stralias M2F_R2a,"BMP\background\mainbuilding\M2F_R2a.bmp"  ;本館２Ｆ 室内２　１枚目
-stralias M2F_R2b,"BMP\background\mainbuilding\M2F_R2b.bmp"  ;本館２Ｆ 室内２　２枚目
-stralias M2F_R2c,"BMP\background\mainbuilding\M2F_R2c.bmp"  ;本館２Ｆ 室内２　３枚目
+stralias M2F_R2a,":b;BMP\background\mainbuilding\M2F_R2a.png"  ;本館２Ｆ 室内２　１枚目
+stralias M2F_R2b,":b;BMP\background\mainbuilding\M2F_R2b.png"  ;本館２Ｆ 室内２　２枚目
+stralias M2F_R2c,":b;BMP\background\mainbuilding\M2F_R2c.png"  ;本館２Ｆ 室内２　３枚目
 
 ;揺り椅子のある部屋
-stralias M2F_R3a,"BMP\background\mainbuilding\M2F_R3a.bmp"  ;本館２Ｆ 室内３　１枚目
-stralias M2F_R3b,"BMP\background\mainbuilding\M2F_R3b.bmp"  ;本館２Ｆ 室内３　２枚目
-stralias M2F_R3c,"BMP\background\mainbuilding\M2F_R3c.bmp"  ;本館２Ｆ 室内３　３枚目
+stralias M2F_R3a,":b;BMP\background\mainbuilding\M2F_R3a.png"  ;本館２Ｆ 室内３　１枚目
+stralias M2F_R3b,":b;BMP\background\mainbuilding\M2F_R3b.png"  ;本館２Ｆ 室内３　２枚目
+stralias M2F_R3c,":b;BMP\background\mainbuilding\M2F_R3c.png"  ;本館２Ｆ 室内３　３枚目
 
 ;ベッドのある部屋
-stralias M2F_R4a,"BMP\background\mainbuilding\M2F_R4a.bmp"  ;本館２Ｆ 室内４　１枚目
-stralias M2F_R4aR,"BMP\background\mainbuilding\M2F_R4aR.bmp"  ;本館２Ｆ 室内４　１枚目の雨
-stralias M2F_R4aN,"BMP\background\mainbuilding\M2F_R4aN.bmp"  ;本館２Ｆ 室内４　１枚目の夜
-stralias M2F_R4ap,"BMP\background\mainbuilding\M2F_R4ap.bmp"  ;本館２Ｆ 室内４　１枚目のメタ
-stralias M2F_R4b,"BMP\background\mainbuilding\M2F_R4b.bmp"  ;本館２Ｆ 室内４　２枚目
-stralias M2F_R4bR,"BMP\background\mainbuilding\M2F_R4bR.bmp"  ;本館２Ｆ 室内４　２枚目の雨
-stralias M2F_R4bN,"BMP\background\mainbuilding\M2F_R4bN.bmp"  ;本館２Ｆ 室内４　２枚目の夜
-stralias M2F_R4bp,"BMP\background\mainbuilding\M2F_R4bp.bmp"  ;本館２Ｆ 室内４　２枚目のメタ
-stralias M2F_R4c,"BMP\background\mainbuilding\M2F_R4c.bmp"  ;本館２Ｆ 室内４　３枚目
-stralias M2F_R4cR,"BMP\background\mainbuilding\M2F_R4cR.bmp"  ;本館２Ｆ 室内４　３枚目
-stralias M2F_R4cN,"BMP\background\mainbuilding\M2F_R4cN.bmp"  ;本館２Ｆ 室内４　３枚目
-stralias M2F_R4cp,"BMP\background\mainbuilding\M2F_R4cp.bmp"  ;本館２Ｆ 室内４　３枚目
+stralias M2F_R4a,":b;BMP\background\mainbuilding\M2F_R4a.png"  ;本館２Ｆ 室内４　１枚目
+stralias M2F_R4aR,":b;BMP\background\mainbuilding\M2F_R4aR.png"  ;本館２Ｆ 室内４　１枚目の雨
+stralias M2F_R4aN,":b;BMP\background\mainbuilding\M2F_R4aN.png"  ;本館２Ｆ 室内４　１枚目の夜
+stralias M2F_R4ap,":b;BMP\background\mainbuilding\M2F_R4ap.png"  ;本館２Ｆ 室内４　１枚目のメタ
+stralias M2F_R4b,":b;BMP\background\mainbuilding\M2F_R4b.png"  ;本館２Ｆ 室内４　２枚目
+stralias M2F_R4bR,":b;BMP\background\mainbuilding\M2F_R4bR.png"  ;本館２Ｆ 室内４　２枚目の雨
+stralias M2F_R4bN,":b;BMP\background\mainbuilding\M2F_R4bN.png"  ;本館２Ｆ 室内４　２枚目の夜
+stralias M2F_R4bp,":b;BMP\background\mainbuilding\M2F_R4bp.png"  ;本館２Ｆ 室内４　２枚目のメタ
+stralias M2F_R4c,":b;BMP\background\mainbuilding\M2F_R4c.png"  ;本館２Ｆ 室内４　３枚目
+stralias M2F_R4cR,":b;BMP\background\mainbuilding\M2F_R4cR.png"  ;本館２Ｆ 室内４　３枚目
+stralias M2F_R4cN,":b;BMP\background\mainbuilding\M2F_R4cN.png"  ;本館２Ｆ 室内４　３枚目
+stralias M2F_R4cp,":b;BMP\background\mainbuilding\M2F_R4cp.png"  ;本館２Ｆ 室内４　３枚目
 
 ;小会議室
-stralias M2F_R5a,"BMP\background\mainbuilding\M2F_R5a.bmp"  ;本館２Ｆ 室内５　１枚目
-stralias M2F_R5b,"BMP\background\mainbuilding\M2F_R5b.bmp"  ;本館２Ｆ 室内５　２枚目
-stralias M2F_R5c,"BMP\background\mainbuilding\M2F_R5c.bmp"  ;本館２Ｆ 室内５　３枚目
-stralias M2F_R5d,"BMP\background\mainbuilding\M2F_R5d.bmp"  ;本館２Ｆ 室内５　４枚目
-stralias M2F_R5e,"BMP\background\mainbuilding\M2F_R5e.bmp"  ;本館２Ｆ 室内５　５枚目
-stralias M2F_R5f,"BMP\background\mainbuilding\M2F_R5f.bmp"  ;本館２Ｆ 室内５　６枚目
+stralias M2F_R5a,":b;BMP\background\mainbuilding\M2F_R5a.png"  ;本館２Ｆ 室内５　１枚目
+stralias M2F_R5b,":b;BMP\background\mainbuilding\M2F_R5b.png"  ;本館２Ｆ 室内５　２枚目
+stralias M2F_R5c,":b;BMP\background\mainbuilding\M2F_R5c.png"  ;本館２Ｆ 室内５　３枚目
+stralias M2F_R5d,":b;BMP\background\mainbuilding\M2F_R5d.png"  ;本館２Ｆ 室内５　４枚目
+stralias M2F_R5e,":b;BMP\background\mainbuilding\M2F_R5e.png"  ;本館２Ｆ 室内５　５枚目
+stralias M2F_R5f,":b;BMP\background\mainbuilding\M2F_R5f.png"  ;本館２Ｆ 室内５　６枚目
 
-stralias M2F_R6a,"BMP\background\mainbuilding\M2F_R6a.bmp"  ;本館２Ｆ 室内６　１枚目
+stralias M2F_R6a,":b;BMP\background\mainbuilding\M2F_R6a.png"  ;本館２Ｆ 室内６　１枚目
 
 ;台所
-stralias Mkit_1a,"BMP\background\mainbuilding\Mkit_1a.bmp"  ;本館　台所　１枚目 kitchen
-stralias Mkit_1aR,"BMP\background\mainbuilding\Mkit_1aR.bmp"  ;本館　台所　１枚目 kitchenの雨
-stralias Mkit_1aN,"BMP\background\mainbuilding\Mkit_1aN.bmp"  ;本館　台所　１枚目 kitchenの夜
-stralias Mkit_1b,"BMP\background\mainbuilding\Mkit_1b.bmp"  ;本館　台所　２枚目
-stralias Mkit_1bR,"BMP\background\mainbuilding\Mkit_1bR.bmp"  ;本館　台所　２枚目の雨
-stralias Mkit_1bN,"BMP\background\mainbuilding\Mkit_1bN.bmp"  ;本館　台所　２枚目の夜
-stralias Mkit_1c,"BMP\background\mainbuilding\Mkit_1c.bmp"  ;本館　台所　３枚目
-stralias Mkit_1cR,"BMP\background\mainbuilding\Mkit_1cR.bmp"  ;本館　台所　３枚目の雨
-stralias Mkit_1cN,"BMP\background\mainbuilding\Mkit_1cN.bmp"  ;本館　台所　３枚目の夜
+stralias Mkit_1a,":b;BMP\background\mainbuilding\Mkit_1a.png"  ;本館　台所　１枚目 kitchen
+stralias Mkit_1aR,":b;BMP\background\mainbuilding\Mkit_1aR.png"  ;本館　台所　１枚目 kitchenの雨
+stralias Mkit_1aN,":b;BMP\background\mainbuilding\Mkit_1aN.png"  ;本館　台所　１枚目 kitchenの夜
+stralias Mkit_1b,":b;BMP\background\mainbuilding\Mkit_1b.png"  ;本館　台所　２枚目
+stralias Mkit_1bR,":b;BMP\background\mainbuilding\Mkit_1bR.png"  ;本館　台所　２枚目の雨
+stralias Mkit_1bN,":b;BMP\background\mainbuilding\Mkit_1bN.png"  ;本館　台所　２枚目の夜
+stralias Mkit_1c,":b;BMP\background\mainbuilding\Mkit_1c.png"  ;本館　台所　３枚目
+stralias Mkit_1cR,":b;BMP\background\mainbuilding\Mkit_1cR.png"  ;本館　台所　３枚目の雨
+stralias Mkit_1cN,":b;BMP\background\mainbuilding\Mkit_1cN.png"  ;本館　台所　３枚目の夜
 
 ;浴室
-stralias Mbat_1a,"BMP\background\mainbuilding\Mbat_1a.bmp"  ;本館　浴室　１枚目 bathroom
-stralias Mbat_1b,"BMP\background\mainbuilding\Mbat_1b.bmp"  ;本館　浴室　２枚目
+stralias Mbat_1a,":b;BMP\background\mainbuilding\Mbat_1a.png"  ;本館　浴室　１枚目 bathroom
+stralias Mbat_1b,":b;BMP\background\mainbuilding\Mbat_1b.png"  ;本館　浴室　２枚目
 
 ;トイレ
-stralias Mbat_2a,"BMP\background\mainbuilding\Mbat_2a.bmp"  ;本館　トイレ　１枚目
+stralias Mbat_2a,":b;BMP\background\mainbuilding\Mbat_2a.png"  ;本館　トイレ　１枚目
 
 ;ボイラー室
-stralias Mboi_1a,"BMP\background\mainbuilding\Mboi_1a.bmp"  ;本館　ボイラー室　１枚目 boiler
-stralias Mboi_1b,"BMP\background\mainbuilding\Mboi_1b.bmp"  ;本館　ボイラー室　２枚目 boiler
-stralias Mboi_1c,"BMP\background\mainbuilding\Mboi_1c.bmp"  ;本館　ボイラー室　３枚目 boiler
-stralias Mboi_1d,"BMP\background\mainbuilding\Mboi_1d.bmp"  ;本館　ボイラー室　４枚目 boiler
+stralias Mboi_1a,":b;BMP\background\mainbuilding\Mboi_1a.png"  ;本館　ボイラー室　１枚目 boiler
+stralias Mboi_1b,":b;BMP\background\mainbuilding\Mboi_1b.png"  ;本館　ボイラー室　２枚目 boiler
+stralias Mboi_1c,":b;BMP\background\mainbuilding\Mboi_1c.png"  ;本館　ボイラー室　３枚目 boiler
+stralias Mboi_1d,":b;BMP\background\mainbuilding\Mboi_1d.png"  ;本館　ボイラー室　４枚目 boiler
 
-stralias Mvip_1a,"BMP\background\mainbuilding\Mvip_1a.bmp"  ;本館　貴賓室　１枚目 vip room
-stralias Mvip_1aR,"BMP\background\mainbuilding\Mvip_1aR.bmp"  ;本館　貴賓室　１枚目 vip room雨
-stralias Mvip_1aN,"BMP\background\mainbuilding\Mvip_1aN.bmp"  ;本館　貴賓室　１枚目 vip room夜
-stralias Mvip_1b,"BMP\background\mainbuilding\Mvip_1b.bmp"  ;本館　貴賓室　２枚目
-stralias Mvip_1bR,"BMP\background\mainbuilding\Mvip_1bR.bmp"  ;本館　貴賓室　２枚目雨
-stralias Mvip_1bN,"BMP\background\mainbuilding\Mvip_1bN.bmp"  ;本館　貴賓室　２枚目夜
-stralias Mvip_1c,"BMP\background\mainbuilding\Mvip_1c.bmp"  ;本館　貴賓室　３枚目
-stralias Mvip_1cR,"BMP\background\mainbuilding\Mvip_1cR.bmp"  ;本館　貴賓室　３枚目雨
-stralias Mvip_1cN,"BMP\background\mainbuilding\Mvip_1cN.bmp"  ;本館　貴賓室　３枚目夜
-stralias Mvip_1d,"BMP\background\mainbuilding\Mvip_1d.bmp"  ;本館　貴賓室　窓　４枚目
-stralias Mvip_1dR,"BMP\background\mainbuilding\Mvip_1dR.bmp"  ;本館　貴賓室　窓　４枚目雨
-stralias Mvip_1dN,"BMP\background\mainbuilding\Mvip_1dN.bmp"  ;本館　貴賓室　窓　４枚目夜
-stralias Mvip_1e,"BMP\background\mainbuilding\Mvip_1e.bmp"  ;本館　貴賓室　天井　５枚目　
+stralias Mvip_1a,":b;BMP\background\mainbuilding\Mvip_1a.png"  ;本館　貴賓室　１枚目 vip room
+stralias Mvip_1aR,":b;BMP\background\mainbuilding\Mvip_1aR.png"  ;本館　貴賓室　１枚目 vip room雨
+stralias Mvip_1aN,":b;BMP\background\mainbuilding\Mvip_1aN.png"  ;本館　貴賓室　１枚目 vip room夜
+stralias Mvip_1b,":b;BMP\background\mainbuilding\Mvip_1b.png"  ;本館　貴賓室　２枚目
+stralias Mvip_1bR,":b;BMP\background\mainbuilding\Mvip_1bR.png"  ;本館　貴賓室　２枚目雨
+stralias Mvip_1bN,":b;BMP\background\mainbuilding\Mvip_1bN.png"  ;本館　貴賓室　２枚目夜
+stralias Mvip_1c,":b;BMP\background\mainbuilding\Mvip_1c.png"  ;本館　貴賓室　３枚目
+stralias Mvip_1cR,":b;BMP\background\mainbuilding\Mvip_1cR.png"  ;本館　貴賓室　３枚目雨
+stralias Mvip_1cN,":b;BMP\background\mainbuilding\Mvip_1cN.png"  ;本館　貴賓室　３枚目夜
+stralias Mvip_1d,":b;BMP\background\mainbuilding\Mvip_1d.png"  ;本館　貴賓室　窓　４枚目
+stralias Mvip_1dR,":b;BMP\background\mainbuilding\Mvip_1dR.png"  ;本館　貴賓室　窓　４枚目雨
+stralias Mvip_1dN,":b;BMP\background\mainbuilding\Mvip_1dN.png"  ;本館　貴賓室　窓　４枚目夜
+stralias Mvip_1e,":b;BMP\background\mainbuilding\Mvip_1e.png"  ;本館　貴賓室　天井　５枚目　
 
-stralias Mvip_2a,"BMP\background\mainbuilding\Mvip_2a.bmp"  ;本館　貴賓室　１枚目
-stralias Mvip_2aR,"BMP\background\mainbuilding\Mvip_2aR.bmp"  ;本館　貴賓室　１枚目雨
-stralias Mvip_2aN,"BMP\background\mainbuilding\Mvip_2aN.bmp"  ;本館　貴賓室　１枚目夜
+stralias Mvip_2a,":b;BMP\background\mainbuilding\Mvip_2a.png"  ;本館　貴賓室　１枚目
+stralias Mvip_2aR,":b;BMP\background\mainbuilding\Mvip_2aR.png"  ;本館　貴賓室　１枚目雨
+stralias Mvip_2aN,":b;BMP\background\mainbuilding\Mvip_2aN.png"  ;本館　貴賓室　１枚目夜
 
-stralias portrait1,"BMP\background\mainbuilding\portrait1.bmp"  ;本館　ベアトリーチェの肖像画全体図
+stralias portrait1,":b;BMP\background\mainbuilding\portrait1.png"  ;本館　ベアトリーチェの肖像画全体図
 
-stralias portrait2,"BMP\background\mainbuilding\portrait2.bmp"  ;本館　ベアトリーチェの肖像画　上
+stralias portrait2,":b;BMP\background\mainbuilding\portrait2.png"  ;本館　ベアトリーチェの肖像画　上
 
-stralias portrait3,"BMP\background\mainbuilding\portrait3.bmp"  ;本館　ベアトリーチェの肖像画　上（EP2の私服仕様）
+stralias portrait3,":b;BMP\background\mainbuilding\portrait3.png"  ;本館　ベアトリーチェの肖像画　上（EP2の私服仕様）
 
-stralias portrait4,"BMP\background\mainbuilding\portrait4.bmp"  ;本館　ベアトリーチェの肖像画　上（EP3の魔女絵羽仕様）
+stralias portrait4,":b;BMP\background\mainbuilding\portrait4.png"  ;本館　ベアトリーチェの肖像画　上（EP3の魔女絵羽仕様）
 
-stralias portrait5,"BMP\background\mainbuilding\portrait5.bmp"  ;本館　ベアトリーチェの肖像画　上（EP5）
+stralias portrait5,":b;BMP\background\mainbuilding\portrait5.png"  ;本館　ベアトリーチェの肖像画　上（EP5）
 
-stralias portrait6,"BMP\background\mainbuilding\portrait6.bmp"  ;本館　ベアトリーチェの肖像画　上（EP6）
+stralias portrait6,":b;BMP\background\mainbuilding\portrait6.png"  ;本館　ベアトリーチェの肖像画　上（EP6）
 
 
 ;ゲストハウス
 
 ;外観
-stralias G_o1a,"BMP\background\guesthouse\G_o1a.bmp"  ;別館外観　１枚目
-stralias G_o1aR,"BMP\background\guesthouse\G_o1aR.bmp";別館外観　１枚目の雨
+stralias G_o1a,":b;BMP\background\guesthouse\G_o1a.png"  ;別館外観　１枚目
+stralias G_o1aR,":b;BMP\background\guesthouse\G_o1aR.png";別館外観　１枚目の雨
 
-stralias G_o1aN,"BMP\background\guesthouse\G_o1aN.bmp";別館外観　１枚目の夜
+stralias G_o1aN,":b;BMP\background\guesthouse\G_o1aN.png";別館外観　１枚目の夜
 
-stralias G_o1b,"BMP\background\guesthouse\G_o1b.bmp"  ;別館外観　２枚目
-stralias G_o1bR,"BMP\background\guesthouse\G_o1bR.bmp";別館外観　２枚目の雨
-stralias G_o1bN,"BMP\background\guesthouse\G_o1bN.bmp";別館外観　２枚目の夜
+stralias G_o1b,":b;BMP\background\guesthouse\G_o1b.png"  ;別館外観　２枚目
+stralias G_o1bR,":b;BMP\background\guesthouse\G_o1bR.png";別館外観　２枚目の雨
+stralias G_o1bN,":b;BMP\background\guesthouse\G_o1bN.png";別館外観　２枚目の夜
 
-stralias G_o1c,"BMP\background\guesthouse\G_o1c.bmp"  ;別館外観（見上げる）　３枚目
-stralias G_o1cR,"BMP\background\guesthouse\G_o1cR.bmp"  ;別館外観（見上げる）　３枚目
-stralias G_o1cN,"BMP\background\guesthouse\G_o1cN.bmp"  ;別館外観（見上げる）　３枚目
+stralias G_o1c,":b;BMP\background\guesthouse\G_o1c.png"  ;別館外観（見上げる）　３枚目
+stralias G_o1cR,":b;BMP\background\guesthouse\G_o1cR.png"  ;別館外観（見上げる）　３枚目
+stralias G_o1cN,":b;BMP\background\guesthouse\G_o1cN.png"  ;別館外観（見上げる）　３枚目
 
 ;ロビー   lobby
-stralias Glob_1a,"BMP\background\guesthouse\Glob_1a.bmp"  ;別館１Ｆ　ロビー　カウンター　lobby
-stralias Glob_1b,"BMP\background\guesthouse\Glob_1b.bmp"  ;別館１Ｆ　ロビー　カウンター
-stralias Glob_1c,"BMP\background\guesthouse\Glob_1c.bmp"  ;別館１Ｆ　ロビー　テーブル
-stralias Glob_1d,"BMP\background\guesthouse\Glob_1d.bmp"  ;別館１Ｆ　ロビー　テーブル
-stralias Glob_1e,"BMP\background\guesthouse\Glob_1e.bmp"  ;別館１Ｆ　ロビー　天井
+stralias Glob_1a,":b;BMP\background\guesthouse\Glob_1a.png"  ;別館１Ｆ　ロビー　カウンター　lobby
+stralias Glob_1b,":b;BMP\background\guesthouse\Glob_1b.png"  ;別館１Ｆ　ロビー　カウンター
+stralias Glob_1c,":b;BMP\background\guesthouse\Glob_1c.png"  ;別館１Ｆ　ロビー　テーブル
+stralias Glob_1d,":b;BMP\background\guesthouse\Glob_1d.png"  ;別館１Ｆ　ロビー　テーブル
+stralias Glob_1e,":b;BMP\background\guesthouse\Glob_1e.png"  ;別館１Ｆ　ロビー　天井
 
-stralias Glob_1aR,"BMP\background\guesthouse\Glob_1aR.bmp"  ;別館１Ｆ　ロビー　カウンター　lobby
-stralias Glob_1bR,"BMP\background\guesthouse\Glob_1bR.bmp"  ;別館１Ｆ　ロビー　カウンター
-stralias Glob_1cR,"BMP\background\guesthouse\Glob_1cR.bmp"  ;別館１Ｆ　ロビー　テーブル
-stralias Glob_1dR,"BMP\background\guesthouse\Glob_1dR.bmp"  ;別館１Ｆ　ロビー　テーブル
-stralias Glob_1eR,"BMP\background\guesthouse\Glob_1eR.bmp"  ;別館１Ｆ　ロビー　天井
+stralias Glob_1aR,":b;BMP\background\guesthouse\Glob_1aR.png"  ;別館１Ｆ　ロビー　カウンター　lobby
+stralias Glob_1bR,":b;BMP\background\guesthouse\Glob_1bR.png"  ;別館１Ｆ　ロビー　カウンター
+stralias Glob_1cR,":b;BMP\background\guesthouse\Glob_1cR.png"  ;別館１Ｆ　ロビー　テーブル
+stralias Glob_1dR,":b;BMP\background\guesthouse\Glob_1dR.png"  ;別館１Ｆ　ロビー　テーブル
+stralias Glob_1eR,":b;BMP\background\guesthouse\Glob_1eR.png"  ;別館１Ｆ　ロビー　天井
 
-stralias Glob_1aN,"BMP\background\guesthouse\Glob_1aN.bmp"  ;別館１Ｆ　ロビー　カウンター　lobby
-stralias Glob_1bN,"BMP\background\guesthouse\Glob_1bN.bmp"  ;別館１Ｆ　ロビー　カウンター
-stralias Glob_1cN,"BMP\background\guesthouse\Glob_1cN.bmp"  ;別館１Ｆ　ロビー　テーブル
-stralias Glob_1dN,"BMP\background\guesthouse\Glob_1dN.bmp"  ;別館１Ｆ　ロビー　テーブル
-stralias Glob_1eN,"BMP\background\guesthouse\Glob_1eN.bmp"  ;別館１Ｆ　ロビー　天井
+stralias Glob_1aN,":b;BMP\background\guesthouse\Glob_1aN.png"  ;別館１Ｆ　ロビー　カウンター　lobby
+stralias Glob_1bN,":b;BMP\background\guesthouse\Glob_1bN.png"  ;別館１Ｆ　ロビー　カウンター
+stralias Glob_1cN,":b;BMP\background\guesthouse\Glob_1cN.png"  ;別館１Ｆ　ロビー　テーブル
+stralias Glob_1dN,":b;BMP\background\guesthouse\Glob_1dN.png"  ;別館１Ｆ　ロビー　テーブル
+stralias Glob_1eN,":b;BMP\background\guesthouse\Glob_1eN.png"  ;別館１Ｆ　ロビー　天井
 
-stralias Glib_1a,"BMP\background\guesthouse\Glib_1a.bmp"  ;別館１Ｆ　書庫
-stralias Glib_1b,"BMP\background\guesthouse\Glib_1b.bmp"  ;別館１Ｆ　書庫
-stralias Glib_1c,"BMP\background\guesthouse\Glib_1c.bmp"  ;別館１Ｆ　書庫　上段
+stralias Glib_1a,":b;BMP\background\guesthouse\Glib_1a.png"  ;別館１Ｆ　書庫
+stralias Glib_1b,":b;BMP\background\guesthouse\Glib_1b.png"  ;別館１Ｆ　書庫
+stralias Glib_1c,":b;BMP\background\guesthouse\Glib_1c.png"  ;別館１Ｆ　書庫　上段
 
 ;食堂
-stralias Gdin_1a,"BMP\background\guesthouse\Gdin_1a.bmp"  ;別館１Ｆ 食堂１　１枚目　dining
-stralias Gdin_1b,"BMP\background\guesthouse\Gdin_1b.bmp"  ;別館１Ｆ 食堂１　２枚目
-stralias Gdin_1c,"BMP\background\guesthouse\Gdin_1c.bmp"  ;別館１Ｆ 食堂１　３枚目
+stralias Gdin_1a,":b;BMP\background\guesthouse\Gdin_1a.png"  ;別館１Ｆ 食堂１　１枚目　dining
+stralias Gdin_1b,":b;BMP\background\guesthouse\Gdin_1b.png"  ;別館１Ｆ 食堂１　２枚目
+stralias Gdin_1c,":b;BMP\background\guesthouse\Gdin_1c.png"  ;別館１Ｆ 食堂１　３枚目
 
 ;サンルーフ
-stralias Gsun_1a,"BMP\background\guesthouse\Gsun_1a.bmp"  ;別館１Ｆ サンルーフ１　１枚目
-stralias Gsun_1b,"BMP\background\guesthouse\Gsun_1b.bmp"  ;別館１Ｆ サンルーフ１　２枚目
-stralias Gsun_1c,"BMP\background\guesthouse\Gsun_1c.bmp"  ;別館１Ｆ サンルーフ１　３枚目
+stralias Gsun_1a,":b;BMP\background\guesthouse\Gsun_1a.png"  ;別館１Ｆ サンルーフ１　１枚目
+stralias Gsun_1b,":b;BMP\background\guesthouse\Gsun_1b.png"  ;別館１Ｆ サンルーフ１　２枚目
+stralias Gsun_1c,":b;BMP\background\guesthouse\Gsun_1c.png"  ;別館１Ｆ サンルーフ１　３枚目
 
 ;サロン１
-stralias G1F_S1a,"BMP\background\guesthouse\G1F_S1a.bmp"  ;別館１Ｆ 広間１　１枚目
-stralias G1F_S1b,"BMP\background\guesthouse\G1F_S1b.bmp"  ;別館１Ｆ 広間１　２枚目
-stralias G1F_S1c,"BMP\background\guesthouse\G1F_S1c.bmp"  ;別館１Ｆ 広間１　３枚目
+stralias G1F_S1a,":b;BMP\background\guesthouse\G1F_S1a.png"  ;別館１Ｆ 広間１　１枚目
+stralias G1F_S1b,":b;BMP\background\guesthouse\G1F_S1b.png"  ;別館１Ｆ 広間１　２枚目
+stralias G1F_S1c,":b;BMP\background\guesthouse\G1F_S1c.png"  ;別館１Ｆ 広間１　３枚目
 
 ;ベアトリーチェ空間化したサロン１
-stralias G1F_S1aP,"BMP\background\guesthouse\G1F_S1aP.bmp"  ;別館１Ｆ 広間１　１枚目
-stralias G1F_S1bP,"BMP\background\guesthouse\G1F_S1bP.bmp"  ;別館１Ｆ 広間１　２枚目
-stralias G1F_S1cP,"BMP\background\guesthouse\G1F_S1cP.bmp"  ;別館１Ｆ 広間１　３枚
+stralias G1F_S1aP,":b;BMP\background\guesthouse\G1F_S1aP.png"  ;別館１Ｆ 広間１　１枚目
+stralias G1F_S1bP,":b;BMP\background\guesthouse\G1F_S1bP.png"  ;別館１Ｆ 広間１　２枚目
+stralias G1F_S1cP,":b;BMP\background\guesthouse\G1F_S1cP.png"  ;別館１Ｆ 広間１　３枚
 
 ;サロン	２
-stralias G1F_S2a,"BMP\background\guesthouse\G1F_S2a.bmp"  ;別館１Ｆ 広間２　１枚目
-stralias G1F_S2b,"BMP\background\guesthouse\G1F_S2b.bmp"  ;別館１Ｆ 広間２　２枚目
-stralias G1F_S2c,"BMP\background\guesthouse\G1F_S2c.bmp"  ;別館１Ｆ 広間２　３枚目
+stralias G1F_S2a,":b;BMP\background\guesthouse\G1F_S2a.png"  ;別館１Ｆ 広間２　１枚目
+stralias G1F_S2b,":b;BMP\background\guesthouse\G1F_S2b.png"  ;別館１Ｆ 広間２　２枚目
+stralias G1F_S2c,":b;BMP\background\guesthouse\G1F_S2c.png"  ;別館１Ｆ 広間２　３枚目
 ;サロン	２
-stralias G1F_S2aR,"BMP\background\guesthouse\G1F_S2aR.bmp"  ;別館１Ｆ 広間２　１枚目
-stralias G1F_S2bR,"BMP\background\guesthouse\G1F_S2bR.bmp"  ;別館１Ｆ 広間２　２枚目
-stralias G1F_S2cR,"BMP\background\guesthouse\G1F_S2cR.bmp"  ;別館１Ｆ 広間２　３枚目
+stralias G1F_S2aR,":b;BMP\background\guesthouse\G1F_S2aR.png"  ;別館１Ｆ 広間２　１枚目
+stralias G1F_S2bR,":b;BMP\background\guesthouse\G1F_S2bR.png"  ;別館１Ｆ 広間２　２枚目
+stralias G1F_S2cR,":b;BMP\background\guesthouse\G1F_S2cR.png"  ;別館１Ｆ 広間２　３枚目
 ;サロン	２
-stralias G1F_S2aN,"BMP\background\guesthouse\G1F_S2aN.bmp"  ;別館１Ｆ 広間２　１枚目
-stralias G1F_S2bN,"BMP\background\guesthouse\G1F_S2bN.bmp"  ;別館１Ｆ 広間２　２枚目
-stralias G1F_S2cN,"BMP\background\guesthouse\G1F_S2cN.bmp"  ;別館１Ｆ 広間２　３枚目
+stralias G1F_S2aN,":b;BMP\background\guesthouse\G1F_S2aN.png"  ;別館１Ｆ 広間２　１枚目
+stralias G1F_S2bN,":b;BMP\background\guesthouse\G1F_S2bN.png"  ;別館１Ｆ 広間２　２枚目
+stralias G1F_S2cN,":b;BMP\background\guesthouse\G1F_S2cN.png"  ;別館１Ｆ 広間２　３枚目
 
 ;通路
-stralias G1F_P1a,"BMP\background\guesthouse\G1F_P1a.bmp"  ;別館１Ｆ 通路１　１枚目
-stralias G1F_P1aR,"BMP\background\guesthouse\G1F_P1aR.bmp"  ;別館１Ｆ 通路１　１枚目の雨
-stralias G1F_P1aN,"BMP\background\guesthouse\G1F_P1aN.bmp"  ;別館１Ｆ 通路１　１枚目の夜
-stralias G1F_P1b,"BMP\background\guesthouse\G1F_P1b.bmp"  ;別館１Ｆ 通路１　２枚目
-stralias G1F_P1bR,"BMP\background\guesthouse\G1F_P1bR.bmp"  ;別館１Ｆ 通路１　２枚目の雨
-stralias G1F_P1bN,"BMP\background\guesthouse\G1F_P1bN.bmp"  ;別館１Ｆ 通路１　２枚目の夜
-stralias G1F_P1c,"BMP\background\guesthouse\G1F_P1c.bmp"  ;別館１Ｆ 通路１　３枚目
-stralias G1F_P1d,"BMP\background\guesthouse\G1F_P1d.bmp"  ;別館１Ｆ 通路１　４枚目
-stralias G1F_P1e,"BMP\background\guesthouse\G1F_P1e.bmp"  ;別館１Ｆ 通路１　５枚目
-stralias G1F_P1eN,"BMP\background\guesthouse\G1F_P1eN.bmp"  ;別館１Ｆ 通路１　５枚目
+stralias G1F_P1a,":b;BMP\background\guesthouse\G1F_P1a.png"  ;別館１Ｆ 通路１　１枚目
+stralias G1F_P1aR,":b;BMP\background\guesthouse\G1F_P1aR.png"  ;別館１Ｆ 通路１　１枚目の雨
+stralias G1F_P1aN,":b;BMP\background\guesthouse\G1F_P1aN.png"  ;別館１Ｆ 通路１　１枚目の夜
+stralias G1F_P1b,":b;BMP\background\guesthouse\G1F_P1b.png"  ;別館１Ｆ 通路１　２枚目
+stralias G1F_P1bR,":b;BMP\background\guesthouse\G1F_P1bR.png"  ;別館１Ｆ 通路１　２枚目の雨
+stralias G1F_P1bN,":b;BMP\background\guesthouse\G1F_P1bN.png"  ;別館１Ｆ 通路１　２枚目の夜
+stralias G1F_P1c,":b;BMP\background\guesthouse\G1F_P1c.png"  ;別館１Ｆ 通路１　３枚目
+stralias G1F_P1d,":b;BMP\background\guesthouse\G1F_P1d.png"  ;別館１Ｆ 通路１　４枚目
+stralias G1F_P1e,":b;BMP\background\guesthouse\G1F_P1e.png"  ;別館１Ｆ 通路１　５枚目
+stralias G1F_P1eN,":b;BMP\background\guesthouse\G1F_P1eN.png"  ;別館１Ｆ 通路１　５枚目
 
-stralias G1F_P2a,"BMP\background\guesthouse\G1F_P2a.bmp"  ;別館１Ｆ 通路２　１枚目
+stralias G1F_P2a,":b;BMP\background\guesthouse\G1F_P2a.png"  ;別館１Ｆ 通路２　１枚目
 
-stralias G1F_R1a,"BMP\background\guesthouse\G1F_R1a.bmp"  ;別館１Ｆ 室内２　１枚目　使用人部屋（予定）
-stralias G1F_R1aR,"BMP\background\guesthouse\G1F_R1aR.bmp"  ;別館１Ｆ 室内２　１枚目　使用人部屋（予定）の雨
-stralias G1F_R1aN,"BMP\background\guesthouse\G1F_R1aN.bmp"  ;別館１Ｆ 室内２　１枚目　使用人部屋（予定）の夜
-stralias G1F_R1b,"BMP\background\guesthouse\G1F_R1b.bmp"  ;別館１Ｆ 室内２　２枚目　使用人部屋（予定）
-stralias G1F_R1bR,"BMP\background\guesthouse\G1F_R1bR.bmp"  ;別館１Ｆ 室内２　２枚目　使用人部屋（予定）の雨
-stralias G1F_R1bN,"BMP\background\guesthouse\G1F_R1bN.bmp"  ;別館１Ｆ 室内２　２枚目　使用人部屋（予定）の夜
+stralias G1F_R1a,":b;BMP\background\guesthouse\G1F_R1a.png"  ;別館１Ｆ 室内２　１枚目　使用人部屋（予定）
+stralias G1F_R1aR,":b;BMP\background\guesthouse\G1F_R1aR.png"  ;別館１Ｆ 室内２　１枚目　使用人部屋（予定）の雨
+stralias G1F_R1aN,":b;BMP\background\guesthouse\G1F_R1aN.png"  ;別館１Ｆ 室内２　１枚目　使用人部屋（予定）の夜
+stralias G1F_R1b,":b;BMP\background\guesthouse\G1F_R1b.png"  ;別館１Ｆ 室内２　２枚目　使用人部屋（予定）
+stralias G1F_R1bR,":b;BMP\background\guesthouse\G1F_R1bR.png"  ;別館１Ｆ 室内２　２枚目　使用人部屋（予定）の雨
+stralias G1F_R1bN,":b;BMP\background\guesthouse\G1F_R1bN.png"  ;別館１Ｆ 室内２　２枚目　使用人部屋（予定）の夜
 
-stralias G1F_R2a,"BMP\background\guesthouse\G1F_R2a.bmp"  ;別館１Ｆ 室内２　１枚目　部屋（EP3予定）
-stralias G1F_R2b,"BMP\background\guesthouse\G1F_R2b.bmp"  ;別館１Ｆ 室内２　２枚目　部屋（EP3予定）
-stralias G1F_R2c,"BMP\background\guesthouse\G1F_R2c.bmp"  ;別館１Ｆ 室内２　３枚目　部屋（EP3予定）
-stralias G1F_R2aR,"BMP\background\guesthouse\G1F_R2aR.bmp"  ;別館１Ｆ 室内２　１枚目　部屋（EP3予定）
-stralias G1F_R2bR,"BMP\background\guesthouse\G1F_R2bR.bmp"  ;別館１Ｆ 室内２　２枚目　部屋（EP3予定）
-stralias G1F_R2cR,"BMP\background\guesthouse\G1F_R2cR.bmp"  ;別館１Ｆ 室内２　３枚目　部屋（EP3予定）
-stralias G1F_R2aN,"BMP\background\guesthouse\G1F_R2aN.bmp"  ;別館１Ｆ 室内２　１枚目　部屋（EP3予定）
-stralias G1F_R2bN,"BMP\background\guesthouse\G1F_R2bN.bmp"  ;別館１Ｆ 室内２　２枚目　部屋（EP3予定）
-stralias G1F_R2cN,"BMP\background\guesthouse\G1F_R2cN.bmp"  ;別館１Ｆ 室内２　３枚目　部屋（EP3予定）
-
-
-stralias G2F_P1a,"BMP\background\guesthouse\G2F_P1a.bmp"  ;別館２Ｆ 通路１　１枚目
-stralias G2F_P1aN,"BMP\background\guesthouse\G2F_P1aN.bmp"  ;別館２Ｆ 通路１　１枚目
-stralias G2F_P1b,"BMP\background\guesthouse\G2F_P1b.bmp"  ;別館２Ｆ 通路１　２枚目
-stralias G2F_P1c,"BMP\background\guesthouse\G2F_P1c.bmp"  ;別館２Ｆ 通路１　３枚目
-stralias G2F_P1cN,"BMP\background\guesthouse\G2F_P1cN.bmp"  ;別館２Ｆ 通路１　３枚目
-
-stralias G2F_P1bN,"BMP\background\guesthouse\G2F_P1bN.bmp"  ;別館２Ｆ 通路１　２枚目
-
-stralias G2F_R1a,"BMP\background\guesthouse\G2F_R1a.bmp"  ;別館２Ｆ 室内１　１枚目
-stralias G2F_R1aR,"BMP\background\guesthouse\G2F_R1aR.bmp"  ;別館２Ｆ 室内１　１枚目の雨
-stralias G2F_R1aN,"BMP\background\guesthouse\G2F_R1aN.bmp"  ;別館２Ｆ 室内１　１枚目の夜
-stralias G2F_R1b,"BMP\background\guesthouse\G2F_R1b.bmp"  ;別館２Ｆ 室内１　２枚目
-stralias G2F_R1bR,"BMP\background\guesthouse\G2F_R1bR.bmp"  ;別館２Ｆ 室内１　２枚目の雨
-stralias G2F_R1bN,"BMP\background\guesthouse\G2F_R1bN.bmp"  ;別館２Ｆ 室内１　２枚目の夜
-stralias G2F_R1c,"BMP\background\guesthouse\G2F_R1c.bmp"  ;別館２Ｆ 室内１　３枚目
-stralias G2F_R1cR,"BMP\background\guesthouse\G2F_R1cR.bmp"  ;別館２Ｆ 室内１　３枚目の雨
-stralias G2F_R1cN,"BMP\background\guesthouse\G2F_R1cN.bmp"  ;別館２Ｆ 室内１　３枚目の夜
-
-stralias Gsta_1a,"BMP\background\guesthouse\Gsta_1a.bmp"  ;階段（最上階）　１枚目　staircase
-stralias Gsta_1b,"BMP\background\guesthouse\Gsta_1c.bmp"  ;階段（踊り場）　２枚目（現在欠番）
-stralias Gsta_1c,"BMP\background\guesthouse\Gsta_1c.bmp"  ;階段（見下ろす）　３枚目
-
-stralias cha_o1a,"BMP\background\chapel\cha_o1a.bmp"  ;礼拝堂　外観　１枚目　chapel
-stralias cha_o2a,"BMP\background\chapel\cha_o2a.bmp"  ;礼拝堂　入り口　１枚目　chapel
-stralias cha_o2aN,"BMP\background\chapel\cha_o2aN.bmp"  ;礼拝堂　入り口　１枚目　夜
-
-stralias cha_o2b,"BMP\background\chapel\cha_o2b.bmp"  ;礼拝堂　入り口　２枚目
-
-stralias cha_i1a,"BMP\background\chapel\cha_i1a.bmp"  ;礼拝堂　内部　正面　１枚目　chapel
-stralias cha_i1b,"BMP\background\chapel\cha_i1b.bmp"  ;礼拝堂　内部　２枚目
-stralias cha_i1c,"BMP\background\chapel\cha_i1c.bmp"  ;礼拝堂　内部　３枚目
-stralias cha_i1d,"BMP\background\chapel\cha_i1d.bmp"  ;礼拝堂　内部　４枚目
-stralias cha_i1dP,"BMP\background\chapel\cha_i1dP.bmp"  ;礼拝堂　内部　４枚目　メタ
-
-stralias cha_i1e,"BMP\background\chapel\cha_i1e.bmp"  ;礼拝堂　天井　４枚目
+stralias G1F_R2a,":b;BMP\background\guesthouse\G1F_R2a.png"  ;別館１Ｆ 室内２　１枚目　部屋（EP3予定）
+stralias G1F_R2b,":b;BMP\background\guesthouse\G1F_R2b.png"  ;別館１Ｆ 室内２　２枚目　部屋（EP3予定）
+stralias G1F_R2c,":b;BMP\background\guesthouse\G1F_R2c.png"  ;別館１Ｆ 室内２　３枚目　部屋（EP3予定）
+stralias G1F_R2aR,":b;BMP\background\guesthouse\G1F_R2aR.png"  ;別館１Ｆ 室内２　１枚目　部屋（EP3予定）
+stralias G1F_R2bR,":b;BMP\background\guesthouse\G1F_R2bR.png"  ;別館１Ｆ 室内２　２枚目　部屋（EP3予定）
+stralias G1F_R2cR,":b;BMP\background\guesthouse\G1F_R2cR.png"  ;別館１Ｆ 室内２　３枚目　部屋（EP3予定）
+stralias G1F_R2aN,":b;BMP\background\guesthouse\G1F_R2aN.png"  ;別館１Ｆ 室内２　１枚目　部屋（EP3予定）
+stralias G1F_R2bN,":b;BMP\background\guesthouse\G1F_R2bN.png"  ;別館１Ｆ 室内２　２枚目　部屋（EP3予定）
+stralias G1F_R2cN,":b;BMP\background\guesthouse\G1F_R2cN.png"  ;別館１Ｆ 室内２　３枚目　部屋（EP3予定）
 
 
-stralias Se_o1a,"BMP\background\secrethouse\Se_o1a.bmp"  ;隠れ家　外観
-stralias Se_o1aP,"BMP\background\secrethouse\Se_o1aP.bmp"  ;隠れ家　外観
+stralias G2F_P1a,":b;BMP\background\guesthouse\G2F_P1a.png"  ;別館２Ｆ 通路１　１枚目
+stralias G2F_P1aN,":b;BMP\background\guesthouse\G2F_P1aN.png"  ;別館２Ｆ 通路１　１枚目
+stralias G2F_P1b,":b;BMP\background\guesthouse\G2F_P1b.png"  ;別館２Ｆ 通路１　２枚目
+stralias G2F_P1c,":b;BMP\background\guesthouse\G2F_P1c.png"  ;別館２Ｆ 通路１　３枚目
+stralias G2F_P1cN,":b;BMP\background\guesthouse\G2F_P1cN.png"  ;別館２Ｆ 通路１　３枚目
 
-stralias fence_1a,"BMP\background\secrethouse\fence_1a.bmp"  ;隠れ家　フェンス
+stralias G2F_P1bN,":b;BMP\background\guesthouse\G2F_P1bN.png"  ;別館２Ｆ 通路１　２枚目
 
-stralias Se1F_S1a,"BMP\background\secrethouse\Se1F_S1a.bmp"  ;サロン　１枚目
-stralias Se1F_S1aN,"BMP\background\secrethouse\Se1F_S1aN.bmp"  ;サロン　夜　１枚目
-stralias Se1F_S1aR,"BMP\background\secrethouse\Se1F_S1aR.bmp"  ;サロン　雨　１枚目
-stralias Se1F_S1aP,"BMP\background\secrethouse\Se1F_S1aP.bmp"  ;サロン　メタ　１枚目
-stralias Se1F_S1b,"BMP\background\secrethouse\Se1F_S1b.bmp"  ;サロン　２枚目
-stralias Se1F_S1bN,"BMP\background\secrethouse\Se1F_S1bN.bmp"  ;サロン　夜　２枚目
-stralias Se1F_S1bR,"BMP\background\secrethouse\Se1F_S1bR.bmp"  ;サロン　雨　２枚目
-stralias Se1F_S1bP,"BMP\background\secrethouse\Se1F_S1bP.bmp"  ;サロン　メタ　２枚目
-stralias Se1F_S1c,"BMP\background\secrethouse\Se1F_S1c.bmp"  ;サロン　３枚目　天井
-stralias Se1F_S1cN,"BMP\background\secrethouse\Se1F_S1cN.bmp"  ;サロン　３枚目　夜　天井
-stralias Se1F_S1cR,"BMP\background\secrethouse\Se1F_S1cR.bmp"  ;サロン　３枚目　雨　天井
-stralias Se1F_S1cP,"BMP\background\secrethouse\Se1F_S1cP.bmp"  ;サロン　３枚目　メタ　天井
+stralias G2F_R1a,":b;BMP\background\guesthouse\G2F_R1a.png"  ;別館２Ｆ 室内１　１枚目
+stralias G2F_R1aR,":b;BMP\background\guesthouse\G2F_R1aR.png"  ;別館２Ｆ 室内１　１枚目の雨
+stralias G2F_R1aN,":b;BMP\background\guesthouse\G2F_R1aN.png"  ;別館２Ｆ 室内１　１枚目の夜
+stralias G2F_R1b,":b;BMP\background\guesthouse\G2F_R1b.png"  ;別館２Ｆ 室内１　２枚目
+stralias G2F_R1bR,":b;BMP\background\guesthouse\G2F_R1bR.png"  ;別館２Ｆ 室内１　２枚目の雨
+stralias G2F_R1bN,":b;BMP\background\guesthouse\G2F_R1bN.png"  ;別館２Ｆ 室内１　２枚目の夜
+stralias G2F_R1c,":b;BMP\background\guesthouse\G2F_R1c.png"  ;別館２Ｆ 室内１　３枚目
+stralias G2F_R1cR,":b;BMP\background\guesthouse\G2F_R1cR.png"  ;別館２Ｆ 室内１　３枚目の雨
+stralias G2F_R1cN,":b;BMP\background\guesthouse\G2F_R1cN.png"  ;別館２Ｆ 室内１　３枚目の夜
 
-stralias Sehal_1a,"BMP\background\secrethouse\Sehal_1a.bmp"  ;ホール　１枚目
-stralias Sehal_1ap,"BMP\background\secrethouse\Sehal_1ap.bmp"  ;ホール　１枚目
-stralias Sehal_1b,"BMP\background\secrethouse\Sehal_1b.bmp"  ;ホール　２枚目
-stralias Sehal_1bp,"BMP\background\secrethouse\Sehal_1bp.bmp"  ;ホール　２枚目
+stralias Gsta_1a,":b;BMP\background\guesthouse\Gsta_1a.png"  ;階段（最上階）　１枚目　staircase
+stralias Gsta_1b,":b;BMP\background\guesthouse\Gsta_1c.png"  ;階段（踊り場）　２枚目（現在欠番）
+stralias Gsta_1c,":b;BMP\background\guesthouse\Gsta_1c.png"  ;階段（見下ろす）　３枚目
+
+stralias cha_o1a,":b;BMP\background\chapel\cha_o1a.png"  ;礼拝堂　外観　１枚目　chapel
+stralias cha_o2a,":b;BMP\background\chapel\cha_o2a.png"  ;礼拝堂　入り口　１枚目　chapel
+stralias cha_o2aN,":b;BMP\background\chapel\cha_o2aN.png"  ;礼拝堂　入り口　１枚目　夜
+
+stralias cha_o2b,":b;BMP\background\chapel\cha_o2b.png"  ;礼拝堂　入り口　２枚目
+
+stralias cha_i1a,":b;BMP\background\chapel\cha_i1a.png"  ;礼拝堂　内部　正面　１枚目　chapel
+stralias cha_i1b,":b;BMP\background\chapel\cha_i1b.png"  ;礼拝堂　内部　２枚目
+stralias cha_i1c,":b;BMP\background\chapel\cha_i1c.png"  ;礼拝堂　内部　３枚目
+stralias cha_i1d,":b;BMP\background\chapel\cha_i1d.png"  ;礼拝堂　内部　４枚目
+stralias cha_i1dP,":b;BMP\background\chapel\cha_i1dP.png"  ;礼拝堂　内部　４枚目　メタ
+
+stralias cha_i1e,":b;BMP\background\chapel\cha_i1e.png"  ;礼拝堂　天井　４枚目
 
 
-stralias garden_Se1a,"BMP\background\garden\garden_Se1a.bmp"  ;庭　１枚目
-stralias garden_Se1aP,"BMP\background\garden\garden_Se1aP.bmp"  ;庭　１枚目
-stralias garden_Se1b,"BMP\background\garden\garden_Se1b.bmp"  ;庭　２枚目
-stralias garden_Se1c,"BMP\background\garden\garden_Se1c.bmp"  ;庭　３枚目
+stralias Se_o1a,":b;BMP\background\secrethouse\Se_o1a.png"  ;隠れ家　外観
+stralias Se_o1aP,":b;BMP\background\secrethouse\Se_o1aP.png"  ;隠れ家　外観
 
-stralias garden_Se2a,"BMP\background\garden\garden_Se2a.bmp"  ;ガーデンチェア　１枚目
-stralias garden_Se2aP,"BMP\background\garden\garden_Se2aP.bmp"  ;ガーデンチェア　１枚目
-stralias garden_Se2b,"BMP\background\garden\garden_Se2b.bmp"  ;ガーデンチェア　２枚目
-stralias garden_Se2bP,"BMP\background\garden\garden_Se2bP.bmp"  ;ガーデンチェア　２枚目
-stralias garden_Se2c,"BMP\background\garden\garden_Se2c.bmp"  ;ガーデンチェア　３枚目
-stralias garden_Se2cP,"BMP\background\garden\garden_Se2cP.bmp"  ;ガーデンチェア　３枚目
+stralias fence_1a,":b;BMP\background\secrethouse\fence_1a.png"  ;隠れ家　フェンス
 
-stralias garden_Se3a,"BMP\background\garden\garden_Se3a.bmp"  ;花畑　１枚目
+stralias Se1F_S1a,":b;BMP\background\secrethouse\Se1F_S1a.png"  ;サロン　１枚目
+stralias Se1F_S1aN,":b;BMP\background\secrethouse\Se1F_S1aN.png"  ;サロン　夜　１枚目
+stralias Se1F_S1aR,":b;BMP\background\secrethouse\Se1F_S1aR.png"  ;サロン　雨　１枚目
+stralias Se1F_S1aP,":b;BMP\background\secrethouse\Se1F_S1aP.png"  ;サロン　メタ　１枚目
+stralias Se1F_S1b,":b;BMP\background\secrethouse\Se1F_S1b.png"  ;サロン　２枚目
+stralias Se1F_S1bN,":b;BMP\background\secrethouse\Se1F_S1bN.png"  ;サロン　夜　２枚目
+stralias Se1F_S1bR,":b;BMP\background\secrethouse\Se1F_S1bR.png"  ;サロン　雨　２枚目
+stralias Se1F_S1bP,":b;BMP\background\secrethouse\Se1F_S1bP.png"  ;サロン　メタ　２枚目
+stralias Se1F_S1c,":b;BMP\background\secrethouse\Se1F_S1c.png"  ;サロン　３枚目　天井
+stralias Se1F_S1cN,":b;BMP\background\secrethouse\Se1F_S1cN.png"  ;サロン　３枚目　夜　天井
+stralias Se1F_S1cR,":b;BMP\background\secrethouse\Se1F_S1cR.png"  ;サロン　３枚目　雨　天井
+stralias Se1F_S1cP,":b;BMP\background\secrethouse\Se1F_S1cP.png"  ;サロン　３枚目　メタ　天井
 
-stralias sub_sta1a,"BMP\background\subway\sub_sta1a.bmp"  ;地下道　階段
+stralias Sehal_1a,":b;BMP\background\secrethouse\Sehal_1a.png"  ;ホール　１枚目
+stralias Sehal_1ap,":b;BMP\background\secrethouse\Sehal_1ap.png"  ;ホール　１枚目
+stralias Sehal_1b,":b;BMP\background\secrethouse\Sehal_1b.png"  ;ホール　２枚目
+stralias Sehal_1bp,":b;BMP\background\secrethouse\Sehal_1bp.png"  ;ホール　２枚目
 
-stralias sub_P1a,"BMP\background\subway\sub_P1a.bmp"  ;地下道　通路　subway
-stralias sub_P1b,"BMP\background\subway\sub_P1b.bmp"  ;地下道　通路　subway
-stralias sub_P1c,"BMP\background\subway\sub_P1c.bmp"  ;地下道　通路　subway
 
-stralias sub_D1a,"BMP\background\subway\sub_D1a.bmp"  ;地下道　ドア
+stralias garden_Se1a,":b;BMP\background\garden\garden_Se1a.png"  ;庭　１枚目
+stralias garden_Se1aP,":b;BMP\background\garden\garden_Se1aP.png"  ;庭　１枚目
+stralias garden_Se1b,":b;BMP\background\garden\garden_Se1b.png"  ;庭　２枚目
+stralias garden_Se1c,":b;BMP\background\garden\garden_Se1c.png"  ;庭　３枚目
 
-stralias sub_R1a,"BMP\background\subway\sub_R1a.bmp"  ;地下道
-stralias sub_R1aP,"BMP\background\subway\sub_R1aP.bmp"  ;地下道
-stralias sub_R1b,"BMP\background\subway\sub_R1b.bmp"  ;地下道
-stralias sub_R1bP,"BMP\background\subway\sub_R1bP.bmp"  ;地下道
-stralias sub_R1c,"BMP\background\subway\sub_R1c.bmp"  ;地下道
-stralias sub_R1cP,"BMP\background\subway\sub_R1cP.bmp"  ;地下道
-stralias sub_R1d,"BMP\background\subway\sub_R1d.bmp"  ;地下道
+stralias garden_Se2a,":b;BMP\background\garden\garden_Se2a.png"  ;ガーデンチェア　１枚目
+stralias garden_Se2aP,":b;BMP\background\garden\garden_Se2aP.png"  ;ガーデンチェア　１枚目
+stralias garden_Se2b,":b;BMP\background\garden\garden_Se2b.png"  ;ガーデンチェア　２枚目
+stralias garden_Se2bP,":b;BMP\background\garden\garden_Se2bP.png"  ;ガーデンチェア　２枚目
+stralias garden_Se2c,":b;BMP\background\garden\garden_Se2c.png"  ;ガーデンチェア　３枚目
+stralias garden_Se2cP,":b;BMP\background\garden\garden_Se2cP.png"  ;ガーデンチェア　３枚目
 
-stralias PRI_o1a,"BMP\background\subway\PRI_o1a.bmp"  ;地下牢　外側
+stralias garden_Se3a,":b;BMP\background\garden\garden_Se3a.png"  ;花畑　１枚目
 
-stralias PRI_i1a,"BMP\background\subway\PRI_i1a.bmp"  ;地下牢　内側
-stralias PRI_i1b,"BMP\background\subway\PRI_i1b.bmp"  ;地下牢　内側
-stralias PRI_i1c,"BMP\background\subway\PRI_i1c.bmp"  ;地下牢　内側
+stralias sub_sta1a,":b;BMP\background\subway\sub_sta1a.png"  ;地下道　階段
 
-stralias PRI_efe,":a;BMP\background\subway\PRI_efe.bmp"  ;地下牢　格子スプライト
+stralias sub_P1a,":b;BMP\background\subway\sub_P1a.png"  ;地下道　通路　subway
+stralias sub_P1b,":b;BMP\background\subway\sub_P1b.png"  ;地下道　通路　subway
+stralias sub_P1c,":b;BMP\background\subway\sub_P1c.png"  ;地下道　通路　subway
+
+stralias sub_D1a,":b;BMP\background\subway\sub_D1a.png"  ;地下道　ドア
+
+stralias sub_R1a,":b;BMP\background\subway\sub_R1a.png"  ;地下道
+stralias sub_R1aP,":b;BMP\background\subway\sub_R1aP.png"  ;地下道
+stralias sub_R1b,":b;BMP\background\subway\sub_R1b.png"  ;地下道
+stralias sub_R1bP,":b;BMP\background\subway\sub_R1bP.png"  ;地下道
+stralias sub_R1c,":b;BMP\background\subway\sub_R1c.png"  ;地下道
+stralias sub_R1cP,":b;BMP\background\subway\sub_R1cP.png"  ;地下道
+stralias sub_R1d,":b;BMP\background\subway\sub_R1d.png"  ;地下道
+
+stralias PRI_o1a,":b;BMP\background\subway\PRI_o1a.png"  ;地下牢　外側
+
+stralias PRI_i1a,":b;BMP\background\subway\PRI_i1a.png"  ;地下牢　内側
+stralias PRI_i1b,":b;BMP\background\subway\PRI_i1b.png"  ;地下牢　内側
+stralias PRI_i1c,":b;BMP\background\subway\PRI_i1c.png"  ;地下牢　内側
+
+stralias PRI_efe,":ba;BMP\background\subway\PRI_efe.png"  ;地下牢　格子スプライト
 
 stralias butterfly_1a,":b;BMP\background\efe\butterfly_1a.png"  ;輝く蝶　１枚目　遠め
 stralias butterfly_2a,":b;BMP\background\efe\butterfly_2a.png"  ;輝く蝶　１枚目　近め
@@ -3746,444 +3746,444 @@ stralias butterfly_4sp2,":ba;BMP\background\efe\butterfly_4sp2.png"  ;輝く蝶�
 stralias butterfly_4sp1R,":ba;BMP\background\efe\butterfly_4sp1R.png"  ;輝く蝶　（反転）　２枚目
 stralias butterfly_4sp2R,":ba;BMP\background\efe\butterfly_4sp2R.png"  ;輝く蝶　（反転）２枚目　群れ
 
-stralias chess1,"BMP\background\efe\chess1.bmp"  ;チェス
-stralias chess2,"BMP\background\efe\chess2.bmp"  ;チェス
+stralias chess1,":b;BMP\background\efe\chess1.png"  ;チェス
+stralias chess2,":b;BMP\background\efe\chess2.png"  ;チェス
 
-stralias oct_4_1986,"BMP\background\efe\oct_4_1986.bmp"  ;日付表記
-stralias oct_5_1986,"BMP\background\efe\oct_5_1986.bmp"  ;日付表記
-stralias oct_4_1998,"BMP\background\efe\oct_4_1998.bmp"  ;日付表記
-stralias oct_4_1998b,"BMP\background\efe\oct_4_1998b.bmp"  ;12年後
-stralias oct_1998,"BMP\background\efe\oct_1998.bmp"	;1998年表記
-stralias oct_5_1985,"BMP\background\efe\oct_5_1985.bmp"	;１年前の親族会議
+stralias oct_4_1986,":b;BMP\background\efe\oct_4_1986.png"  ;日付表記
+stralias oct_5_1986,":b;BMP\background\efe\oct_5_1986.png"  ;日付表記
+stralias oct_4_1998,":b;BMP\background\efe\oct_4_1998.png"  ;日付表記
+stralias oct_4_1998b,":b;BMP\background\efe\oct_4_1998b.png"  ;12年後
+stralias oct_1998,":b;BMP\background\efe\oct_1998.png"	;1998年表記
+stralias oct_5_1985,":b;BMP\background\efe\oct_5_1985.png"	;１年前の親族会議
 
-stralias purgatorio,"BMP\background\efe\purgatorio.bmp"  ;お茶会看板
+stralias purgatorio,":b;BMP\background\efe\purgatorio.png"  ;お茶会看板
 
-stralias sweet1,"BMP\background\efe\sweet1.bmp"  ;かぼちゃ菓子
-stralias sweet2,"BMP\background\efe\sweet2.bmp"  ;かぼちゃ菓子いろいろ
+stralias sweet1,":b;BMP\background\efe\sweet1.png"  ;かぼちゃ菓子
+stralias sweet2,":b;BMP\background\efe\sweet2.png"  ;かぼちゃ菓子いろいろ
 
-stralias magicsquare_sun7,"BMP\background\efe\magicsquare_sun7.bmp"  ;太陽の７の魔法陣
-stralias magicsquare_moon1,"BMP\background\efe\magicsquare_moon1.bmp"  ;月の１の魔法陣
-stralias magicsquare_mars3,"BMP\background\efe\magicsquare_mars3.bmp"  ;火星の３の魔法陣
-stralias magicsquare_mars5,"BMP\background\efe\magicsquare_mars5.bmp"  ;火星の５の魔法陣
-stralias magicsquare_GAP,"BMP\background\efe\magicsquare_GAP.bmp"  ;ガァプの魔法陣
+stralias magicsquare_sun7,":b;BMP\background\efe\magicsquare_sun7.png"  ;太陽の７の魔法陣
+stralias magicsquare_moon1,":b;BMP\background\efe\magicsquare_moon1.png"  ;月の１の魔法陣
+stralias magicsquare_mars3,":b;BMP\background\efe\magicsquare_mars3.png"  ;火星の３の魔法陣
+stralias magicsquare_mars5,":b;BMP\background\efe\magicsquare_mars5.png"  ;火星の５の魔法陣
+stralias magicsquare_GAP,":b;BMP\background\efe\magicsquare_GAP.png"  ;ガァプの魔法陣
 
-stralias view_efe,":a;BMP\background\efe\view_efe.bmp"  ;隙間から見る（エフェクト専用）
+stralias view_efe,":ba;BMP\background\efe\view_efe.png"  ;隙間から見る（エフェクト専用）
 
-stralias blood_1a,"BMP\background\efe\blood_1a.bmp"  ;流血１
-stralias blood_1aR,"BMP\background\efe\blood_1aR.bmp";流血１のリバース
-stralias blood_1b,"BMP\background\efe\blood_1b.bmp"  ;流血２
+stralias blood_1a,":b;BMP\background\efe\blood_1a.png"  ;流血１
+stralias blood_1aR,":b;BMP\background\efe\blood_1aR.png";流血１のリバース
+stralias blood_1b,":b;BMP\background\efe\blood_1b.png"  ;流血２
 
-stralias blood_2a,"BMP\background\efe\blood_2a.bmp"  ;血ぼた　少ない
-stralias blood_2b,"BMP\background\efe\blood_2b.bmp"  ;血ぼた
-stralias blood_2c,"BMP\background\efe\blood_2c.bmp"  ;血ぼた
-stralias blood_2d,"BMP\background\efe\blood_2d.bmp"  ;血ぼた
-stralias blood_2e,"BMP\background\efe\blood_2e.bmp"  ;血ぼた　多い
+stralias blood_2a,":b;BMP\background\efe\blood_2a.png"  ;血ぼた　少ない
+stralias blood_2b,":b;BMP\background\efe\blood_2b.png"  ;血ぼた
+stralias blood_2c,":b;BMP\background\efe\blood_2c.png"  ;血ぼた
+stralias blood_2d,":b;BMP\background\efe\blood_2d.png"  ;血ぼた
+stralias blood_2e,":b;BMP\background\efe\blood_2e.png"  ;血ぼた　多い
 
-stralias bullet_1a,"BMP\background\efe\bullet_1a.bmp" 
-stralias bullet_1b,"BMP\background\efe\bullet_1b.bmp" 
-stralias bullet_1c,"BMP\background\efe\bullet_1c.bmp" 
-stralias bullet_1d,"BMP\background\efe\bullet_1d.bmp" 
-stralias bullet_1e,"BMP\background\efe\bullet_1e.bmp" 
+stralias bullet_1a,":b;BMP\background\efe\bullet_1a.png" 
+stralias bullet_1b,":b;BMP\background\efe\bullet_1b.png" 
+stralias bullet_1c,":b;BMP\background\efe\bullet_1c.png" 
+stralias bullet_1d,":b;BMP\background\efe\bullet_1d.png" 
+stralias bullet_1e,":b;BMP\background\efe\bullet_1e.png" 
 
-stralias cut_1a,"BMP\background\efe\cut_1a.bmp"      ;剣戟　左
-stralias cut_1b,"BMP\background\efe\cut_1b.bmp"      ;剣戟　左
-stralias cut_1c,"BMP\background\efe\cut_1c.bmp"      ;剣戟　左 複合
+stralias cut_1a,":b;BMP\background\efe\cut_1a.png"      ;剣戟　左
+stralias cut_1b,":b;BMP\background\efe\cut_1b.png"      ;剣戟　左
+stralias cut_1c,":b;BMP\background\efe\cut_1c.png"      ;剣戟　左 複合
 
-stralias cut_2a,"BMP\background\efe\cut_2a.bmp"      ;剣戟　右
-stralias cut_2b,"BMP\background\efe\cut_2b.bmp"      ;剣戟　右
+stralias cut_2a,":b;BMP\background\efe\cut_2a.png"      ;剣戟　右
+stralias cut_2b,":b;BMP\background\efe\cut_2b.png"      ;剣戟　右
 
-stralias cut_3a,"BMP\background\efe\cut_3a.bmp"      ;剣戟　左三連斬１
-stralias cut_3b,"BMP\background\efe\cut_3b.bmp"      ;剣戟　左三連斬２
-stralias cut_3c,"BMP\background\efe\cut_3c.bmp"      ;剣戟　左三連斬３
+stralias cut_3a,":b;BMP\background\efe\cut_3a.png"      ;剣戟　左三連斬１
+stralias cut_3b,":b;BMP\background\efe\cut_3b.png"      ;剣戟　左三連斬２
+stralias cut_3c,":b;BMP\background\efe\cut_3c.png"      ;剣戟　左三連斬３
 
-stralias nails1,"BMP\background\efe\nails1.bmp"      ;
+stralias nails1,":b;BMP\background\efe\nails1.png"      ;
 
 ;竜騎士版剣戟
-stralias BLADE1R,"BMP\background\efe\BLADE1R.bmp"  ;剣戟　赤１
-stralias BLADE2R,"BMP\background\efe\BLADE2R.bmp"  ;剣戟　赤２
-stralias BLADE3R,"BMP\background\efe\BLADE3R.bmp"  ;剣戟　赤３
-stralias BLADE4R,"BMP\background\efe\BLADE4R.bmp"  ;剣戟　赤４
-stralias BLADE5R,"BMP\background\efe\BLADE5R.bmp"  ;剣戟　赤５
-stralias BLADE6_1R,"BMP\background\efe\BLADE6_1R.bmp";剣戟　赤６−１：振り上げ
-stralias BLADE6_2R,"BMP\background\efe\BLADE6_2R.bmp";剣戟　赤６−２：大斬り！
-stralias BLADE7_1R,"BMP\background\efe\BLADE7_1R.bmp";剣戟　赤７−１：振り上げ
-stralias BLADE7_2R,"BMP\background\efe\BLADE7_2R.bmp";剣戟　赤７−２：大斬り！
-stralias BLADE8_1R,"BMP\background\efe\BLADE8_1R.bmp";剣戟　赤８−１：太刀右下
+stralias BLADE1R,":b;BMP\background\efe\BLADE1R.png"  ;剣戟　赤１
+stralias BLADE2R,":b;BMP\background\efe\BLADE2R.png"  ;剣戟　赤２
+stralias BLADE3R,":b;BMP\background\efe\BLADE3R.png"  ;剣戟　赤３
+stralias BLADE4R,":b;BMP\background\efe\BLADE4R.png"  ;剣戟　赤４
+stralias BLADE5R,":b;BMP\background\efe\BLADE5R.png"  ;剣戟　赤５
+stralias BLADE6_1R,":b;BMP\background\efe\BLADE6_1R.png";剣戟　赤６−１：振り上げ
+stralias BLADE6_2R,":b;BMP\background\efe\BLADE6_2R.png";剣戟　赤６−２：大斬り！
+stralias BLADE7_1R,":b;BMP\background\efe\BLADE7_1R.png";剣戟　赤７−１：振り上げ
+stralias BLADE7_2R,":b;BMP\background\efe\BLADE7_2R.png";剣戟　赤７−２：大斬り！
+stralias BLADE8_1R,":b;BMP\background\efe\BLADE8_1R.png";剣戟　赤８−１：太刀右下
 stralias BLADE8_2R,":b;BMP\background\efe\BLADE8_2R.png";剣戟　赤８−２：太刀右上
-stralias BLADE8_3R,"BMP\background\efe\BLADE8_3R.bmp";剣戟　赤８−３：太刀左下
-stralias BLADE8_4R,"BMP\background\efe\BLADE8_4R.bmp";剣戟　赤８−４：太刀左上
-stralias BLADE9R,"BMP\background\efe\BLADE9R.bmp"  ;剣戟　赤１
+stralias BLADE8_3R,":b;BMP\background\efe\BLADE8_3R.png";剣戟　赤８−３：太刀左下
+stralias BLADE8_4R,":b;BMP\background\efe\BLADE8_4R.png";剣戟　赤８−４：太刀左上
+stralias BLADE9R,":b;BMP\background\efe\BLADE9R.png"  ;剣戟　赤１
 
-stralias BLADE1P,"BMP\background\efe\BLADE1P.bmp"  ;剣戟　紫１
-stralias BLADE2P,"BMP\background\efe\BLADE2P.bmp"  ;剣戟　紫２
-stralias BLADE3P,"BMP\background\efe\BLADE3P.bmp"  ;剣戟　紫３
-stralias BLADE4P,"BMP\background\efe\BLADE4P.bmp"  ;剣戟　紫４
-stralias BLADE5P,"BMP\background\efe\BLADE5P.bmp"  ;剣戟　紫５
-stralias BLADE6_1P,"BMP\background\efe\BLADE6_1P.bmp";剣戟　紫６−１：振り上げ
-stralias BLADE6_2P,"BMP\background\efe\BLADE6_2P.bmp";剣戟　紫６−２：大斬り！
+stralias BLADE1P,":b;BMP\background\efe\BLADE1P.png"  ;剣戟　紫１
+stralias BLADE2P,":b;BMP\background\efe\BLADE2P.png"  ;剣戟　紫２
+stralias BLADE3P,":b;BMP\background\efe\BLADE3P.png"  ;剣戟　紫３
+stralias BLADE4P,":b;BMP\background\efe\BLADE4P.png"  ;剣戟　紫４
+stralias BLADE5P,":b;BMP\background\efe\BLADE5P.png"  ;剣戟　紫５
+stralias BLADE6_1P,":b;BMP\background\efe\BLADE6_1P.png";剣戟　紫６−１：振り上げ
+stralias BLADE6_2P,":b;BMP\background\efe\BLADE6_2P.png";剣戟　紫６−２：大斬り！
 
-stralias BLADE1B,"BMP\background\efe\BLADE1B.bmp"  ;剣戟　青１
-stralias BLADE2B,"BMP\background\efe\BLADE2B.bmp"  ;剣戟　青２
-stralias BLADE3B,"BMP\background\efe\BLADE3B.bmp"  ;剣戟　青３
-stralias BLADE4B,"BMP\background\efe\BLADE4B.bmp"  ;剣戟　青４
+stralias BLADE1B,":b;BMP\background\efe\BLADE1B.png"  ;剣戟　青１
+stralias BLADE2B,":b;BMP\background\efe\BLADE2B.png"  ;剣戟　青２
+stralias BLADE3B,":b;BMP\background\efe\BLADE3B.png"  ;剣戟　青３
+stralias BLADE4B,":b;BMP\background\efe\BLADE4B.png"  ;剣戟　青４
 stralias BLADE5B,":b;BMP\background\efe\BLADE5B.png"  ;剣戟　青５
-stralias BLADE6_1B,"BMP\background\efe\BLADE6_1B.bmp";剣戟　青６−１：振り上げ
+stralias BLADE6_1B,":b;BMP\background\efe\BLADE6_1B.png";剣戟　青６−１：振り上げ
 stralias BLADE6_2B,":b;BMP\background\efe\BLADE6_2B.png";剣戟　青６−２：大斬り！
-stralias BLADE7_1B,"BMP\background\efe\BLADE7_1B.bmp";剣戟　青７−１：振り上げ
-stralias BLADE7_2B,"BMP\background\efe\BLADE7_2B.bmp";剣戟　青７−２：大斬り！
-stralias BLADE8_1B,"BMP\background\efe\BLADE8_1B.bmp";剣戟　青８−１：太刀右下
+stralias BLADE7_1B,":b;BMP\background\efe\BLADE7_1B.png";剣戟　青７−１：振り上げ
+stralias BLADE7_2B,":b;BMP\background\efe\BLADE7_2B.png";剣戟　青７−２：大斬り！
+stralias BLADE8_1B,":b;BMP\background\efe\BLADE8_1B.png";剣戟　青８−１：太刀右下
 stralias BLADE8_2B,":b;BMP\background\efe\BLADE8_2B.png";剣戟　青８−２：太刀右上
-;stralias BLADE8_3B,"BMP\background\efe\BLADE8_3B.bmp";剣戟　青８−３：太刀左下
-;stralias BLADE8_4B,"BMP\background\efe\BLADE8_4B.bmp";剣戟　青８−４：太刀左上
+;stralias BLADE8_3B,":b;BMP\background\efe\BLADE8_3B.png";剣戟　青８−３：太刀左下
+;stralias BLADE8_4B,":b;BMP\background\efe\BLADE8_4B.png";剣戟　青８−４：太刀左上
 
-stralias BLADE7_1G,"BMP\background\efe\BLADE7_1G.bmp";剣戟　黄金７−１：振り上げ
-stralias BLADE7_2G,"BMP\background\efe\BLADE7_2G.bmp";剣戟　黄金７−２：大斬り！
-stralias BLADE8_1G,"BMP\background\efe\BLADE8_1G.bmp";剣戟　黄金８−１：太刀右下
+stralias BLADE7_1G,":b;BMP\background\efe\BLADE7_1G.png";剣戟　黄金７−１：振り上げ
+stralias BLADE7_2G,":b;BMP\background\efe\BLADE7_2G.png";剣戟　黄金７−２：大斬り！
+stralias BLADE8_1G,":b;BMP\background\efe\BLADE8_1G.png";剣戟　黄金８−１：太刀右下
 
 stralias barrier1,":bc;bmp\background\efe\barrier1.png"  ;バリア
-stralias barrier1b,"BMP\background\efe\barrier1b.bmp"  ;青バリア
+stralias barrier1b,":b;BMP\background\efe\barrier1b.png"  ;青バリア
 
-stralias barrier,":a;BMP\background\efe\barrier.bmp"  ;バリア
-stralias barrier1p,":a;BMP\background\efe\barrier1p.bmp"  ;紫バリア
-stralias barrierbrake1,":a;BMP\background\efe\barrierbrake1.bmp"  ;バリアの波紋
-stralias barrierbrake2,":a;BMP\background\efe\barrierbrake2.bmp"  ;バリアの波紋
-
-
-stralias chain1aS,"BMP\background\efe\chain1aS.bmp"  ;魔法の鎖　直線
-
-stralias chain2aS,"BMP\background\efe\chain2aS.bmp"  ;魔法の鎖　蛇行
-stralias chain2bS,"BMP\background\efe\chain2bS.bmp"  ;
-stralias chain2cS,"BMP\background\efe\chain2cS.bmp"  ;
-stralias chain2dS,"BMP\background\efe\chain2dS.bmp"  ;
-stralias chain2eS,"BMP\background\efe\chain2eS.bmp"  ;
-
-stralias chain3aS,"BMP\background\efe\chain3aS.bmp"  ;魔法の鎖　曲線
+stralias barrier,":ba;BMP\background\efe\barrier.png"  ;バリア
+stralias barrier1p,":ba;BMP\background\efe\barrier1p.png"  ;紫バリア
+stralias barrierbrake1,":ba;BMP\background\efe\barrierbrake1.png"  ;バリアの波紋
+stralias barrierbrake2,":ba;BMP\background\efe\barrierbrake2.png"  ;バリアの波紋
 
 
-stralias homing1,"BMP\background\efe\homing1.bmp"  ;黄金誘導弾：多層
-stralias homing2,"BMP\background\efe\homing2.bmp"  ;
-stralias homing3,"BMP\background\efe\homing3.bmp"  ;
-stralias homing4,"BMP\background\efe\homing4.bmp"  ;
-stralias homing5,"BMP\background\efe\homing5.bmp"  ;
-stralias homing6,"BMP\background\efe\homing6.bmp"  ;
-stralias homing7,"BMP\background\efe\homing7.bmp"  ;
+stralias chain1aS,":b;BMP\background\efe\chain1aS.png"  ;魔法の鎖　直線
 
-stralias homing1R,"BMP\background\efe\homing1R.bmp"  ;黄金誘導弾：多層：反転
-stralias homing2R,"BMP\background\efe\homing2R.bmp"  ;
-stralias homing3R,"BMP\background\efe\homing3R.bmp"  ;
-stralias homing4R,"BMP\background\efe\homing4R.bmp"  ;
-stralias homing5R,"BMP\background\efe\homing5R.bmp"  ;
-stralias homing6R,"BMP\background\efe\homing6R.bmp"  ;
-stralias homing7R,"BMP\background\efe\homing7R.bmp"  ;
+stralias chain2aS,":b;BMP\background\efe\chain2aS.png"  ;魔法の鎖　蛇行
+stralias chain2bS,":b;BMP\background\efe\chain2bS.png"  ;
+stralias chain2cS,":b;BMP\background\efe\chain2cS.png"  ;
+stralias chain2dS,":b;BMP\background\efe\chain2dS.png"  ;
+stralias chain2eS,":b;BMP\background\efe\chain2eS.png"  ;
 
-stralias homing1S,"BMP\background\efe\homing1S.bmp"  ;黄金誘導弾：単線
-stralias homing2S,"BMP\background\efe\homing2S.bmp"  ;
-stralias homing3S,"BMP\background\efe\homing3S.bmp"  ;
-stralias homing4S,"BMP\background\efe\homing4S.bmp"  ;
-stralias homing5S,"BMP\background\efe\homing5S.bmp"  ;
-stralias homing6S,"BMP\background\efe\homing6S.bmp"  ;
-stralias homing7S,"BMP\background\efe\homing7S.bmp"  ;
-
-stralias homing1SR,"BMP\background\efe\homing1SR.bmp"  ;黄金誘導弾：単線：反転
-stralias homing2SR,"BMP\background\efe\homing2SR.bmp"  ;
-stralias homing3SR,"BMP\background\efe\homing3SR.bmp"  ;
-stralias homing4SR,"BMP\background\efe\homing4SR.bmp"  ;
-stralias homing5SR,"BMP\background\efe\homing5SR.bmp"  ;
-stralias homing6SR,"BMP\background\efe\homing6SR.bmp"  ;
-stralias homing7SR,"BMP\background\efe\homing7SR.bmp"  ;
-
-stralias homing1B,"BMP\background\efe\homing1B.bmp"  ;黄金誘導弾：多層
-stralias homing2B,"BMP\background\efe\homing2B.bmp"  ;
-stralias homing3B,"BMP\background\efe\homing3B.bmp"  ;
-stralias homing4B,"BMP\background\efe\homing4B.bmp"  ;
-stralias homing5B,"BMP\background\efe\homing5B.bmp"  ;
-stralias homing6B,"BMP\background\efe\homing6B.bmp"  ;
-stralias homing7B,"BMP\background\efe\homing7B.bmp"  ;
+stralias chain3aS,":b;BMP\background\efe\chain3aS.png"  ;魔法の鎖　曲線
 
 
-stralias homing6BS,"BMP\background\efe\homing6BS.bmp"  ;青の誘導弾：単線
-stralias homing7BS,"BMP\background\efe\homing7BS.bmp"  ;
-stralias homing6BSR,"BMP\background\efe\homing6BSR.bmp"  ;青の誘導弾：単線：反転
-stralias homing7BSR,"BMP\background\efe\homing7BSR.bmp"  ;
+stralias homing1,":b;BMP\background\efe\homing1.png"  ;黄金誘導弾：多層
+stralias homing2,":b;BMP\background\efe\homing2.png"  ;
+stralias homing3,":b;BMP\background\efe\homing3.png"  ;
+stralias homing4,":b;BMP\background\efe\homing4.png"  ;
+stralias homing5,":b;BMP\background\efe\homing5.png"  ;
+stralias homing6,":b;BMP\background\efe\homing6.png"  ;
+stralias homing7,":b;BMP\background\efe\homing7.png"  ;
 
-stralias homing7RS,"BMP\background\efe\homing7RS.bmp"  ;
-stralias homing7RSR,"BMP\background\efe\homing7RSR.bmp"  ;
+stralias homing1R,":b;BMP\background\efe\homing1R.png"  ;黄金誘導弾：多層：反転
+stralias homing2R,":b;BMP\background\efe\homing2R.png"  ;
+stralias homing3R,":b;BMP\background\efe\homing3R.png"  ;
+stralias homing4R,":b;BMP\background\efe\homing4R.png"  ;
+stralias homing5R,":b;BMP\background\efe\homing5R.png"  ;
+stralias homing6R,":b;BMP\background\efe\homing6R.png"  ;
+stralias homing7R,":b;BMP\background\efe\homing7R.png"  ;
 
-stralias system1,"BMP\background\efe\system1.bmp"  ;射撃誘導システム起動
-stralias system2,"BMP\background\efe\system2.bmp"  ;データ収集開始…
-stralias system3,"BMP\background\efe\system3.bmp"  ;射撃曲線形成中…
-stralias system4,"BMP\background\efe\system4.bmp"  ;射撃準備完了
-stralias system5,"BMP\background\efe\system5.bmp"  ;命中率97.89％
+stralias homing1S,":b;BMP\background\efe\homing1S.png"  ;黄金誘導弾：単線
+stralias homing2S,":b;BMP\background\efe\homing2S.png"  ;
+stralias homing3S,":b;BMP\background\efe\homing3S.png"  ;
+stralias homing4S,":b;BMP\background\efe\homing4S.png"  ;
+stralias homing5S,":b;BMP\background\efe\homing5S.png"  ;
+stralias homing6S,":b;BMP\background\efe\homing6S.png"  ;
+stralias homing7S,":b;BMP\background\efe\homing7S.png"  ;
 
-stralias shotgun1B,":a;BMP\background\efe\shotgun1B.bmp"   ;青き散弾右上（注意：スプライト）
-stralias shotgun2B,":a;BMP\background\efe\shotgun2B.bmp"   ;青き散弾右下（注意：スプライト）
-stralias shotgun3B,":a;BMP\background\efe\shotgun3B.bmp"   ;青き散弾左上（注意：スプライト）
-stralias shotgun4B,":a;BMP\background\efe\shotgun4B.bmp"   ;青き散弾左上（注意：スプライト）
+stralias homing1SR,":b;BMP\background\efe\homing1SR.png"  ;黄金誘導弾：単線：反転
+stralias homing2SR,":b;BMP\background\efe\homing2SR.png"  ;
+stralias homing3SR,":b;BMP\background\efe\homing3SR.png"  ;
+stralias homing4SR,":b;BMP\background\efe\homing4SR.png"  ;
+stralias homing5SR,":b;BMP\background\efe\homing5SR.png"  ;
+stralias homing6SR,":b;BMP\background\efe\homing6SR.png"  ;
+stralias homing7SR,":b;BMP\background\efe\homing7SR.png"  ;
+
+stralias homing1B,":b;BMP\background\efe\homing1B.png"  ;黄金誘導弾：多層
+stralias homing2B,":b;BMP\background\efe\homing2B.png"  ;
+stralias homing3B,":b;BMP\background\efe\homing3B.png"  ;
+stralias homing4B,":b;BMP\background\efe\homing4B.png"  ;
+stralias homing5B,":b;BMP\background\efe\homing5B.png"  ;
+stralias homing6B,":b;BMP\background\efe\homing6B.png"  ;
+stralias homing7B,":b;BMP\background\efe\homing7B.png"  ;
+
+
+stralias homing6BS,":b;BMP\background\efe\homing6BS.png"  ;青の誘導弾：単線
+stralias homing7BS,":b;BMP\background\efe\homing7BS.png"  ;
+stralias homing6BSR,":b;BMP\background\efe\homing6BSR.png"  ;青の誘導弾：単線：反転
+stralias homing7BSR,":b;BMP\background\efe\homing7BSR.png"  ;
+
+stralias homing7RS,":b;BMP\background\efe\homing7RS.png"  ;
+stralias homing7RSR,":b;BMP\background\efe\homing7RSR.png"  ;
+
+stralias system1,":b;BMP\background\efe\system1.png"  ;射撃誘導システム起動
+stralias system2,":b;BMP\background\efe\system2.png"  ;データ収集開始…
+stralias system3,":b;BMP\background\efe\system3.png"  ;射撃曲線形成中…
+stralias system4,":b;BMP\background\efe\system4.png"  ;射撃準備完了
+stralias system5,":b;BMP\background\efe\system5.png"  ;命中率97.89％
+
+stralias shotgun1B,":ba;BMP\background\efe\shotgun1B.png"   ;青き散弾右上（注意：スプライト）
+stralias shotgun2B,":ba;BMP\background\efe\shotgun2B.png"   ;青き散弾右下（注意：スプライト）
+stralias shotgun3B,":ba;BMP\background\efe\shotgun3B.png"   ;青き散弾左上（注意：スプライト）
+stralias shotgun4B,":ba;BMP\background\efe\shotgun4B.png"   ;青き散弾左上（注意：スプライト）
 
 
 
 stralias barrierbrake1p1,":ba;BMP\background\efe\barrierbrake1p1.png"  ;紫バリアの剣戟の波紋
-stralias barrierbrake1p2,":a;BMP\background\efe\barrierbrake1p2.bmp"  ;紫バリアの剣戟の波紋
-stralias barrierbrake1p3,":a;BMP\background\efe\barrierbrake1p3.bmp"  ;紫バリアの剣戟の波紋
-stralias barrierbrake1p4,":a;BMP\background\efe\barrierbrake1p4.bmp"  ;紫バリアの剣戟の波紋
+stralias barrierbrake1p2,":ba;BMP\background\efe\barrierbrake1p2.png"  ;紫バリアの剣戟の波紋
+stralias barrierbrake1p3,":ba;BMP\background\efe\barrierbrake1p3.png"  ;紫バリアの剣戟の波紋
+stralias barrierbrake1p4,":ba;BMP\background\efe\barrierbrake1p4.png"  ;紫バリアの剣戟の波紋
 ;５は欠番
 
-stralias barrierbrake1p6,":a;BMP\background\efe\barrierbrake1p6.bmp"  ;紫バリアの剣戟の波紋
+stralias barrierbrake1p6,":ba;BMP\background\efe\barrierbrake1p6.png"  ;紫バリアの剣戟の波紋
 
-stralias barrierbrake2p1,":a;BMP\background\efe\barrierbrake2p1.bmp"  ;紫バリアの波紋
-stralias barrierbrake2p2,":a;BMP\background\efe\barrierbrake2p2.bmp"  ;紫バリアの波紋
-stralias barrierbrake2p3,":a;BMP\background\efe\barrierbrake2p3.bmp"  ;紫バリアの波紋
-stralias barrierbrake2p4,":a;BMP\background\efe\barrierbrake2p4.bmp"  ;紫バリアの波紋
-stralias barrierbrake2p5,":a;BMP\background\efe\barrierbrake2p5.bmp"  ;紫バリアの波紋
+stralias barrierbrake2p1,":ba;BMP\background\efe\barrierbrake2p1.png"  ;紫バリアの波紋
+stralias barrierbrake2p2,":ba;BMP\background\efe\barrierbrake2p2.png"  ;紫バリアの波紋
+stralias barrierbrake2p3,":ba;BMP\background\efe\barrierbrake2p3.png"  ;紫バリアの波紋
+stralias barrierbrake2p4,":ba;BMP\background\efe\barrierbrake2p4.png"  ;紫バリアの波紋
+stralias barrierbrake2p5,":ba;BMP\background\efe\barrierbrake2p5.png"  ;紫バリアの波紋
 
-stralias tower1,":c;BMP\background\efe\tower1.bmp";魔法の戦塔　縦長　夜　スプライト専用
+stralias tower1,":bc;BMP\background\efe\tower1.png";魔法の戦塔　縦長　夜　スプライト専用
 
-stralias tower2,":a;BMP\background\efe\tower2.bmp"    ;双子の戦塔
-stralias tower2R,":a;BMP\background\efe\tower2R.bmp"  ;双子の戦塔（赤窓）
-stralias tower3,":a;BMP\background\efe\tower3.bmp"    ;墜落する戦塔
-stralias tower4,":a;BMP\background\efe\tower4.bmp"    ;一本の戦塔
+stralias tower2,":ba;BMP\background\efe\tower2.png"    ;双子の戦塔
+stralias tower2R,":ba;BMP\background\efe\tower2R.png"  ;双子の戦塔（赤窓）
+stralias tower3,":ba;BMP\background\efe\tower3.png"    ;墜落する戦塔
+stralias tower4,":ba;BMP\background\efe\tower4.png"    ;一本の戦塔
 
 stralias bullet1a,":b;BMP\background\efe\bullet1a.png"  ;弾幕　薄（赤）
 stralias bullet1b,":b;BMP\background\efe\bullet1b.png"  ;弾幕　中（赤）
-;stralias bullet1c,":a;BMP\background\efe\bullet1c.bmp"  ;弾幕　厚
+;stralias bullet1c,":ba;BMP\background\efe\bullet1c.png"  ;弾幕　厚
 
-stralias bullet2a,":c;BMP\background\efe\bullet2a.bmp"  ;弾幕　薄（青）
-stralias bullet2b,":c;BMP\background\efe\bullet2b.bmp"  ;弾幕　中（青）
+stralias bullet2a,":bc;BMP\background\efe\bullet2a.png"  ;弾幕　薄（青）
+stralias bullet2b,":bc;BMP\background\efe\bullet2b.png"  ;弾幕　中（青）
 
 
 
-stralias javelin1,":a;BMP\background\efe\javelin1.bmp"    ;グングニル
-stralias javelin1a,":a;BMP\background\efe\javelin1a.bmp"  ;槍
-stralias javelin1b,":a;BMP\background\efe\javelin1b.bmp"  ;槍
-stralias javelin1c,":a;BMP\background\efe\javelin1c.bmp"  ;槍
-stralias javelin1d,":a;BMP\background\efe\javelin1d.bmp"  ;槍
+stralias javelin1,":ba;BMP\background\efe\javelin1.png"    ;グングニル
+stralias javelin1a,":ba;BMP\background\efe\javelin1a.png"  ;槍
+stralias javelin1b,":ba;BMP\background\efe\javelin1b.png"  ;槍
+stralias javelin1c,":ba;BMP\background\efe\javelin1c.png"  ;槍
+stralias javelin1d,":ba;BMP\background\efe\javelin1d.png"  ;槍
 
-stralias javelin1Ba,":c;BMP\background\efe\javelin1Ba.bmp"  ;槍 青
-stralias javelin1Bb,":c;BMP\background\efe\javelin1Bb.bmp"  ;槍
-stralias javelin1Bc,":c;BMP\background\efe\javelin1Bc.bmp"  ;槍
-stralias javelin1Bd,":c;BMP\background\efe\javelin1Bd.bmp"  ;槍
+stralias javelin1Ba,":bc;BMP\background\efe\javelin1Ba.png"  ;槍 青
+stralias javelin1Bb,":bc;BMP\background\efe\javelin1Bb.png"  ;槍
+stralias javelin1Bc,":bc;BMP\background\efe\javelin1Bc.png"  ;槍
+stralias javelin1Bd,":bc;BMP\background\efe\javelin1Bd.png"  ;槍
 
-stralias sword_1aR,"BMP\background\efe\sword_1aR.bmp"  ;赤い剣
-stralias sword_1aG,"BMP\background\efe\sword_1aG.bmp"  ;黄金の剣
+stralias sword_1aR,":b;BMP\background\efe\sword_1aR.png"  ;赤い剣
+stralias sword_1aG,":b;BMP\background\efe\sword_1aG.png"  ;黄金の剣
 
-stralias Armor1a,":a;BMP\background\efe\Armor1a.bmp"  ;魔法甲冑
-stralias Armor1b,":a;BMP\background\efe\Armor1b.bmp"  ;
-stralias Armor1c,":a;BMP\background\efe\Armor1c.bmp"  ;電源ＯＮ
-stralias Armor1d,":a;BMP\background\efe\Armor1d.bmp"  ;魔法付与中
+stralias Armor1a,":ba;BMP\background\efe\Armor1a.png"  ;魔法甲冑
+stralias Armor1b,":ba;BMP\background\efe\Armor1b.png"  ;
+stralias Armor1c,":ba;BMP\background\efe\Armor1c.png"  ;電源ＯＮ
+stralias Armor1d,":ba;BMP\background\efe\Armor1d.png"  ;魔法付与中
 
-stralias Armor0,":a;BMP\background\efe\Armor0.bmp"  ;巨人兵のいない背景
-stralias Armor1,":a;BMP\background\efe\Armor1.bmp"  ;巨人兵１人（中央）
-stralias Armor2,":a;BMP\background\efe\Armor2.bmp"  ;巨人兵２人
-stralias Armor3,":a;BMP\background\efe\Armor3.bmp"  ;巨人兵３人
-stralias Armor4,":a;BMP\background\efe\Armor4.bmp"  ;巨人兵４人
-stralias Armor5,":a;BMP\background\efe\Armor5.bmp"  ;巨人兵５人
-stralias Armor6,":a;BMP\background\efe\Armor6.bmp"  ;巨人兵６人
-stralias Armor7,":a;BMP\background\efe\Armor7.bmp"  ;巨人兵７人（戦列）
-stralias Armor7b,":a;BMP\background\efe\Armor7b.bmp";巨人兵７人（黄金の輝き）
+stralias Armor0,":ba;BMP\background\efe\Armor0.png"  ;巨人兵のいない背景
+stralias Armor1,":ba;BMP\background\efe\Armor1.png"  ;巨人兵１人（中央）
+stralias Armor2,":ba;BMP\background\efe\Armor2.png"  ;巨人兵２人
+stralias Armor3,":ba;BMP\background\efe\Armor3.png"  ;巨人兵３人
+stralias Armor4,":ba;BMP\background\efe\Armor4.png"  ;巨人兵４人
+stralias Armor5,":ba;BMP\background\efe\Armor5.png"  ;巨人兵５人
+stralias Armor6,":ba;BMP\background\efe\Armor6.png"  ;巨人兵６人
+stralias Armor7,":ba;BMP\background\efe\Armor7.png"  ;巨人兵７人（戦列）
+stralias Armor7b,":ba;BMP\background\efe\Armor7b.png";巨人兵７人（黄金の輝き）
 
-stralias stake1a,":c;BMP\background\efe\stake1a.bmp"  ;蒼き杭
-stralias stake1b,":c;BMP\background\efe\stake1b.bmp"  ;
-stralias stake1c,":c;BMP\background\efe\stake1c.bmp"  ;
-stralias stake1d,":c;BMP\background\efe\stake1d.bmp"  ;
+stralias stake1a,":bc;BMP\background\efe\stake1a.png"  ;蒼き杭
+stralias stake1b,":bc;BMP\background\efe\stake1b.png"  ;
+stralias stake1c,":bc;BMP\background\efe\stake1c.png"  ;
+stralias stake1d,":bc;BMP\background\efe\stake1d.png"  ;
 
-;stralias tower1a,":c;BMP\background\garden\tower1a.bmp";魔法の戦塔　縦長　夜　スプライト専用
-;stralias tower1b,":c;BMP\background\garden\tower1b.bmp";魔法の戦塔　縦長　夜　スプライト専用　銃座
+;stralias tower1a,":bc;BMP\background\garden\tower1a.png";魔法の戦塔　縦長　夜　スプライト専用
+;stralias tower1b,":bc;BMP\background\garden\tower1b.png";魔法の戦塔　縦長　夜　スプライト専用　銃座
 
-stralias white1,":a;BMP\background\efe\white1.bmp"  ;真っ白画面
-stralias white_Waku,":a;BMP\background\efe\white_Waku.bmp"  ;白枠
+stralias white1,":ba;BMP\background\efe\white1.png"  ;真っ白画面
+stralias white_Waku,":ba;BMP\background\efe\white_Waku.png"  ;白枠
 
 ;状況説明の図面
-stralias MAP01,"BMP\background\efe\MAP01.bmp"  ;シャッター小屋の鍵
-stralias MAP02,"BMP\background\efe\MAP02.bmp"  ;書斎のレシート
-stralias MAP03,"BMP\background\efe\MAP03.bmp"  ;書斎のレシート（戦人案）
-stralias MAP04,"BMP\background\efe\MAP04.bmp"  ;チェーンの客間
+stralias MAP01,":b;BMP\background\efe\MAP01.png"  ;シャッター小屋の鍵
+stralias MAP02,":b;BMP\background\efe\MAP02.png"  ;書斎のレシート
+stralias MAP03,":b;BMP\background\efe\MAP03.png"  ;書斎のレシート（戦人案）
+stralias MAP04,":b;BMP\background\efe\MAP04.png"  ;チェーンの客間
 ;ＥＰ２
-stralias MAP05,"BMP\background\efe\MAP05.bmp"  ;礼拝堂の鍵の謎
-stralias MAP06,"BMP\background\efe\MAP06.bmp"  ;礼拝堂の鍵の謎：戦人解答
-stralias MAP07,"BMP\background\efe\MAP07.bmp"  ;朱志香の鍵の謎
-stralias MAP08,"BMP\background\efe\MAP08.bmp"  ;朱志香の鍵の謎：戦人解答
-stralias MAP09,"BMP\background\efe\MAP09.bmp"  ;狼と羊のパズル
+stralias MAP05,":b;BMP\background\efe\MAP05.png"  ;礼拝堂の鍵の謎
+stralias MAP06,":b;BMP\background\efe\MAP06.png"  ;礼拝堂の鍵の謎：戦人解答
+stralias MAP07,":b;BMP\background\efe\MAP07.png"  ;朱志香の鍵の謎
+stralias MAP08,":b;BMP\background\efe\MAP08.png"  ;朱志香の鍵の謎：戦人解答
+stralias MAP09,":b;BMP\background\efe\MAP09.png"  ;狼と羊のパズル
 
-stralias MAP10,"BMP\background\efe\MAP10.bmp"    ;５つの連鎖密室
-stralias MAP10b,"BMP\background\efe\MAP10b.bmp"  ;５つの連鎖密室（黄色い矢印）
-stralias MAP10c,"BMP\background\efe\MAP10c.bmp"  ;５つの連鎖密室（それをバツ）
+stralias MAP10,":b;BMP\background\efe\MAP10.png"    ;５つの連鎖密室
+stralias MAP10b,":b;BMP\background\efe\MAP10b.png"  ;５つの連鎖密室（黄色い矢印）
+stralias MAP10c,":b;BMP\background\efe\MAP10c.png"  ;５つの連鎖密室（それをバツ）
 
-stralias MAP11,"BMP\background\efe\MAP11.bmp"  ;ＥＰ５客間
+stralias MAP11,":b;BMP\background\efe\MAP11.png"  ;ＥＰ５客間
 
-stralias MAP12,"BMP\background\efe\MAP12.bmp"  ;ＥＰ６　八等分の図
-stralias MAP12b,"BMP\background\efe\MAP12b.bmp"  ;ＥＰ６　八等分の図
-stralias MAP12c,"BMP\background\efe\MAP12c.bmp"  ;ＥＰ６　八等分の図
+stralias MAP12,":b;BMP\background\efe\MAP12.png"  ;ＥＰ６　八等分の図
+stralias MAP12b,":b;BMP\background\efe\MAP12b.png"  ;ＥＰ６　八等分の図
+stralias MAP12c,":b;BMP\background\efe\MAP12c.png"  ;ＥＰ６　八等分の図
 
-stralias MAP13,"BMP\background\efe\MAP13.bmp"  ;ＥＰ６　カップとコイン
-stralias MAP13b,"BMP\background\efe\MAP13b.bmp"  ;ＥＰ６　カップとコイン
-stralias MAP13c,"BMP\background\efe\MAP13c.bmp"  ;ＥＰ６　カップとコイン
+stralias MAP13,":b;BMP\background\efe\MAP13.png"  ;ＥＰ６　カップとコイン
+stralias MAP13b,":b;BMP\background\efe\MAP13b.png"  ;ＥＰ６　カップとコイン
+stralias MAP13c,":b;BMP\background\efe\MAP13c.png"  ;ＥＰ６　カップとコイン
 
-stralias gold1,"BMP\background\efe\gold1.bmp"  ;黄金のインゴット
-stralias gold2,"BMP\background\efe\gold2.bmp"  ;黄金のインゴットの山：壁
-stralias gold3,"BMP\background\efe\gold3.bmp"  ;黄金のインゴットの山：敷き詰め
+stralias gold1,":b;BMP\background\efe\gold1.png"  ;黄金のインゴット
+stralias gold2,":b;BMP\background\efe\gold2.png"  ;黄金のインゴットの山：壁
+stralias gold3,":b;BMP\background\efe\gold3.png"  ;黄金のインゴットの山：敷き詰め
 
-stralias key1,"BMP\background\efe\key1.bmp"  ;礼拝堂の鍵
-stralias key2,"BMP\background\efe\key2.bmp"  ;マスターキーの鍵束
+stralias key1,":b;BMP\background\efe\key1.png"  ;礼拝堂の鍵
+stralias key2,":b;BMP\background\efe\key2.png"  ;マスターキーの鍵束
 
-stralias Pumpkin1,"BMP\background\efe\Pumpkin1.bmp"  ;ハロウィン飾り１
-stralias Pumpkin2,"BMP\background\efe\Pumpkin2.bmp"  ;ハロウィン飾り２
+stralias Pumpkin1,":b;BMP\background\efe\Pumpkin1.png"  ;ハロウィン飾り１
+stralias Pumpkin2,":b;BMP\background\efe\Pumpkin2.png"  ;ハロウィン飾り２
 
-stralias bite,"BMP\background\efe\bite.bmp"  ;ガブリ！！
+stralias bite,":b;BMP\background\efe\bite.png"  ;ガブリ！！
 
-stralias note1,"BMP\background\efe\note1.bmp"  ;メッセージボトルのノート片
+stralias note1,":b;BMP\background\efe\note1.png"  ;メッセージボトルのノート片
 
-stralias Book1,"BMP\background\efe\Book1.bmp"  ;マリアの日記帳
-stralias Letter1,"BMP\background\efe\Letter1.bmp"  ;当主の封筒
+stralias Book1,":b;BMP\background\efe\Book1.png"  ;マリアの日記帳
+stralias Letter1,":b;BMP\background\efe\Letter1.png"  ;当主の封筒
 
-stralias number,"BMP\background\efe\number.bmp"  ;謎の数字：07151129
+stralias number,":b;BMP\background\efe\number.png"  ;謎の数字：07151129
 
 
 ;この物語は架空です。
-stralias text001,"BMP\background\efe\text001.bmp"  ;架空の物語のお断り
-stralias text002,"BMP\background\efe\text002.bmp"  ;右クリックでTIPSモードのお知らせ
-stralias text003,"BMP\background\efe\text003.BMP"  ;右クリックでTIPSモードのお知らせ＋左クリックでゲームを開始します。
-stralias text004,"BMP\background\efe\text004.BMP"  ;新要素が追加されました。
-stralias text005,"BMP\background\efe\text005.BMP"  ;新要素が追加されました(裏お茶会バージョン）
-stralias text006,"BMP\background\efe\text006.BMP"  ;エピソードロックの解除、新要素の追加告知
+stralias text001,":b;BMP\background\efe\text001.png"  ;架空の物語のお断り
+stralias text002,":b;BMP\background\efe\text002.png"  ;右クリックでTIPSモードのお知らせ
+stralias text003,":b;BMP\background\efe\text003.BMP"  ;右クリックでTIPSモードのお知らせ＋左クリックでゲームを開始します。
+stralias text004,":b;BMP\background\efe\text004.BMP"  ;新要素が追加されました。
+stralias text005,":b;BMP\background\efe\text005.BMP"  ;新要素が追加されました(裏お茶会バージョン）
+stralias text006,":b;BMP\background\efe\text006.BMP"  ;エピソードロックの解除、新要素の追加告知
 
-stralias text007,"BMP\background\efe\text007.bmp"  ;右クリックで碑文が見れるよ〜
+stralias text007,":b;BMP\background\efe\text007.png"  ;右クリックで碑文が見れるよ〜
 
-stralias text010,"BMP\background\efe\text010.bmp"    ;碑文の全文
-stralias text010a,"BMP\background\efe\text010a.bmp"  ;碑文の全文：三区分１
-stralias text010b,"BMP\background\efe\text010b.bmp"  ;碑文の全文：三区分２
-stralias text010c,"BMP\background\efe\text010c.bmp"  ;碑文の全文：三区分３
-stralias text011,"BMP\background\efe\text011.bmp"    ;碑文三区分１のみ
-stralias text012,"BMP\background\efe\text012.bmp"    ;碑文三区分２のみ
+stralias text010,":b;BMP\background\efe\text010.png"    ;碑文の全文
+stralias text010a,":b;BMP\background\efe\text010a.png"  ;碑文の全文：三区分１
+stralias text010b,":b;BMP\background\efe\text010b.png"  ;碑文の全文：三区分２
+stralias text010c,":b;BMP\background\efe\text010c.png"  ;碑文の全文：三区分３
+stralias text011,":b;BMP\background\efe\text011.png"    ;碑文三区分１のみ
+stralias text012,":b;BMP\background\efe\text012.png"    ;碑文三区分２のみ
 
 
 ;飛行機シーンのキャスト紹介
-stralias OP0101,"BMP\background\efe\OP0101.bmp"  ;第１話ＯＰクレジット1
-stralias OP0102,"BMP\background\efe\OP0102.bmp"  ;第１話ＯＰクレジット2
-stralias OP0103,"BMP\background\efe\OP0103.bmp"  ;第１話ＯＰクレジット3
-stralias OP0104,"BMP\background\efe\OP0104.bmp"  ;第１話ＯＰクレジット4
-stralias OP0105,"BMP\background\efe\OP0105.bmp"  ;第１話ＯＰクレジット5
-stralias OP0106,"BMP\background\efe\OP0106.bmp"  ;第１話ＯＰクレジット6
-stralias OP0107,"BMP\background\efe\OP0107.bmp"  ;第１話ＯＰクレジット7
-stralias OP0108,"BMP\background\efe\OP0108.bmp"  ;第１話ＯＰクレジット8
+stralias OP0101,":b;BMP\background\efe\OP0101.png"  ;第１話ＯＰクレジット1
+stralias OP0102,":b;BMP\background\efe\OP0102.png"  ;第１話ＯＰクレジット2
+stralias OP0103,":b;BMP\background\efe\OP0103.png"  ;第１話ＯＰクレジット3
+stralias OP0104,":b;BMP\background\efe\OP0104.png"  ;第１話ＯＰクレジット4
+stralias OP0105,":b;BMP\background\efe\OP0105.png"  ;第１話ＯＰクレジット5
+stralias OP0106,":b;BMP\background\efe\OP0106.png"  ;第１話ＯＰクレジット6
+stralias OP0107,":b;BMP\background\efe\OP0107.png"  ;第１話ＯＰクレジット7
+stralias OP0108,":b;BMP\background\efe\OP0108.png"  ;第１話ＯＰクレジット8
 
 
 ;沖縄シーン、キャスト紹介
-stralias OP0201,"BMP\background\efe\OP0201.bmp"  ;第２話ＯＰクレジット1
-stralias OP0202,"BMP\background\efe\OP0202.bmp"  ;第２話ＯＰクレジット2
-stralias OP0203,"BMP\background\efe\OP0203.bmp"  ;第２話ＯＰクレジット3
-stralias OP0204,"BMP\background\efe\OP0204.bmp"  ;第２話ＯＰクレジット4
-stralias OP0205,"BMP\background\efe\OP0205.bmp"  ;第２話ＯＰクレジット5
-stralias OP0206,"BMP\background\efe\OP0206.bmp"  ;第２話ＯＰクレジット6
-stralias OP0207,"BMP\background\efe\OP0207.bmp"  ;第２話ＯＰクレジット7
-stralias OP0208,"BMP\background\efe\OP0208.bmp"  ;第２話ＯＰクレジット8
+stralias OP0201,":b;BMP\background\efe\OP0201.png"  ;第２話ＯＰクレジット1
+stralias OP0202,":b;BMP\background\efe\OP0202.png"  ;第２話ＯＰクレジット2
+stralias OP0203,":b;BMP\background\efe\OP0203.png"  ;第２話ＯＰクレジット3
+stralias OP0204,":b;BMP\background\efe\OP0204.png"  ;第２話ＯＰクレジット4
+stralias OP0205,":b;BMP\background\efe\OP0205.png"  ;第２話ＯＰクレジット5
+stralias OP0206,":b;BMP\background\efe\OP0206.png"  ;第２話ＯＰクレジット6
+stralias OP0207,":b;BMP\background\efe\OP0207.png"  ;第２話ＯＰクレジット7
+stralias OP0208,":b;BMP\background\efe\OP0208.png"  ;第２話ＯＰクレジット8
 
 
-stralias end_1b,"BMP\background\efe\end_1b.bmp"  ;第１話ＥＤ最後の画面
+stralias end_1b,":b;BMP\background\efe\end_1b.png"  ;第１話ＥＤ最後の画面
 
-stralias ep2_text,"BMP\background\efe\ep2_text.bmp"  ;第２話最後の画面
+stralias ep2_text,":b;BMP\background\efe\ep2_text.png"  ;第２話最後の画面
 
 
-stralias Different_space_1a,"BMP\background\efe\Different_space_1a.bmp"  ;カケラ空間
-stralias Different_space_1b,"BMP\background\efe\Different_space_1b.bmp"  ;カケラ空間
-stralias Different_space_1c,"BMP\background\efe\Different_space_1c.bmp"  ;カケラ空間
+stralias Different_space_1a,":b;BMP\background\efe\Different_space_1a.png"  ;カケラ空間
+stralias Different_space_1b,":b;BMP\background\efe\Different_space_1b.png"  ;カケラ空間
+stralias Different_space_1c,":b;BMP\background\efe\Different_space_1c.png"  ;カケラ空間
 
-stralias Different_space_2a,"BMP\background\efe\Different_space_2a.bmp"  ;カケラ空間
-stralias Different_space_2b,"BMP\background\efe\Different_space_2b.bmp"  ;カケラ空間
-stralias Different_space_2c,"BMP\background\efe\Different_space_2c.bmp"  ;カケラ空間
-stralias Different_space_2d,"BMP\background\efe\Different_space_2d.bmp"  ;カケラ空間
+stralias Different_space_2a,":b;BMP\background\efe\Different_space_2a.png"  ;カケラ空間
+stralias Different_space_2b,":b;BMP\background\efe\Different_space_2b.png"  ;カケラ空間
+stralias Different_space_2c,":b;BMP\background\efe\Different_space_2c.png"  ;カケラ空間
+stralias Different_space_2d,":b;BMP\background\efe\Different_space_2d.png"  ;カケラ空間
 
-stralias Different_spiral_1a,"BMP\background\efe\Different_spiral_1a.bmp"  ;カケラ空間　渦巻き
-stralias Different_spiral_1b,"BMP\background\efe\Different_spiral_1b.bmp"  ;カケラ空間　渦巻き
+stralias Different_spiral_1a,":b;BMP\background\efe\Different_spiral_1a.png"  ;カケラ空間　渦巻き
+stralias Different_spiral_1b,":b;BMP\background\efe\Different_spiral_1b.png"  ;カケラ空間　渦巻き
 
-stralias Different_space_P1a,"BMP\background\efe\Different_space_P1a.bmp"  ;カケラ空間　通路
-stralias Different_space_P1b,"BMP\background\efe\Different_space_P1b.bmp"  ;カケラ空間　通路
-stralias Different_space_P1c,"BMP\background\efe\Different_space_P1c.bmp"  ;カケラ空間　通路
-stralias Different_space_P1d,"BMP\background\efe\Different_space_P1d.bmp"  ;カケラ空間　通路
+stralias Different_space_P1a,":b;BMP\background\efe\Different_space_P1a.png"  ;カケラ空間　通路
+stralias Different_space_P1b,":b;BMP\background\efe\Different_space_P1b.png"  ;カケラ空間　通路
+stralias Different_space_P1c,":b;BMP\background\efe\Different_space_P1c.png"  ;カケラ空間　通路
+stralias Different_space_P1d,":b;BMP\background\efe\Different_space_P1d.png"  ;カケラ空間　通路
 
 
 ;sanctuary
-stralias Wsan_1L,":c;BMP\background\efe\Wsan_1L.bmp"  ;魔女聖堂　ロングバージョン
-stralias Wsan_1a,"BMP\background\efe\Wsan_1a.bmp"  ;魔女聖堂　正面天井
-stralias Wsan_1b,"BMP\background\efe\Wsan_1b.bmp"  ;魔女聖堂　中空　三魔女席
-stralias Wsan_1c,"BMP\background\efe\Wsan_1c.bmp"  ;魔女聖堂　地面　人間席
+stralias Wsan_1L,":bc;BMP\background\efe\Wsan_1L.png"  ;魔女聖堂　ロングバージョン
+stralias Wsan_1a,":b;BMP\background\efe\Wsan_1a.png"  ;魔女聖堂　正面天井
+stralias Wsan_1b,":b;BMP\background\efe\Wsan_1b.png"  ;魔女聖堂　中空　三魔女席
+stralias Wsan_1c,":b;BMP\background\efe\Wsan_1c.png"  ;魔女聖堂　地面　人間席
 
-stralias Wsan_2L,":c;BMP\background\efe\Wsan_2L.bmp"  ;魔女聖堂　ロングバージョン
-stralias Wsan_2a,"BMP\background\efe\Wsan_2a.bmp"  ;魔女聖堂　裏面天井
-stralias Wsan_2b,"BMP\background\efe\Wsan_2b.bmp"  ;魔女聖堂　中空　三魔女席
-stralias Wsan_2c,"BMP\background\efe\Wsan_2c.bmp"  ;魔女聖堂　地面　人間席
+stralias Wsan_2L,":bc;BMP\background\efe\Wsan_2L.png"  ;魔女聖堂　ロングバージョン
+stralias Wsan_2a,":b;BMP\background\efe\Wsan_2a.png"  ;魔女聖堂　裏面天井
+stralias Wsan_2b,":b;BMP\background\efe\Wsan_2b.png"  ;魔女聖堂　中空　三魔女席
+stralias Wsan_2c,":b;BMP\background\efe\Wsan_2c.png"  ;魔女聖堂　地面　人間席
 
 ;cloisters
 
-stralias Wclo_1L,":c;BMP\background\efe\Wclo_1L.bmp"  ;魔女回廊　ロングバージョン
-stralias Wclo_1a,"BMP\background\efe\Wclo_1a.bmp"  ;魔女回廊　左
-stralias Wclo_1b,"BMP\background\efe\Wclo_1b.bmp"  ;魔女回廊　中央
-stralias Wclo_1c,"BMP\background\efe\Wclo_1c.bmp"  ;魔女回廊　右
+stralias Wclo_1L,":bc;BMP\background\efe\Wclo_1L.png"  ;魔女回廊　ロングバージョン
+stralias Wclo_1a,":b;BMP\background\efe\Wclo_1a.png"  ;魔女回廊　左
+stralias Wclo_1b,":b;BMP\background\efe\Wclo_1b.png"  ;魔女回廊　中央
+stralias Wclo_1c,":b;BMP\background\efe\Wclo_1c.png"  ;魔女回廊　右
 
-stralias Sakutaro1a,"BMP\background\efe\Sakutaro1a.bmp"  ;さくたろ　背景１
-stralias Sakutaro1b,"BMP\background\efe\Sakutaro1b.bmp"  ;さくたろ　背景２
+stralias Sakutaro1a,":b;BMP\background\efe\Sakutaro1a.png"  ;さくたろ　背景１
+stralias Sakutaro1b,":b;BMP\background\efe\Sakutaro1b.png"  ;さくたろ　背景２
 
-stralias Sakutaro2a,"BMP\background\efe\Sakutaro2a.bmp"  ;さくたろ　マフラーあり　背景１
-stralias Sakutaro2b,"BMP\background\efe\Sakutaro2b.bmp"  ;さくたろ　マフラーあり　背景２
+stralias Sakutaro2a,":b;BMP\background\efe\Sakutaro2a.png"  ;さくたろ　マフラーあり　背景１
+stralias Sakutaro2b,":b;BMP\background\efe\Sakutaro2b.png"  ;さくたろ　マフラーあり　背景２
 
-stralias GOA_memory1,":c;BMP\background\efe\GOA_memory1.bmp"  ;ヤギさんの思いで
-stralias GOA_memory2,":c;BMP\background\efe\GOA_memory2.bmp"  ;ヤギさんの思いで
-stralias GOA_memory3,":c;BMP\background\efe\GOA_memory3.bmp"  ;ヤギさんの思いで
-stralias GOA_memory4,":c;BMP\background\efe\GOA_memory4.bmp"  ;ヤギさんの思いで
+stralias GOA_memory1,":bc;BMP\background\efe\GOA_memory1.png"  ;ヤギさんの思いで
+stralias GOA_memory2,":bc;BMP\background\efe\GOA_memory2.png"  ;ヤギさんの思いで
+stralias GOA_memory3,":bc;BMP\background\efe\GOA_memory3.png"  ;ヤギさんの思いで
+stralias GOA_memory4,":bc;BMP\background\efe\GOA_memory4.png"  ;ヤギさんの思いで
 
-stralias Kakera_memory1,":c;BMP\background\efe\Kakera_memory1.bmp"  ;カケラの記憶
-stralias Kakera_memory2,":c;BMP\background\efe\Kakera_memory2.bmp"  ;カケラの記憶
-stralias Kakera_memory3,":c;BMP\background\efe\Kakera_memory3.bmp"  ;カケラの記憶
-stralias Kakera_memory4,":c;BMP\background\efe\Kakera_memory4.bmp"  ;カケラの記憶
-stralias Kakera_memory5,":c;BMP\background\efe\Kakera_memory5.bmp"  ;カケラの記憶
-stralias Kakera_memory6,":c;BMP\background\efe\Kakera_memory6.bmp"  ;カケラの記憶
-stralias Kakera_memory7,":c;BMP\background\efe\Kakera_memory7.bmp"  ;カケラの記憶
-stralias Kakera_memory8,":c;BMP\background\efe\Kakera_memory8.bmp"  ;カケラの記憶
-stralias Kakera_memory9,":c;BMP\background\efe\Kakera_memory9.bmp"  ;カケラの記憶
-stralias Kakera_memory10,":c;BMP\background\efe\Kakera_memory10.bmp"  ;カケラの記憶
-stralias Kakera_memory11,":c;BMP\background\efe\Kakera_memory11.bmp"  ;カケラの記憶
+stralias Kakera_memory1,":bc;BMP\background\efe\Kakera_memory1.png"  ;カケラの記憶
+stralias Kakera_memory2,":bc;BMP\background\efe\Kakera_memory2.png"  ;カケラの記憶
+stralias Kakera_memory3,":bc;BMP\background\efe\Kakera_memory3.png"  ;カケラの記憶
+stralias Kakera_memory4,":bc;BMP\background\efe\Kakera_memory4.png"  ;カケラの記憶
+stralias Kakera_memory5,":bc;BMP\background\efe\Kakera_memory5.png"  ;カケラの記憶
+stralias Kakera_memory6,":bc;BMP\background\efe\Kakera_memory6.png"  ;カケラの記憶
+stralias Kakera_memory7,":bc;BMP\background\efe\Kakera_memory7.png"  ;カケラの記憶
+stralias Kakera_memory8,":bc;BMP\background\efe\Kakera_memory8.png"  ;カケラの記憶
+stralias Kakera_memory9,":bc;BMP\background\efe\Kakera_memory9.png"  ;カケラの記憶
+stralias Kakera_memory10,":bc;BMP\background\efe\Kakera_memory10.png"  ;カケラの記憶
+stralias Kakera_memory11,":bc;BMP\background\efe\Kakera_memory11.png"  ;カケラの記憶
 
-stralias alibi0,"BMP\background\efe\alibi0.bmp"  ;ｅｐ５アリバイ一覧
-stralias alibi1,"BMP\background\efe\alibi1.bmp"  ;ｅｐ５アリバイ一覧
-stralias alibi2,"BMP\background\efe\alibi2.bmp"  ;ｅｐ５アリバイ一覧
-stralias alibi3,"BMP\background\efe\alibi3.bmp"  ;ｅｐ５アリバイ一覧
-stralias alibi4,"BMP\background\efe\alibi4.bmp"  ;ｅｐ５アリバイ一覧
-stralias alibi5,"BMP\background\efe\alibi5.bmp"  ;ｅｐ５アリバイ一覧
-stralias alibi6,"BMP\background\efe\alibi6.bmp"  ;ｅｐ５アリバイ一覧
-stralias alibi7,"BMP\background\efe\alibi7.bmp"  ;ｅｐ５アリバイ一覧
-stralias alibi8,"BMP\background\efe\alibi8.bmp"  ;ｅｐ５アリバイ一覧
-stralias alibi9,"BMP\background\efe\alibi9.bmp"  ;ｅｐ５アリバイ一覧
-stralias alibi10,"BMP\background\efe\alibi10.bmp"  ;ｅｐ５アリバイ一覧
-stralias alibi11,"BMP\background\efe\alibi11.bmp"  ;ｅｐ５アリバイ一覧
-stralias alibi12,"BMP\background\efe\alibi12.bmp"  ;ｅｐ５アリバイ一覧
-stralias alibi13,"BMP\background\efe\alibi13.bmp"  ;ｅｐ５アリバイ一覧
+stralias alibi0,":b;BMP\background\efe\alibi0.png"  ;ｅｐ５アリバイ一覧
+stralias alibi1,":b;BMP\background\efe\alibi1.png"  ;ｅｐ５アリバイ一覧
+stralias alibi2,":b;BMP\background\efe\alibi2.png"  ;ｅｐ５アリバイ一覧
+stralias alibi3,":b;BMP\background\efe\alibi3.png"  ;ｅｐ５アリバイ一覧
+stralias alibi4,":b;BMP\background\efe\alibi4.png"  ;ｅｐ５アリバイ一覧
+stralias alibi5,":b;BMP\background\efe\alibi5.png"  ;ｅｐ５アリバイ一覧
+stralias alibi6,":b;BMP\background\efe\alibi6.png"  ;ｅｐ５アリバイ一覧
+stralias alibi7,":b;BMP\background\efe\alibi7.png"  ;ｅｐ５アリバイ一覧
+stralias alibi8,":b;BMP\background\efe\alibi8.png"  ;ｅｐ５アリバイ一覧
+stralias alibi9,":b;BMP\background\efe\alibi9.png"  ;ｅｐ５アリバイ一覧
+stralias alibi10,":b;BMP\background\efe\alibi10.png"  ;ｅｐ５アリバイ一覧
+stralias alibi11,":b;BMP\background\efe\alibi11.png"  ;ｅｐ５アリバイ一覧
+stralias alibi12,":b;BMP\background\efe\alibi12.png"  ;ｅｐ５アリバイ一覧
+stralias alibi13,":b;BMP\background\efe\alibi13.png"  ;ｅｐ５アリバイ一覧
 
 stralias punch_l1,":b;BMP\background\efe\punch_l1.png"  ;パンチ残影１
 stralias punch_l2,":b;BMP\background\efe\punch_l2.png"  ;パンチ残影２
 stralias punch_l3,":b;BMP\background\efe\punch_l3.png"  ;パンチ残影３
 
-stralias punch_r1,"BMP\background\efe\punch_r1.bmp"  ;パンチ残影１
-stralias punch_r2,"BMP\background\efe\punch_r2.bmp"  ;パンチ残影２
-stralias punch_r3,"BMP\background\efe\punch_r3.bmp"  ;パンチ残影３
+stralias punch_r1,":b;BMP\background\efe\punch_r1.png"  ;パンチ残影１
+stralias punch_r2,":b;BMP\background\efe\punch_r2.png"  ;パンチ残影２
+stralias punch_r3,":b;BMP\background\efe\punch_r3.png"  ;パンチ残影３
 
-stralias Gun_1a,"BMP\background\efe\Gun_1a.bmp"  ;銃　全体図
-stralias Gun_2a,"BMP\background\efe\Gun_2a.bmp"  ;銃口（右）
-stralias Gun_2b,"BMP\background\efe\Gun_2b.bmp"  ;銃口(左）
+stralias Gun_1a,":b;BMP\background\efe\Gun_1a.png"  ;銃　全体図
+stralias Gun_2a,":b;BMP\background\efe\Gun_2a.png"  ;銃口（右）
+stralias Gun_2b,":b;BMP\background\efe\Gun_2b.png"  ;銃口(左）
 
-stralias cut_h,"BMP\background\efe\cut_h.bmp"  ;切断切り縦
-stralias cut_w,"BMP\background\efe\cut_w.bmp"  ;切断切り横
-stralias cut_x,"BMP\background\efe\cut_x.bmp"  ;切断切り十字
-stralias cut_efe1,":a;BMP\background\efe\cut_efe1.bmp"  ;切断切り右上
-stralias cut_efe2,":a;BMP\background\efe\cut_efe2.bmp"  ;切断切り左上
-stralias cut_efe3,":a;BMP\background\efe\cut_efe3.bmp"  ;切断切り右下
-stralias cut_efe4,":a;BMP\background\efe\cut_efe4.bmp"  ;切断切り左下
+stralias cut_h,":b;BMP\background\efe\cut_h.png"  ;切断切り縦
+stralias cut_w,":b;BMP\background\efe\cut_w.png"  ;切断切り横
+stralias cut_x,":b;BMP\background\efe\cut_x.png"  ;切断切り十字
+stralias cut_efe1,":ba;BMP\background\efe\cut_efe1.png"  ;切断切り右上
+stralias cut_efe2,":ba;BMP\background\efe\cut_efe2.png"  ;切断切り左上
+stralias cut_efe3,":ba;BMP\background\efe\cut_efe3.png"  ;切断切り右下
+stralias cut_efe4,":ba;BMP\background\efe\cut_efe4.png"  ;切断切り左下
 
-;stralias Different_space_2a,"BMP\background\efe\Different_space_2a.bmp"  ;カケラ空間
-;stralias Different_spiral_2a,"BMP\background\efe\Different_spiral_2a.bmp"  ;カケラ空間　渦巻き
+;stralias Different_space_2a,":b;BMP\background\efe\Different_space_2a.png"  ;カケラ空間
+;stralias Different_spiral_2a,":b;BMP\background\efe\Different_spiral_2a.png"  ;カケラ空間　渦巻き
 
-stralias staff_1a,"BMP\background\staff\staff_1a.bmp"  ;スタッフルーム
-stralias staff_1b,"BMP\background\staff\staff_1b.bmp"  ;
+stralias staff_1a,":b;BMP\background\staff\staff_1a.png"  ;スタッフルーム
+stralias staff_1b,":b;BMP\background\staff\staff_1b.png"  ;
 
-stralias ENJ_mirai01,"BMP\background\efe\ENJ_mirai01.bmp"  ;聖ルチーア学園、と出るタイトル
+stralias ENJ_mirai01,":b;BMP\background\efe\ENJ_mirai01.png"  ;聖ルチーア学園、と出るタイトル
 
 roff
 
